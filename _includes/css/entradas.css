@@ -20,22 +20,24 @@
   justify-content: center;
 }
 
-.destinos-home h2{
+.destinos-home h2,
+.tours-home h2{
   position: relative;
 }
 
-.destinos-home h2::after{
-  content: 'destinos';
+.destinos-home h2 .destinos-background,
+.tours-home h2 .tours-background{
   position: absolute;
   top: 0;
   left: 0;
-  width: 40vw;
-  text-transform: uppercase;
-  color: var(--complemento2);
-  font-family: var(--fuenteTexto);
-  font-size: 3em;
-  white-space: pre;
-  z-index: -2;
+  z-index: -1;
+  max-width: 120%;
+ color: var(--complemento2);
+ font-family: var(--fuenteTexto);
+ font-size: 3.5em;
+ overflow-wrap: break-word;
+ line-height: 0.7em;
+ opacity: 0.7;
 }
 
 .destinos-home picture,

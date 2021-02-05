@@ -1,4 +1,7 @@
 <section class="tours-home">
+  <h2>¿Y cuál es tu plan de viaje por Colombia?
+    <span class="tours-background">Tours</span>
+  </h2>
   {% for galeria in site.posts limit:{{include.limite}} %}
   {% if galeria.tours-principal == 'si' %}
   <picture class="foto">
