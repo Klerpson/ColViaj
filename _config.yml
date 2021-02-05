@@ -1,5 +1,4 @@
-baseurl: ''
-# url: 'https://colombiaviajera.com/'
+baseurl: '/ColViaj'
 name: Agencia de viajes Colombia Viajera
 author: Julian Franco
 email: lacolombiaviajera@gmail.com

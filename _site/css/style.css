@@ -275,15 +275,15 @@ header {
 }
 
 .heroslider .slider .slide.slide1 {
-  background: url(/img/slider/desierto-tatacoa-huila.webp);
+  background: url(../img/slider/desierto-tatacoa-huila.webp);
 }
 
 .heroslider .slider .slide.slide2 {
-  background: url(/img/slider/parque-arqueologico-san-agustin.webp);
+  background: url(../img/slider/parque-arqueologico-san-agustin.webp);
 }
 
 .heroslider .slider .slide.slide3 {
-  background: url(/img/slider/macizo-colombiano-parque-purace.webp);
+  background: url(../img/slider/macizo-colombiano-parque-purace.webp);
 }
 
 .heroslider .slider .slide.slide1,
@@ -319,15 +319,15 @@ header {
   }
 
   .heroslider .slider .slide.slide1 {
-    background: url(/img/slider/desierto-tatacoa-huila-vertical.webp);
+    background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
   }
 
   .heroslider .slider .slide.slide2 {
-    background: url(/img/slider/parque-arqueologico-san-agustin-vertical.webp);
+    background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
   }
 
   .heroslider .slider .slide.slide3 {
-    background: url(/img/slider/macizo-colombiano-purace-vertical.webp);
+    background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
   }
 
   .heroslider .slider .slide.slide1,
