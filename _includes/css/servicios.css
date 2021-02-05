@@ -1,0 +1,26 @@
+.servicios {
+  display: grid;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 80vw));
+  grid-gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  color: var(--accion);
+}
+
+.servicios ul{
+  margin: 0;
+  padding: 0;
+}
+
+.servicios li{
+  position: relative;
+}
+
+.servicios li svg{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}

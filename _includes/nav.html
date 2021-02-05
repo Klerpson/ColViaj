@@ -1,0 +1,29 @@
+<div class="menu-toggle"></div>
+<nav class="menu">
+  <ul>
+    {% if page.url == "/" %}
+    <li class="active">
+      {% else %}
+    <li>
+      {% endif %}
+      <a href="{{ site.baseurl }}/">Inicio</a>
+    </li>
+
+    {% if page.url contains "blog" %}
+    <li class="active">
+      {% else %}
+    <li>
+      {% endif %}
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+    </li>
+
+    {% if page.url contains "contacto" %}
+    <li class="active">
+      {% else %}
+    <li>
+      {% endif %}
+      <a href="{{ site.baseurl }}/contacto/">Contacto</a>
+    </li>
+  </ul>
+</nav>
+<div class="clearfix"></div>

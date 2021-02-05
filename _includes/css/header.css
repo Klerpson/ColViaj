@@ -1,0 +1,28 @@
+/**** Header ****/
+header {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto 20px;
+  padding: 10px;
+  background: var(--blanco);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+/**** Logo ****/
+.logo img{
+  height: 4em;
+  box-sizing: border-box;
+  float: left;
+}
+
+
+@media (max-width: 1200px){
+  header{
+    margin: 0 20px 20px;
+  }
+
+  .logo img{
+    height: 3em;
+  }
+}

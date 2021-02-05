@@ -1,0 +1,14 @@
+<main class="destinos-home">
+  <h2>Los mejores destinos de Colombia para tus vacaciones
+  </h2>
+  {% for galeria in site.posts limit:{{include.limite}} %}
+  {% if galeria.destinos-principal == 'si' %}
+  <picture class="foto">
+    <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
+    <img src="{{ site.baseurl }}/{{ galeria.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
+      <a>{{ galeria.title }}</a>
+  </picture>
+  {% endif %}
+  {% endfor %}
+  <a href="#" class="botones wow fadeInRightBig">Buscas tu destino favorito</a>
+</main>

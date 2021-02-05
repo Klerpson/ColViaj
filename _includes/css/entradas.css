@@ -1,0 +1,96 @@
+.destinos-home{
+  position: relative;
+  margin-top: 75vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
+  grid-gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.tours-home{
+  position: relative;
+  margin-top: 10vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
+  grid-gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.destinos-home h2{
+  position: relative;
+}
+
+.destinos-home h2::after{
+  content: 'destinos';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40vw;
+  text-transform: uppercase;
+  color: var(--complemento2);
+  font-family: var(--fuenteTexto);
+  font-size: 3em;
+  white-space: pre;
+  z-index: -2;
+}
+
+.destinos-home picture,
+.tours-home picture {
+  position: relative;
+  content-visibility: auto;
+}
+
+.destinos-home picture a,
+.tours-home picture a {
+  color: var(--blanco);
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  font-weight: 800;
+  font-family: var(--fuenteTexto);
+  font-size: 1.2em;
+  text-decoration: underline;
+  text-decoration-color: var(--complemento1);
+  text-decoration-thickness: 0.2rem;
+  transition: 0.5s;
+}
+
+.destinos-home picture a:hover,
+.tours-home picture a:hover {
+  text-decoration-color: var(--principal);
+}
+
+.destinos-home picture img,
+.tours-home picture img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+@media screen and (min-width: 600px) {
+  .destinos-home {
+    margin-top: 700px;
+  }
+
+  .tours-home{
+    margin-top: 5vh;
+  }
+}
+  @media screen and (min-width: 768px) {
+  .destinos-home,
+  .tours-home {
+    grid-template-columns: repeat(auto-fit, minmax(auto, 25vw));
+    grid-gap: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .destinos-home,
+  .tours-home {
+    grid-template-columns: repeat(auto-fit, minmax(auto, 20vw));
+    grid-gap: 2em;
+  }
+}

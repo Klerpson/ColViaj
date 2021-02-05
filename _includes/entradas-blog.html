@@ -1,0 +1,20 @@
+<section class="magazine">
+  <h2>Lo último de San Agustín Huila</h2>
+  <p>En esta sección podrás estar al día con los consejos, novedades y buenas noticias de San Agustín.</p>
+  <hr class="separador">
+  {% for post in site.tags.blog limit='7'%}
+  <article>
+    <picture class="foto">
+      <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
+      <img src="{{ site.baseurl }}/{{ galeria.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
+      <a>{{ galeria.title }}</a>
+    </picture>
+    <h3>
+      {{ post.title }}
+    </h3>
+    {{ post.excerpt }}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Leer más</a>
+  </article>
+  <hr class="separador">
+  {% endfor %}
+</section>

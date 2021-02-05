@@ -1,0 +1,13 @@
+baseurl: ''
+url: 'https://colombiaviajera.com/'
+name: Agencia de viajes Colombia Viajera
+author: Julian Franco
+email: lacolombiaviajera@gmail.com
+# yotube: https://www.youtube.com/channel/UCiXWpAvZiAxwv7uzBGBagwQ?view_as=subscriber
+facebook: https://facebook.com/lacolombiaviajera
+instagram: https://instagram.com/lacolombiaviajera
+whatsapp: https://wa.me/3209673925
+
+permalink: /:categories/:title/
+
+markdown: kramdown

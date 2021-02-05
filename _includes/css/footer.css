@@ -1,0 +1,24 @@
+footer {
+  display: grid;
+  background-color: var(--complemento1);
+  padding: 1em;
+}
+
+footer .julian {
+  color: var(--accion);
+  text-decoration: underline;
+  text-decoration-color: var(--accion);
+  text-decoration-thickness: 0.2rem;
+  font-family: var(--fuenteTitulos);
+}
+
+footer a{
+  color: var(--blanco);
+  font-family: var(--fuenteTexto);
+}
+
+footer p {
+  color: var(--blanco);
+  margin: 0 0 1em 0;
+}
+
