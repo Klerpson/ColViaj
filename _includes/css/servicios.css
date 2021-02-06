@@ -1,34 +1,61 @@
 .servicios {
-  display: grid;
   width: 100vw;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 80vw));
-  grid-gap: 1rem;
-  align-items: center;
-  justify-content: center;
   color: var(--secundario);
   font-family: var(--fuenteTexto);
 }
 
-.servicios ul{
+.servicios > p {
+  font-size: 1.5em;
+  margin: 0 2em;
+  text-align: center;
+}
+
+.servicios ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40vw, auto));
+  grid-gap: 2em;
+  align-items: center;
+  justify-content: center;
   margin: 0;
   padding: 0;
 }
 
-.servicios li{
+.servicios li {
   position: relative;
-  text-justify: distribute;
+  padding: 0 2em;
 }
 
-.servicios li svg{
+.servicios li svg {
   position: absolute;
   top: 0;
-  left: -40px;
+  right: 0;
   height: 100%;
-  opacity: 0.5;
+  opacity: 0.6;
   overflow: hidden;
+  z-index: -1;
 }
 
-.servicios li h3{
+.servicios li h3 {
   font-family: var(--fuenteTitulos);
+  color: var(--accion);
+  font-size: 2em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+@media screen and (min-width: 767px){
+  .servicios > p{
+    margin: 2em 0;
+  }
+
+  .servicios li {
+    padding: 0;
+    max-width: 40vw;
+  }
+}
+
+@media screen and (min-width: 992px){
+  .servicios li svg {
+    height: 120%;
+  }
 }

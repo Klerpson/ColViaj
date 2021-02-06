@@ -1,5 +1,6 @@
-<div class="parallax">
-  <img src="{{site.baseurl}}/img/testimonios/{{ include.front }}" alt="">
-  <img src="{{site.baseurl}}/img/testimonios/{{ include.background }}" alt="">
-  <p id="texto">{{ include.texto }}</p>
+<div class="parallax" style="background-image: url('img/testimonios/{{include.background}}');">
+  <div>
+    <img src="{{site.baseurl}}/img/testimonios/{{ include.front }}" alt="">
+    <q>{{ include.texto }}</q>
+  </div>
 </div>

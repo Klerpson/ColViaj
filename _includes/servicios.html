@@ -1,11 +1,12 @@
 <section class="servicios">
-  <h2>En tu viaje conseguirás...</h2>
+  <p>En tu viaje por nuestro territorio colombiano conseguirás</p>
   <ul>
     {% for servicio in site.data.servicios %}
-    <li class="{{servicio.clase}}">
-      <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="address-card" class="svg-inline--fa fa-address-card fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="rgba(133, 189, 166, 0.5)" d="{{servicio.icono}}"></path></svg>
+    <hr class="separador">
+    <li class="wow pulse">
       <h3>{{servicio.titulo}}</h3>
       <p>{{servicio.parrafo}}</p>
+      <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="address-card" class="svg-inline--fa fa-address-card fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="rgba(230, 175, 49, 0.9)" d="{{servicio.icono}}"></path></svg>
     </li>
     {% endfor %}
   </ul>

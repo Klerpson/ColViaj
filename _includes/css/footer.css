@@ -1,24 +1,83 @@
 footer {
-  display: grid;
-  background-color: var(--complemento1);
-  padding: 1em;
-}
-
-footer .julian {
+  position: relative;
+  width: 100vw;
   color: var(--accion);
-  text-decoration: underline;
-  text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.2rem;
-  font-family: var(--fuenteTitulos);
+  margin: 4em 0;
 }
 
-footer a{
-  color: var(--blanco);
+footer img {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+footer ul {
+  display: grid;
+  grid-gap: 1.4em;
+  text-align: right;
+  padding: 0;
+  margin: 0 0 3em 0;
+}
+
+footer li a {
+  color: var(--accion);
   font-family: var(--fuenteTexto);
+  transition: 0.5s;
+  font-weight: 700;
+  font-size: 2em;
+  padding-right: 1em;
+}
+
+footer li a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 0.2rem;
+  -webkit-text-decoration-color: var(--principal);
+          text-decoration-color: var(--principal);
 }
 
 footer p {
-  color: var(--blanco);
-  margin: 0 0 1em 0;
+  margin: 0;
+  padding: 0.7em 1em;
 }
 
+footer .julian {
+  color: var(--complemento1);
+  font-family: var(--fuenteTexto);
+  font-weight: 700;
+  text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
+          text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+  transition: 0.5s;
+}
+
+footer .julian:hover {
+  color: var(--principal);
+  -webkit-text-decoration-color: var(--complemento1);
+          text-decoration-color: var(--complemento1);
+}
+
+@media screen and (min-width: 767px) {
+  footer ul {
+    grid-gap: 2em;
+    padding-right: 2em;
+  }
+
+  footer li a {
+    font-size: 3em;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  footer {
+    width: 70vw;
+    margin: 5em auto;
+  }
+}

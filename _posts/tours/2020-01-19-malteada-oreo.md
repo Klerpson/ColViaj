@@ -6,9 +6,7 @@ keywords: malteada San Agustín, malteadas San Agustín, malteadas en San Agust�
 tags: [Malteada, Óreo, Milkshake]
 category: Malteadas
 precio: 8900
-hero: img/malteada-oreo/malteada-oreo.png
-herow: img/malteada-oreo/malteada-oreo.webp
-src: img/malteada-oreo/malteada-oreo.png
+img: img/malteada-oreo/malteada-oreo.jpg
 webp: img/malteada-oreo/malteada-oreo.webp
 alt: Malteada óreo de GurCoff en San Agustín Huila
 published: no

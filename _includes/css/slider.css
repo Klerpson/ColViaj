@@ -1,15 +1,16 @@
 .hero {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100vw;
+  height: 85vh;
 }
 
 .heroslider {
-  position: relative;
+  position: absolute;
   overflow: hidden;
   width: 100%;
-  height: 80vh;
+  height: 100%;
 }
 
 .heroslider .slider {
@@ -60,32 +61,33 @@
   width: 20%;
   height: 100%;
   float: left;
+  transition: 0.5s;
 }
 
 .heroslider .slider .slide .caption {
   position: absolute;
-  bottom: 60px;
-  left: 60px;
-  max-width: 30vw;
-  padding: 30px;
-  background: rgba(62, 136, 91, 0.5);
+  bottom: 1rem;
+  left: 1rem;
+  max-width: 40vw;
+  padding: 1rem;
+  background: rgba(62, 136, 91, 0.7);
   box-sizing: border-box;
+  border-radius: 5px;
   transition: 0.5s;
+  font-size: 0.8em;
 }
 
 .heroslider .slider .slide .caption h2 {
   padding: 0;
   margin: 0;
   color: var(--blanco);
-  font-size: 2em;
   transition: 0.5s;
 }
 
 .heroslider .slider .slide .caption p {
-  margin: 20px 0;
+  margin: 0.7em 0;
   padding: 0;
   color: var(--blanco);
-  font-size: 1.2em;
   transition: 0.5s;
   font-family: var(--fuenteTexto);
 }
@@ -93,30 +95,32 @@
 .heroslider .slider .slide .caption a {
   margin: 0;
   padding: 0;
-  font-family: var(--fuenteGraficas);
   float: right;
-  background-color: var(--blanco);
-  padding: 1em;
-  border-radius: 4px;
+  color: var(--blanco);
+  font-family: var(--fuenteGraficas);
+  font-size: 1.2em;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
   transition: 0.5s;
-  color: var(--accion);
 }
 
 .heroslider .slider .slide .caption a:hover {
-  background-color: var(--principal);
-  color: var(--blanco);
+  color: var(--principal);
+  text-decoration-color: var(--blanco);
 }
 
 .heroslider .slider .slide.slide1 {
-  background: url(../img/slider/desierto-tatacoa-huila.webp);
+  background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
 }
 
 .heroslider .slider .slide.slide2 {
-  background: url(../img/slider/parque-arqueologico-san-agustin.webp);
+  background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
 }
 
 .heroslider .slider .slide.slide3 {
-  background: url(../img/slider/macizo-colombiano-parque-purace.webp);
+  background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
 }
 
 .heroslider .slider .slide.slide1,
@@ -127,47 +131,46 @@
   background-attachment: fixed;
 }
 
-@media screen and (min-width: 600px) {
-  .hero {
-    height: 700px;
+@media (min-width: 600px) {
+  .heroslider .slider .slide .caption {
+    bottom: 2rem;
+    left: 2rem;
+    max-width: 40vw;
+    padding: 2rem;
+    font-size: 1em;
   }
 }
 
-@media (max-width: 768px) {
-  .heroslider .slider .slide .caption {
-    bottom: 20px;
-    left: 20px;
-    right: 20px;
-    padding: 20px;
-    max-width: 70vw;
+@media (min-width: 767px) {
+  .hero {
+    height: 60vh;
   }
+}
 
-  .heroslider .slider .slide .caption h2 {
-    margin: 0 0 10px;
-    font-size: 1.5em;
-  }
+@media (min-width: 992px) {
 
-  .heroslider .slider .slide .caption p {
-    font-size: 1em;
+  .hero {
+    height: 70vh;
   }
 
   .heroslider .slider .slide.slide1 {
-    background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
+    background: url(../img/slider/desierto-tatacoa-huila.webp);
   }
 
   .heroslider .slider .slide.slide2 {
-    background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
+    background: url(../img/slider/parque-arqueologico-san-agustin.webp);
   }
 
   .heroslider .slider .slide.slide3 {
-    background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
+    background: url(../img/slider/macizo-colombiano-parque-purace.webp);
   }
 
   .heroslider .slider .slide.slide1,
   .heroslider .slider .slide.slide2,
   .heroslider .slider .slide.slide3 {
     background-size: cover;
-    background-position: center;
+    background-repeat: no-repeat;
+    background-position: bottom;
     background-attachment: fixed;
   }
 }

@@ -4,7 +4,7 @@
   /* CSS HEX */
   --principal: rgb(230, 175, 49);
   --secundario: rgb(47, 75, 38);
-  --accion: #3e885bff;
+  --accion: rgb(62, 136, 91);
   --complemento1: rgb(133, 189, 166);
   --complemento2: rgb(190, 220, 254);
 
@@ -23,39 +23,6 @@
   --fuenteTexto: 'Open Sans', sans-serif;
   --fuenteGraficas: 'Open Sans', cursive;
 }
-
-header,
-.destinos-home picture img {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}
-
-.botones{
-  margin: 1em;
-  display: inline-block;
-  float: right;
-  font-family: var(--fuenteGraficas);
-  font-weight: 700;
-  transition: 0.5s;
-  color: var(--accion);
-  text-decoration: underline;
-  text-decoration-color: var(--complemento1);
-  text-decoration-thickness: 0.2rem;
-}
-
-.botones:hover {
-  text-decoration-color: var(--principal);
-}
-
-@media screen and (min-width: 592px) {
-
-}
-
-@media screen and (min-width: 768px) {
-}
-
-@media only screen and (min-width: 992px) {
-}
-
 nav{
   float: right;
 }
@@ -68,10 +35,11 @@ nav ul{
 
 nav ul li a{
   display: block;
-  margin: 10px 0;
+  margin: 0;
   padding: 10px 20px;
   color: var(--accion);
   text-decoration-color: var(--principal);
+  font-size: 1.5em;
 }
 
 nav ul li.active,
@@ -107,11 +75,6 @@ nav ul li:hover{
     color: var(--principal);
   }
 
-  .menu-toggle span{
-    display: inline-block;
-    line-height: 40px;
-  }
-
   .menu-toggle:before{
     content: '\f0c9';
     font-family: fontAwesome;
@@ -135,48 +98,56 @@ nav ul li:hover{
     margin: 0;
   }
 }
-
 /**** Header ****/
 header {
-  position: relative;
-  max-width: 1200px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 70vw;
   margin: 0 auto 20px;
-  padding: 10px;
+  padding: 0.5em;
   background: var(--blanco);
   box-sizing: border-box;
   border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 /**** Logo ****/
-.logo img{
-  height: 4em;
+.logo img {
+  height: 2.5em;
+  margin: 0;
   box-sizing: border-box;
   float: left;
 }
 
 
-@media (max-width: 1200px){
-  header{
+@media (min-width: 800px) {
+  .logo img {
+    height: 4em;
+    padding: 10px 20px;
+
+  }
+}
+
+@media (min-width: 1200px) {
+  header {
     margin: 0 20px 20px;
   }
 
-  .logo img{
-    height: 3em;
-  }
 }
-
 .hero {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100vw;
+  height: 85vh;
 }
 
 .heroslider {
-  position: relative;
+  position: absolute;
   overflow: hidden;
   width: 100%;
-  height: 80vh;
+  height: 100%;
 }
 
 .heroslider .slider {
@@ -227,32 +198,33 @@ header {
   width: 20%;
   height: 100%;
   float: left;
+  transition: 0.5s;
 }
 
 .heroslider .slider .slide .caption {
   position: absolute;
-  bottom: 60px;
-  left: 60px;
-  max-width: 30vw;
-  padding: 30px;
-  background: rgba(62, 136, 91, 0.5);
+  bottom: 1rem;
+  left: 1rem;
+  max-width: 40vw;
+  padding: 1rem;
+  background: rgba(62, 136, 91, 0.7);
   box-sizing: border-box;
+  border-radius: 5px;
   transition: 0.5s;
+  font-size: 0.8em;
 }
 
 .heroslider .slider .slide .caption h2 {
   padding: 0;
   margin: 0;
   color: var(--blanco);
-  font-size: 2em;
   transition: 0.5s;
 }
 
 .heroslider .slider .slide .caption p {
-  margin: 20px 0;
+  margin: 0.7em 0;
   padding: 0;
   color: var(--blanco);
-  font-size: 1.2em;
   transition: 0.5s;
   font-family: var(--fuenteTexto);
 }
@@ -260,30 +232,32 @@ header {
 .heroslider .slider .slide .caption a {
   margin: 0;
   padding: 0;
-  font-family: var(--fuenteGraficas);
   float: right;
-  background-color: var(--blanco);
-  padding: 1em;
-  border-radius: 4px;
+  color: var(--blanco);
+  font-family: var(--fuenteGraficas);
+  font-size: 1.2em;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
   transition: 0.5s;
-  color: var(--accion);
 }
 
 .heroslider .slider .slide .caption a:hover {
-  background-color: var(--principal);
-  color: var(--blanco);
+  color: var(--principal);
+  text-decoration-color: var(--blanco);
 }
 
 .heroslider .slider .slide.slide1 {
-  background: url(../img/slider/desierto-tatacoa-huila.webp);
+  background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
 }
 
 .heroslider .slider .slide.slide2 {
-  background: url(../img/slider/parque-arqueologico-san-agustin.webp);
+  background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
 }
 
 .heroslider .slider .slide.slide3 {
-  background: url(../img/slider/macizo-colombiano-parque-purace.webp);
+  background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
 }
 
 .heroslider .slider .slide.slide1,
@@ -294,51 +268,49 @@ header {
   background-attachment: fixed;
 }
 
-@media screen and (min-width: 600px) {
-  .hero {
-    height: 700px;
+@media (min-width: 600px) {
+  .heroslider .slider .slide .caption {
+    bottom: 2rem;
+    left: 2rem;
+    max-width: 40vw;
+    padding: 2rem;
+    font-size: 1em;
   }
 }
 
-@media (max-width: 768px) {
-  .heroslider .slider .slide .caption {
-    bottom: 20px;
-    left: 20px;
-    right: 20px;
-    padding: 20px;
-    max-width: 70vw;
+@media (min-width: 767px) {
+  .hero {
+    height: 60vh;
   }
+}
 
-  .heroslider .slider .slide .caption h2 {
-    margin: 0 0 10px;
-    font-size: 1.5em;
-  }
+@media (min-width: 992px) {
 
-  .heroslider .slider .slide .caption p {
-    font-size: 1em;
+  .hero {
+    height: 70vh;
   }
 
   .heroslider .slider .slide.slide1 {
-    background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
+    background: url(../img/slider/desierto-tatacoa-huila.webp);
   }
 
   .heroslider .slider .slide.slide2 {
-    background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
+    background: url(../img/slider/parque-arqueologico-san-agustin.webp);
   }
 
   .heroslider .slider .slide.slide3 {
-    background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
+    background: url(../img/slider/macizo-colombiano-parque-purace.webp);
   }
 
   .heroslider .slider .slide.slide1,
   .heroslider .slider .slide.slide2,
   .heroslider .slider .slide.slide3 {
     background-size: cover;
-    background-position: center;
+    background-repeat: no-repeat;
+    background-position: bottom;
     background-attachment: fixed;
   }
 }
-
 .sticky-container {
   padding: 0px;
   margin: 0px;
@@ -409,10 +381,8 @@ header {
 .rel hover {
    opacity: 1;
 }
-
-.destinos-home{
+.destinos-home {
   position: relative;
-  margin-top: 75vh;
   width: 100vw;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
@@ -421,9 +391,8 @@ header {
   justify-content: center;
 }
 
-.tours-home{
+.tours-home {
   position: relative;
-  margin-top: 10vh;
   width: 100vw;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
@@ -433,40 +402,46 @@ header {
 }
 
 .destinos-home h2,
-.tours-home h2{
+.tours-home h2 {
   position: relative;
+  margin: 0;
 }
 
 .destinos-home h2 .destinos-background,
-.tours-home h2 .tours-background{
+.tours-home h2 .tours-background {
   position: absolute;
   top: 0;
   left: 0;
   z-index: -1;
-  max-width: 120%;
- color: var(--complemento2);
- font-family: var(--fuenteTexto);
- font-size: 3.5em;
- overflow-wrap: break-word;
- line-height: 0.7em;
- opacity: 0.7;
+  max-width: 115%;
+  color: var(--complemento2);
+  font-family: var(--fuenteTexto);
+  font-size: 3.5em;
+  overflow-wrap: break-word;
+  line-height: 0.7em;
+  opacity: 0.7;
 }
 
 .destinos-home picture,
 .tours-home picture {
   position: relative;
   content-visibility: auto;
+  transition: all .2s ease-in-out;
+}
+
+.destinos-home picture:hover,
+.tours-home picture:hover {
+  transform: scale(1.1);
 }
 
 .destinos-home picture a,
 .tours-home picture a {
   color: var(--blanco);
   position: absolute;
-  bottom: 10px;
-  left: 20px;
-  font-weight: 800;
+  bottom: 15px;
+  left: 10px;
+  font-weight: 700;
   font-family: var(--fuenteTexto);
-  font-size: 1.2em;
   text-decoration: underline;
   text-decoration-color: var(--complemento1);
   text-decoration-thickness: 0.2rem;
@@ -482,102 +457,146 @@ header {
 .tours-home picture img {
   width: 100%;
   border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
 }
 
 @media screen and (min-width: 600px) {
-  .destinos-home {
-    margin-top: 700px;
-  }
 
-  .tours-home{
-    margin-top: 5vh;
-  }
-}
-  @media screen and (min-width: 768px) {
-  .destinos-home,
-  .tours-home {
-    grid-template-columns: repeat(auto-fit, minmax(auto, 25vw));
-    grid-gap: 1.5rem;
-  }
-}
-
-@media only screen and (min-width: 992px) {
   .destinos-home,
   .tours-home {
     grid-template-columns: repeat(auto-fit, minmax(auto, 20vw));
+    grid-gap: 1.5rem;
+  }
+
+}
+
+@media screen and (min-width: 800px) {
+
+  .destinos-home h2,
+  .tours-home h2 {
+    grid-row-start: span 2;
+    font-size: 2em;
+  }
+
+}
+
+@media screen and (min-width: 992px) {
+
+  .destinos-home,
+  .tours-home {
+    width: 70vw;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 12vw));
     grid-gap: 2em;
+  }
+
+  .destinos-home h2 .destinos-background,
+  .tours-home h2 .tours-background {
+    left: -0.7em;
+    max-width: 150%;
+    font-size: 4em;
   }
 }
 
+@media screen and (min-width: 1280px) {
+
+  .destinos-home h2,
+  .tours-home h2 {
+    font-size: 2.5em;
+  }
+}
+.botones{
+  position: relative;
+  margin: 2em 0;
+  width: 100%;
+  font-family: var(--fuenteGraficas);
+  font-weight: 700;
+  font-size: 1.2em;
+  transition: 0.5s;
+  color: var(--accion);
+  text-decoration: underline;
+  text-decoration-color: var(--complemento1);
+  text-decoration-thickness: 0.2rem;
+  grid-column: span 2;
+}
+
+.botones:hover {
+  text-decoration-color: var(--principal);
+}
+
+.botones::before {
+  content: 'Clic';
+  position: absolute;
+  top: -0.5em;
+  left: 0;
+  color: rgba(230, 175, 49, 0.5);
+  font-size: 5rem;
+  letter-spacing: 5px;
+  z-index: -1;
+}
 .servicios {
-  display: grid;
   width: 100vw;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 80vw));
-  grid-gap: 1rem;
-  align-items: center;
-  justify-content: center;
   color: var(--secundario);
   font-family: var(--fuenteTexto);
 }
 
-.servicios ul{
+.servicios > p {
+  font-size: 1.5em;
+  margin: 0 2em;
+  text-align: center;
+}
+
+.servicios ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40vw, auto));
+  grid-gap: 2em;
+  align-items: center;
+  justify-content: center;
   margin: 0;
   padding: 0;
 }
 
-.servicios li{
+.servicios li {
   position: relative;
-  text-justify: distribute;
+  padding: 0 2em;
 }
 
-.servicios li svg{
+.servicios li svg {
   position: absolute;
   top: 0;
-  left: -40px;
+  right: 0;
   height: 100%;
-  opacity: 0.5;
+  opacity: 0.6;
   overflow: hidden;
+  z-index: -1;
 }
 
-.servicios li h3{
+.servicios li h3 {
   font-family: var(--fuenteTitulos);
+  color: var(--accion);
+  font-size: 2em;
+  text-transform: uppercase;
+  margin: 0;
 }
 
-hr .separador {
-  line-height: 1em;
-  position: relative;
-  outline: 0;
-  border: 0;
-  color: black;
-  text-align: center;
-  height: 1.5em;
-  opacity: .5;
-
-  &:before {
-    content: '';
-    background: linear-gradient(to right, transparent, #818078, transparent);
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 100%;
-    height: 1px;
+@media screen and (min-width: 767px){
+  .servicios > p{
+    margin: 2em 0;
   }
 
-  &:after {
-    content: attr(data-content);
-    position: relative;
-    display: inline-block;
-    color: black;
-
-    padding: 0 .5em;
-    line-height: 1.5em;
-    color: #818078;
-    background-color: #fcfcfa;
+  .servicios li {
+    padding: 0;
+    max-width: 40vw;
   }
 }
 
+@media screen and (min-width: 992px){
+  .servicios li svg {
+    height: 120%;
+  }
+}
 hr.separador {
+  margin: 0;
   line-height: 1em;
   position: relative;
   outline: 0;
@@ -608,38 +627,32 @@ hr.separador:after {
   color: #818078;
   background-color: #fcfcfa;
 }
-
 .parallax {
   position: relative;
-  margin: 2em 0;
-  height: 50vh;
   width: 100vw;
+  height: 30vh;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: hidden;
 }
 
-.parallax img {
-  max-height: 100%;
-}
-.parallax :first-child{
-  position: sticky;
-  top: 0;
+.parallax div {
+  position: absolute;
   left: 0;
-  width: 100%;
-  object-fit: cover;
-  background-position: center;
-}
-
-.parallax :nth-child(2){
-  position: absolute;
   bottom: 0;
-  right: 0;
-  /* width: 100%; */
+  width: 100%;
+  display: grid;
+  grid-gap: 1em;
+  grid-template-columns: 1fr 2fr;
 }
 
-.parallax p {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  padding: 1rem;
+.parallax div img {
+  max-width: 100%;
+}
+
+.parallax q {
   color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-weight: 700;
@@ -647,34 +660,107 @@ hr.separador:after {
   text-decoration: underline;
   text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;
+  margin-bottom: 1em;
 }
 
+@media screen and (min-width: 599px) {
+  .parallax q {
+    font-size: 1.5em;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .parallax {
+    height: 40vw;
+  }
+
+  .parallax q {
+    font-size: 2em;
+  }
+}
 footer {
-  display: grid;
-  background-color: var(--complemento1);
-  padding: 1em;
-}
-
-footer .julian {
+  position: relative;
+  width: 100vw;
   color: var(--accion);
-  text-decoration: underline;
-  text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.2rem;
-  font-family: var(--fuenteTitulos);
+  margin: 4em 0;
 }
 
-footer a{
-  color: var(--blanco);
+footer img {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+footer ul {
+  display: grid;
+  grid-gap: 1.4em;
+  text-align: right;
+  padding: 0;
+  margin: 0 0 3em 0;
+}
+
+footer li a {
+  color: var(--accion);
   font-family: var(--fuenteTexto);
+  transition: 0.5s;
+  font-weight: 700;
+  font-size: 2em;
+  padding-right: 1em;
+}
+
+footer li a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 0.2rem;
+  -webkit-text-decoration-color: var(--principal);
+          text-decoration-color: var(--principal);
 }
 
 footer p {
-  color: var(--blanco);
-  margin: 0 0 1em 0;
+  margin: 0;
+  padding: 0.7em 1em;
 }
 
+footer .julian {
+  color: var(--complemento1);
+  font-family: var(--fuenteTexto);
+  font-weight: 700;
+  text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
+          text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+  transition: 0.5s;
+}
 
+footer .julian:hover {
+  color: var(--principal);
+  -webkit-text-decoration-color: var(--complemento1);
+          text-decoration-color: var(--complemento1);
+}
 
+@media screen and (min-width: 767px) {
+  footer ul {
+    grid-gap: 2em;
+    padding-right: 2em;
+  }
+
+  footer li a {
+    font-size: 3em;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  footer {
+    width: 70vw;
+    margin: 5em auto;
+  }
+}
  .publicidad {
    position: relative;
    border: solid 1px var(--principal);
@@ -736,7 +822,6 @@ footer p {
      padding: 1em;
    }
  }
-
 main.contacto {
   position: relative;
 }
@@ -801,11 +886,9 @@ figure.img-contacto-2 {
   }
 }
 
-
 @media screen and (min-width: 768px) {
 
 }
-
 .share-box a {
   display: inline-block;
   box-shadow: 0 0 1px #777;

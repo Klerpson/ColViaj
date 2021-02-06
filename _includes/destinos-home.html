@@ -1,5 +1,5 @@
 <main class="destinos-home">
-  <h2>Los mejores destinos de Colombia para tus vacaciones
+  <h2 class="wow bounceInRight">Los mejores destinos de Colombia para tu próximo viaje
     <span class="destinos-background">Destinos</span>
   </h2>
   {% for galeria in site.posts limit:{{include.limite}} %}
@@ -7,9 +7,9 @@
   <picture class="foto">
     <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
     <img src="{{ site.baseurl }}/{{ galeria.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
-      <a>{{ galeria.title }}</a>
+    <a>{{ galeria.title }}</a>
   </picture>
   {% endif %}
   {% endfor %}
-  <a href="#" class="botones wow fadeInRightBig">Buscas tu destino favorito</a>
+  <a href="#" class="botones wow fadeInRightBig">¿Buscas tu destino favorito?</a>
 </main>

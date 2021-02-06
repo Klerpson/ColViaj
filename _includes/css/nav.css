@@ -10,10 +10,11 @@ nav ul{
 
 nav ul li a{
   display: block;
-  margin: 10px 0;
+  margin: 0;
   padding: 10px 20px;
   color: var(--accion);
   text-decoration-color: var(--principal);
+  font-size: 1.5em;
 }
 
 nav ul li.active,
@@ -47,11 +48,6 @@ nav ul li:hover{
     cursor: pointer;
     text-align: center;
     color: var(--principal);
-  }
-
-  .menu-toggle span{
-    display: inline-block;
-    line-height: 40px;
   }
 
   .menu-toggle:before{
