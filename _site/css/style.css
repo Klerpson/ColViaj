@@ -685,7 +685,7 @@ hr.separador:after {
 
 
 .parallax img {
-  max-width: 30vw;
+  max-height: calc(100% - 25%);
 }
 
 .parallax q {
