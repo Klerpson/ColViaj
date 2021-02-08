@@ -37,6 +37,7 @@ nav ul li a{
   display: block;
   margin: 0;
   padding: 10px 20px;
+  font-family: var(--fuenteTitulos);
   color: var(--accion);
   text-decoration-color: var(--principal);
   font-size: 1.5em;
@@ -139,7 +140,6 @@ header {
   position: relative;
   top: 0;
   left: 0;
-  width: 100vw;
   height: 85vh;
 }
 
@@ -535,21 +535,20 @@ header {
   z-index: -1;
 }
 .servicios {
-  width: 100vw;
   color: var(--secundario);
-  font-family: var(--fuenteTexto);
+  padding: 0;
 }
 
-.servicios > p {
+.servicios>p {
+  font-family: var(--fuenteTexto);
   font-size: 1.5em;
-  margin: 0 2em;
+  margin: 3em 0;
   text-align: center;
 }
 
 .servicios ul {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(40vw, auto));
-  grid-gap: 2em;
+  grid-gap: 1em;
   align-items: center;
   justify-content: center;
   margin: 0;
@@ -558,17 +557,13 @@ header {
 
 .servicios li {
   position: relative;
-  padding: 0 2em;
+  padding: 3em 2em;
 }
 
-.servicios li svg {
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 100%;
-  opacity: 0.6;
-  overflow: hidden;
-  z-index: -1;
+.servicios li:nth-child(1),
+.servicios li:nth-child(3) {
+  background-color: var(--complemento2);
+  z-index: -2;
 }
 
 .servicios li h3 {
@@ -579,24 +574,53 @@ header {
   margin: 0;
 }
 
-@media screen and (min-width: 767px){
-  .servicios > p{
-    margin: 2em 0;
-  }
-
-  .servicios li {
-    padding: 0;
-    max-width: 40vw;
-  }
+.servicios li svg {
+  position: absolute;
+  top: calc(100% - 75%);
+  right: 0;
+  height: 60%;
+  opacity: 0.6;
+  overflow: hidden;
+  z-index: -1;
 }
 
-@media screen and (min-width: 992px){
-  .servicios li svg {
-    height: 120%;
+@media screen and (min-width: 767px) {
+  .servicios ul {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0;
+    align-items: stretch;
+    box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.4);
+  }
+
+  .servicios li:nth-child(1),
+  .servicios li:nth-child(4) {
+    background-color: var(--complemento2);
+    z-index: -2;
+  }
+
+  .servicios li:nth-child(3) {
+    background-color: var(--blanco);
+  }
+
+}
+
+@media screen and (min-width: 992px) {
+  .servicios ul {
+    grid-template-columns: repeat(4, 1fr);
+}
+.servicios li:nth-child(1),
+  .servicios li:nth-child(3) {
+    background-color: var(--complemento2);
+    z-index: -2;
+  }
+
+  .servicios li:nth-child(4) {
+    background-color: var(--blanco);
   }
 }
 hr.separador {
   margin: 0;
+  width: 100%;
   line-height: 1em;
   position: relative;
   outline: 0;
@@ -629,38 +653,49 @@ hr.separador:after {
 }
 .parallax {
   position: relative;
-  width: 100vw;
-  height: 30vh;
-  background-repeat: no-repeat;
-  background-position: center bottom;
-  background-attachment: fixed;
-  background-size: cover;
+  height: 35vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
 }
 
-.parallax div {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  display: grid;
-  grid-gap: 1em;
-  grid-template-columns: 1fr 2fr;
+.testimonio1 {
+  background-image: url('../img/testimonios/testimonio1b-vertical.webp');
 }
 
-.parallax div img {
-  max-width: 100%;
+.testimonio2 {
+  background-image: url('../img/testimonios/testimonio2b-vertical.webp');
+}
+
+.testimonio3 {
+  background-image: url('../img/testimonios/testimonio3b-vertical.webp');
+}
+
+.testimonio1,
+.testimonio2,
+.testimonio3 {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+}
+
+
+.parallax img {
+  max-width: 30vw;
 }
 
 .parallax q {
   color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-weight: 700;
-  text-shadow: 0 0 5px rgba(47, 75, 38, 0.5);
   text-decoration: underline;
   text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;
-  margin-bottom: 1em;
+  max-width: 50vw;
 }
 
 @media screen and (min-width: 599px) {
@@ -671,11 +706,32 @@ hr.separador:after {
 
 @media screen and (min-width: 992px) {
   .parallax {
-    height: 40vw;
+    height: 50vh;
   }
-
   .parallax q {
     font-size: 2em;
+  }
+
+  .testimonio1 {
+    background-image: url('../img/testimonios/testimonio1b.webp');
+  }
+
+  .testimonio2 {
+    background-image: url('../img/testimonios/testimonio2b.webp');
+  }
+
+  .testimonio3 {
+    background-image: url('../img/testimonios/testimonio3b.webp');
+  }
+
+  .testimonio1,
+  .testimonio2,
+  .testimonio3 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
   }
 }
 footer {
