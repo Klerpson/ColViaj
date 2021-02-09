@@ -3,7 +3,7 @@ layout: articulo
 title: San Agustín Huila
 description: Un viaje a un impresionante pasado lleno de arte y cultura en las montañas del Huila
 keywords: san agustin huila, san agustin, parque arqueologico san agustin, sanagustin
-category: Prueba
+category: Naturaleza
 tags: [Destinos, San Agustín, Huila, Arqueología, Naturaleza]
 img: img/destinos/2020-05-09/san-agustin-parque.jpg
 webp: img/destinos/2020-05-09/san-agustin-parque.webp

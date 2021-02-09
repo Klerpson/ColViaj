@@ -40,7 +40,7 @@ nav ul li a{
   font-family: var(--fuenteTitulos);
   color: var(--accion);
   text-decoration-color: var(--principal);
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 nav ul li.active,
@@ -54,10 +54,6 @@ nav ul li:hover{
 
 .clearfix{
   clear: both;
-}
-
-.menu-toggle span{
-  display: none;
 }
 
 @media (max-width: 768px){
@@ -111,6 +107,7 @@ header {
   box-sizing: border-box;
   border-radius: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 2;
 }
 
 /**** Logo ****/
@@ -464,7 +461,7 @@ header {
 /* Pagina de filtros de destinos y tours */
 #search-container {
   position: relative;
-  padding: 3em 2em;
+  padding: 5rem 2rem 0;
   color: var(--accion);
 
 }
@@ -472,11 +469,27 @@ header {
 #search-container p {
   font-family: var(--fuenteTexto);
   font-size: 1.5rem;
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 #search-container input {
   border-color: var(--principal);
+}
+
+.post-categories{
+  font-family: var(--fuenteTitulos);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 2rem;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.post-categories a{
+  color: var(--blanco);
+  padding: 0.7rem;
+  background-color: var(--accion);
+
 }
 
 @media screen and (min-width: 600px) {

@@ -3,53 +3,32 @@ layout: buscador
 title: Catálogo de Colombia Viajera
 description: Encuentra el destino de tu próximo viaje por Colombia
 ---
-{% include header.html %}
-{% include redes.html %}
+
 <section id="search-container">
   <p>Encuentra el destino que estás buscando:</p>
   <input type="text" id="search-input" placeholder="Busca tu lugar favorito..."
     style="font-family: var(--fuenteTexto);">
   <ul id="results-container"></ul>
+  <p>O selecciona la carácterística que más te gusta de tus vacaciones:</h2>
 </section>
-
 
 <div class="post-categories">
   {% for post in site.posts %}
-    {% assign tags = post.tags %}
+    {% assign categories = post.categories %}
   {% else %}
-    {% assign tags = page.tags %}
+    {% assign categories = page.categories %}
   {% endfor %}
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/#{{tag|slugize}}">{{tag}}</a>
+  {% for category in categories %}
+  <a href="#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
 
-
-<section class="destinos">
-  {% for tag in site.tags %}
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}"> {{ category_name }}</h3>
-  <div class="categoria">
-    {% for post in site.categories[category_name] %}
-    <article class="wow fadeInRightBig">
-      <picture class="foto">
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
-        <img src="{{ site.baseurl }}/{{ post.src }}" class="wow flipInY" alt="{{ post.alt }}">
-        <a>{{ post.title }}</a>
-      </picture>
-    </article>
-    {% endfor %}
-  </div>
-  {% endfor %}
-</section>
-
-
-<h2>Destinos de <span>Colombia Viajera</span> </h2>
 <section class="destinos-home">
+  <h2>Destinos de <span>Colombia Viajera</span> </h2>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}"> {{ category_name }}</h3>
+  <h3 id="#{{category_name}}"> {{ category_name }}</h3>
   <div class="categoria">
     {% for post in site.categories[category_name] %}
     <article class="wow fadeInRightBig">

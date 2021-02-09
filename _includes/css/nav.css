@@ -15,7 +15,7 @@ nav ul li a{
   font-family: var(--fuenteTitulos);
   color: var(--accion);
   text-decoration-color: var(--principal);
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 nav ul li.active,
@@ -29,10 +29,6 @@ nav ul li:hover{
 
 .clearfix{
   clear: both;
-}
-
-.menu-toggle span{
-  display: none;
 }
 
 @media (max-width: 768px){
