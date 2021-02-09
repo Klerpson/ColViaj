@@ -26,7 +26,7 @@
 
 .servicios li:nth-child(1),
 .servicios li:nth-child(3) {
-  background-color: var(--complemento2);
+  background-color: var(--principal);
   z-index: -2;
 }
 
@@ -40,7 +40,7 @@
 
 .servicios li svg {
   position: absolute;
-  top: calc(100% - 75%);
+  top: calc(100% - 60%);
   right: 0;
   height: 60%;
   opacity: 0.6;
@@ -58,7 +58,7 @@
 
   .servicios li:nth-child(1),
   .servicios li:nth-child(4) {
-    background-color: var(--complemento2);
+    background-color: var(--principal);
     z-index: -2;
   }
 
@@ -74,7 +74,7 @@
 }
 .servicios li:nth-child(1),
   .servicios li:nth-child(3) {
-    background-color: var(--complemento2);
+    background-color: var(--principal);
     z-index: -2;
   }
 

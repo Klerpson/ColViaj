@@ -2,12 +2,12 @@
   <h2>Lo último de San Agustín Huila</h2>
   <p>En esta sección podrás estar al día con los consejos, novedades y buenas noticias de San Agustín.</p>
   <hr class="separador">
-  {% for post in site.tags.blog limit='7'%}
+  {% for post in site.tags.blog  %}
   <article>
     <picture class="foto">
-      <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
-      <img src="{{ site.baseurl }}/{{ galeria.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
-      <a>{{ galeria.title }}</a>
+      <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+      <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
+      <a>{{ post.title }}</a>
     </picture>
     <h3>
       {{ post.title }}

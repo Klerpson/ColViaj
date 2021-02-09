@@ -2,9 +2,18 @@
   
     {
 
+      "title"    : "probando articulo",
+      "url"      : "/ColViaj/arqueologia/probando/",
+      "category" : "Experiencias en: Arqueologia",
+      "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
+
+    } ,
+  
+    {
+
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin-huila-copy/",
-      "category" : "",
+      "url"      : "/ColViaj/prueba/san-agustin-huila-copy/",
+      "category" : "Experiencias en: Prueba",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -12,8 +21,8 @@
     {
 
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin-huila-copy-5/",
-      "category" : "",
+      "url"      : "/ColViaj/arqueologia/san-agustin-huila-copy-7/",
+      "category" : "Experiencias en: Arqueologia",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -21,8 +30,8 @@
     {
 
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin-huila-copy-4/",
-      "category" : "",
+      "url"      : "/ColViaj/arqueologia/san-agustin-huila-copy-6/",
+      "category" : "Experiencias en: Arqueologia",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -30,8 +39,8 @@
     {
 
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin-huila-copy-3/",
-      "category" : "",
+      "url"      : "/ColViaj/arqueologia/san-agustin-huila-copy-8/",
+      "category" : "Experiencias en: Arqueologia",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -39,8 +48,26 @@
     {
 
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin-huila-copy-2/",
-      "category" : "",
+      "url"      : "/ColViaj/arqueologia/san-agustin-huila-copy-5/",
+      "category" : "Experiencias en: Arqueologia",
+      "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
+
+    } ,
+  
+    {
+
+      "title"    : "San Agustín Huila",
+      "url"      : "/ColViaj/prueba/san-agustin-huila-copy-4/",
+      "category" : "Experiencias en: Prueba",
+      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
+
+    } ,
+  
+    {
+
+      "title"    : "San Agustín Huila",
+      "url"      : "/ColViaj/prueba/san-agustin-huila-copy-3/",
+      "category" : "Experiencias en: Prueba",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } 

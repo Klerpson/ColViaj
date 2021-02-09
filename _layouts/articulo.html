@@ -2,11 +2,10 @@
 layout: default
 ---
 {% include header.html %}
-</section>
+{% include share.html %}
 <main class="articulo">
   {{ content }}
 </main>
-{% include share.html %}
 
 <section class="rect">
 
@@ -32,12 +31,12 @@ layout: default
   <a href="{{ site.baseurl }}{{ post.url }}">
     <div class="rel">
       <picture>
-        {% if post.hero %}
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.herow }}">
-        <img src="{{ site.baseurl }}/{{ post.hero }}" class="wow slideInDown" alt="{{ post.alt }}">
+        {% if post.webp %}
+        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow slideInLeft" alt="{{ post.alt }}">
         {% endif %}
       </picture>
-      <h5 class="icon-hand-o-right"> {{ post.title }}</h5>
+      <h5> {{ post.title }}</h5>
     </div>
   </a>
   {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -51,8 +50,12 @@ layout: default
 </section>
 <section>
   {% include comentarios.html %}
+
+  {% assign sorted-posts = site.posts | where: "category","{{page.categories}}" %}
+  {% for post in sorted-posts limit: 5 %}
+  <li>{{post.title}} - Probando que funcione</li>
+  {% endfor %}
 </section>
-<!-- Initialize Swiper -->
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0"
   nonce="PPHQs9rM"></script>

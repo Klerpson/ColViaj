@@ -422,20 +422,21 @@ header {
   opacity: 0.7;
 }
 
-.destinos-home picture,
-.tours-home picture {
+.destinos-home>a,
+.tours-home>a {
   position: relative;
-  content-visibility: auto;
+  display: inline-block;
   transition: all .2s ease-in-out;
 }
 
-.destinos-home picture:hover,
-.tours-home picture:hover {
+.destinos-home>a:hover,
+.tours-home>a:hover {
   transform: scale(1.1);
 }
 
-.destinos-home picture a,
-.tours-home picture a {
+
+.destinos-home a h4,
+.tours-home a h4 {
   color: var(--blanco);
   position: absolute;
   bottom: 15px;
@@ -448,16 +449,34 @@ header {
   transition: 0.5s;
 }
 
-.destinos-home picture a:hover,
-.tours-home picture a:hover {
+.destinos-home a h4:hover,
+.tours-home a h4:hover {
   text-decoration-color: var(--principal);
 }
 
-.destinos-home picture img,
-.tours-home picture img {
+.destinos-home a picture img,
+.tours-home a picture img {
   width: 100%;
   border-radius: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+/* Pagina de filtros de destinos y tours */
+#search-container {
+  position: relative;
+  padding: 3em 2em;
+  color: var(--accion);
+
+}
+
+#search-container p {
+  font-family: var(--fuenteTexto);
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+#search-container input {
+  border-color: var(--principal);
 }
 
 @media screen and (min-width: 600px) {
@@ -562,7 +581,7 @@ header {
 
 .servicios li:nth-child(1),
 .servicios li:nth-child(3) {
-  background-color: var(--complemento2);
+  background-color: var(--principal);
   z-index: -2;
 }
 
@@ -576,7 +595,7 @@ header {
 
 .servicios li svg {
   position: absolute;
-  top: calc(100% - 75%);
+  top: calc(100% - 60%);
   right: 0;
   height: 60%;
   opacity: 0.6;
@@ -594,7 +613,7 @@ header {
 
   .servicios li:nth-child(1),
   .servicios li:nth-child(4) {
-    background-color: var(--complemento2);
+    background-color: var(--principal);
     z-index: -2;
   }
 
@@ -610,7 +629,7 @@ header {
 }
 .servicios li:nth-child(1),
   .servicios li:nth-child(3) {
-    background-color: var(--complemento2);
+    background-color: var(--principal);
     z-index: -2;
   }
 

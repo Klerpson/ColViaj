@@ -1,27 +1,12 @@
----
-layout: articulo
-title: San Agustín Huila
-description: Un viaje a un impresionante pasado lleno de arte y cultura en las montañas del Huila
-keywords: san agustin huila, san agustin, parque arqueologico san agustin, sanagustin
-tags: [Destinos, San Agustín, Huila, Arqueología, Naturaleza]
-img: img/destinos/2020-05-09/san-agustin-parque.jpg
-webp: img/destinos/2020-05-09/san-agustin-parque.webp
-alt: Parque arqueológico de San Agustín Huila
-autor: Colombia Viajera
-copyright: Julian Andres Franco Bedoya
-destinos-principal: si
-tours-principal: si
-excerpt_separator: <!-- excerpt -->
----
-Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.
+I"�<p>Te comparto lo que hemos hecho para <strong>ayudar a nuestro negocio a sobrevivir</strong> la crisis económica.</p>
 
 <!-- excerpt -->
-
+<!-- 
 ## 3 años intentando
 
 Abril de 2017. Desde esta fecha llevaba intentando más de 9 proyectos web diferentes. Todo a raíz del desastre en la ciudad de Mocoa que mi esposa y yo enfrentamos en la fecha ya mencionada.
 
-![Desastre en Mocoa 2017]({{ site.baseurl }}/img/magazine/2020-05-09/mocoa.jpg "Avalancha en Mocoa de Abril de 2017")
+![Desastre en Mocoa 2017](/ColViaj/img/magazine/2020-05-09/mocoa.jpg "Avalancha en Mocoa de Abril de 2017")
 
 Cuando nuestra situación económica estaba en su momento más difícil, mi Dios Jehová y mi familia fueron mi auxilio.
 
@@ -33,7 +18,7 @@ Sí. Ninguno nos esperamos este receso económico. Y menos nosotros. Llevábamos
 
 Por fin las cosas salían mucho mejor. Y al pueblito de San Agustín, que ya sentimos como nuestro pueblito querido, le encantaba nuestra heladería. **Así que, ¿ahora qué haríamos?**
 
-![San Agustín sin turistas]({{ site.baseurl }}/img/magazine/2020-05-09/san-agustin.jpg "Calle de San Agustín Huila")
+![San Agustín sin turistas](/ColViaj/img/magazine/2020-05-09/san-agustin.jpg "Calle de San Agustín Huila")
 
 ## "Si quieres un cambio, cambia lo que haces"
 
@@ -49,4 +34,5 @@ El conferenciante explicaba que cuando uno quiere hacer cambios en su vida, y si
 
 ## "¡Hagamos cambios!"
 
-Después de pasarme un mes estudiando, intenté aplicar lo aprendido para ayudar a mi comunidad. Pero no fue posible. Muchos factores no favorecieron otro proyecto más.
+Después de pasarme un mes estudiando, intenté aplicar lo aprendido para ayudar a mi comunidad. Pero no fue posible. Muchos factores no favorecieron otro proyecto más. -->
+:ET
