@@ -209,6 +209,6 @@ li{list-style: none;
 
 @media only screen and (min-width: 1080px){
   main, section{
-    padding: 7em 0;
+    padding: 5em 0;
   }
 }

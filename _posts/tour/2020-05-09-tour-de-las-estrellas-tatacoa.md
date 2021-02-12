@@ -14,4 +14,5 @@ excerpt_separator: <!-- excerpt -->
 ---
 # En construcción
 
+> de ricardo que le gusta el helado con chocolate - Ricardo
 <!-- excerpt -->
