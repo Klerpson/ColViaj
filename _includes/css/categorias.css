@@ -1,0 +1,24 @@
+.categorias {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.categorias h2{
+  text-align: center;
+}
+
+.categorias div {
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+  grid-gap: 0.5em;
+  background-color: var(--accion);
+  padding: 0.7em 1em;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.categorias div a {
+  color: var(--blanco);
+  font-family: var(--fuenteTexto);
+}

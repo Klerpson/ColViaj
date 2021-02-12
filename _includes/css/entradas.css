@@ -1,6 +1,9 @@
-.destinos-home {
-  position: relative;
-  width: 100vw;
+.destinos {
+  display: grid;
+  grid-gap: 7em;
+}
+
+.destinos div {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
   grid-gap: 1rem;
@@ -8,52 +11,39 @@
   justify-content: center;
 }
 
-.tours-home {
+.destinos div h2 {
   position: relative;
-  width: 100vw;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
-  grid-gap: 1rem;
-  align-items: center;
-  justify-content: center;
-}
-
-.destinos-home h2,
-.tours-home h2 {
-  position: relative;
-  margin: 0;
-}
-
-.destinos-home h2 .destinos-background,
-.tours-home h2 .tours-background {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  max-width: 115%;
-  color: var(--complemento2);
-  font-family: var(--fuenteTexto);
-  font-size: 3.5em;
+  font-size: 3rem;
+  font-weight: 800;
+  white-space: pre-line;
   overflow-wrap: break-word;
-  line-height: 0.7em;
-  opacity: 0.7;
 }
 
-.destinos-home>a,
-.tours-home>a {
+.destinos div h2 .destinos-background {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  max-width: 110%;
+  color: rgba(52, 209, 191, 0.3);
+  font-family: var(--fuenteTexto);
+  font-size: 1.5em;
+  text-transform: uppercase;
+  overflow-wrap: break-word;
+  line-height: 0.755em;
+}
+
+.destinos div > a {
   position: relative;
   display: inline-block;
   transition: all .2s ease-in-out;
 }
 
-.destinos-home>a:hover,
-.tours-home>a:hover {
+.destinos div > a:hover {
   transform: scale(1.1);
 }
 
-
-.destinos-home a h4,
-.tours-home a h4 {
+.destinos div a h4{
   color: var(--blanco);
   position: absolute;
   bottom: 15px;
@@ -61,35 +51,29 @@
   font-weight: 700;
   font-family: var(--fuenteTexto);
   text-decoration: underline;
-  text-decoration-color: var(--complemento1);
+  text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;
   transition: 0.5s;
 }
 
-.destinos-home a h4:hover,
-.tours-home a h4:hover {
-  text-decoration-color: var(--principal);
+.destinos div a h4:hover {
+  text-decoration-color: var(--secundario);
+  font-size: 1.1rem;
 }
 
-.destinos-home a picture img,
-.tours-home a picture img {
+.destinos div a picture img {
   width: 100%;
   border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 /* Pagina de filtros de destinos y tours */
 #search-container {
   position: relative;
-  padding: 5rem 2rem 0;
+  padding: 0 2rem;
   color: var(--accion);
-
-}
-
-#search-container p {
-  font-family: var(--fuenteTexto);
-  font-size: 1.5rem;
-  margin: 2rem 0;
+  display: flex;
+  flex-direction: column;
 }
 
 #search-container input {
@@ -114,7 +98,7 @@
 
 @media screen and (min-width: 600px) {
 
-  .destinos-home,
+  .destinos div,
   .tours-home {
     grid-template-columns: repeat(auto-fit, minmax(auto, 20vw));
     grid-gap: 1.5rem;
@@ -124,7 +108,7 @@
 
 @media screen and (min-width: 800px) {
 
-  .destinos-home h2,
+  .destinos div h2,
   .tours-home h2 {
     grid-row-start: span 2;
     font-size: 2em;
@@ -134,7 +118,7 @@
 
 @media screen and (min-width: 992px) {
 
-  .destinos-home,
+  .destinos div,
   .tours-home {
     width: 70vw;
     margin: 0 auto;
@@ -142,7 +126,7 @@
     grid-gap: 2em;
   }
 
-  .destinos-home h2 .destinos-background,
+  .destinos div h2 .destinos-background,
   .tours-home h2 .tours-background {
     left: -0.7em;
     max-width: 150%;
@@ -152,7 +136,7 @@
 
 @media screen and (min-width: 1280px) {
 
-  .destinos-home h2,
+  .destinos div h2,
   .tours-home h2 {
     font-size: 2.5em;
   }

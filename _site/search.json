@@ -2,18 +2,18 @@
   
     {
 
-      "title"    : "probando articulo",
-      "url"      : "/ColViaj/prueba/probando/",
-      "category" : "Experiencias en: Prueba",
+      "title"    : "San Juan de Pasto",
+      "url"      : "/ColViaj/naturaleza/pasto/",
+      "category" : "Experiencias en: naturaleza",
       "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
 
     } ,
   
     {
 
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/naturaleza/san-agustin-huila-copy/",
-      "category" : "Experiencias en: Naturaleza",
+      "title"    : "Estrellas en el Desierto de la Tatacoa",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-de-las-estrellas-tatacoa/",
+      "category" : "Experiencias en: cultura and naturaleza",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -21,54 +21,45 @@
     {
 
       "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/arqueolog%C3%ADa/san-agustin-huila-copy-7/",
-      "category" : "Experiencias en: Arqueología",
+      "url"      : "/ColViaj/naturaleza/cultura/san-agustin-historia-ansestral/",
+      "category" : "Experiencias en: naturaleza and cultura",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
   
     {
 
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/arqueolog%C3%ADa/san-agustin-huila-copy-6/",
-      "category" : "Experiencias en: Arqueología",
+      "title"    : "Putumayo Flora y Fauna",
+      "url"      : "/ColViaj/naturaleza/putumayo-flora-y-fauna/",
+      "category" : "Experiencias en: naturaleza",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
   
     {
 
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/naturaleza/san-agustin-huila-copy-8/",
-      "category" : "Experiencias en: Naturaleza",
+      "title"    : "Tumaco",
+      "url"      : "/ColViaj/sol%20y%20playa/parque-de-la-cana/",
+      "category" : "Experiencias en: sol y playa",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
   
     {
 
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/arquelog%C3%ADa/san-agustin-huila-copy-5/",
-      "category" : "Experiencias en: Arquelogía",
+      "title"    : "Lago Calima Darién",
+      "url"      : "/ColViaj/naturaleza/lago-calima/",
+      "category" : "Experiencias en: naturaleza",
+      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
+
+    } ,
+  
+    {
+
+      "title"    : "Cartagena de Indias",
+      "url"      : "/ColViaj/sol%20y%20playa/cartagena/",
+      "category" : "Experiencias en: sol y playa",
       "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
-
-    } ,
-  
-    {
-
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/prueba/san-agustin-huila-copy-4/",
-      "category" : "Experiencias en: Prueba",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/prueba/san-agustin-huila-copy-3/",
-      "category" : "Experiencias en: Prueba",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } 
   

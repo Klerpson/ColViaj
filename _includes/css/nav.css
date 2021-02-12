@@ -13,9 +13,9 @@ nav ul li a{
   margin: 0;
   padding: 10px 20px;
   font-family: var(--fuenteTitulos);
-  color: var(--accion);
+  color: var(--secundario);
   text-decoration-color: var(--principal);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 nav ul li.active,

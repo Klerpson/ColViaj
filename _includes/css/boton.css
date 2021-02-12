@@ -3,18 +3,18 @@
   margin: 2em 0;
   width: 100%;
   font-family: var(--fuenteGraficas);
-  font-weight: 700;
+  font-weight: 900;
+  font-style: italic;
   font-size: 1.2em;
   transition: 0.5s;
   color: var(--accion);
-  text-decoration: underline;
-  text-decoration-color: var(--complemento1);
-  text-decoration-thickness: 0.2rem;
   grid-column: span 2;
 }
 
 .botones:hover {
+  text-decoration: underline;
   text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
 }
 
 .botones::before {
@@ -22,7 +22,7 @@
   position: absolute;
   top: -0.5em;
   left: 0;
-  color: rgba(230, 175, 49, 0.5);
+  color: rgba(255, 204, 0, 0.5);
   font-size: 5rem;
   letter-spacing: 5px;
   z-index: -1;

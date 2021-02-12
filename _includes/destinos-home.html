@@ -1,17 +1,19 @@
-<main class="destinos-home">
-  <h2 class="wow bounceInRight">Los mejores destinos de Colombia para tu próximo viaje
-    <span class="destinos-background">Destinos</span>
-  </h2>
-  {% for galeria in site.posts limit:{{include.limite}} %}
-  {% if galeria.destinos-principal == 'si' %}
-  <a href="{{site.baseurl}}{{ galeria.url }}" target="_blank">
-    <picture class="foto">
-      <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
-      <img src="{{ site.baseurl }}/{{ galeria.img }}" class="wow flipInY" alt="{{ galeria.alt }}">
-      <h4>{{ galeria.title }}</h4>
-    </picture>
-  </a>
-  {% endif %}
+<section class="destinos">
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div>
+    <h2 class="wow bounceInRight" id="{{ category_name}}">{{ category_name | capitalize}}
+      <span class="destinos-background">{{ category_name }}</span>
+    </h2>
+    {% for post in site.categories[category_name] %}
+    <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+      <picture class="foto">
+        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
+        <h4>{{ post.title }}</h4>
+      </picture>
+    </a>
+    {% endfor %}
+  </div>
   {% endfor %}
-  <a href="#" class="botones wow fadeInRightBig">¿Buscas tu destino favorito?</a>
-</main>
+</section>

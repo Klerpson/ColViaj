@@ -1,0 +1,9 @@
+<section class="categorias">
+<h2>¿Cómo es tu destino colombiano favorito?</h2>
+  {% for category in site.categories %}
+  <div class="wow fadeInUpBig">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ site.baseurl }}/#{{ category_name }}">{{ category_name | capitalize }}</a>
+  </div>
+  {% endfor %}
+</section>

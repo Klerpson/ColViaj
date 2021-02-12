@@ -2,11 +2,11 @@
 
   /*** COLORES ***/
   /* CSS HEX */
-  --principal: rgb(230, 175, 49);
-  --secundario: rgb(47, 75, 38);
-  --accion: rgb(62, 136, 91);
-  --complemento1: rgb(133, 189, 166);
-  --complemento2: rgb(190, 220, 254);
+  --principal: rgb(255, 204, 0) ;
+  --secundario: #358600;
+  --accion: rgb(248, 94, 0);
+  --complemento1: #157145;
+  --complemento2: rgb(52, 209, 191);
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
@@ -19,7 +19,7 @@
   --blancoRGBA: rgba(255, 255, 255, 0.8);
 
   /*** FUENTES ***/
-  --fuenteTitulos: 'Sriracha', serif;
+  --fuenteTitulos: 'Lato', sans-serif;
   --fuenteTexto: 'Open Sans', sans-serif;
-  --fuenteGraficas: 'Open Sans', cursive;
+  --fuenteGraficas: 'Lato', cursive;
 }
