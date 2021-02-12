@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>/naturaleza/pasto/</loc>
+        <loc>/cultura/pasto/</loc>
     </url>
     
     <url>
-        <loc>/cultura/naturaleza/tour-de-las-estrellas-tatacoa/</loc>
+        <loc>/sol%20y%20playa/tumaco-narino/</loc>
     </url>
     
     <url>
-        <loc>/naturaleza/cultura/san-agustin-historia-ansestral/</loc>
+        <loc>/naturaleza/tour-de-las-estrellas-tatacoa/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/san-agustin/</loc>
     </url>
     
     <url>
         <loc>/naturaleza/putumayo-flora-y-fauna/</loc>
-    </url>
-    
-    <url>
-        <loc>/sol%20y%20playa/parque-de-la-cana/</loc>
     </url>
     
     <url>
@@ -27,6 +27,10 @@
     
     <url>
         <loc>/sol%20y%20playa/cartagena/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/necropolis-tierradentro/</loc>
     </url>
     
 

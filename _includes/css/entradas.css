@@ -5,7 +5,7 @@
 
 .destinos div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
+  grid-template-columns: repeat(auto-fill, minmax(auto, 40vw));
   grid-gap: 1rem;
   align-items: center;
   justify-content: center;
@@ -17,6 +17,7 @@
   font-weight: 800;
   white-space: pre-line;
   overflow-wrap: break-word;
+  text-transform: capitalize;
 }
 
 .destinos div h2 .destinos-background {
@@ -24,7 +25,7 @@
   left: 0;
   bottom: 0;
   z-index: -1;
-  max-width: 110%;
+  max-width: 100%;
   color: rgba(52, 209, 191, 0.3);
   font-family: var(--fuenteTexto);
   font-size: 1.5em;
@@ -68,19 +69,8 @@
 }
 
 /* Pagina de filtros de destinos y tours */
-#search-container {
-  position: relative;
-  padding: 0 2rem;
-  color: var(--accion);
-  display: flex;
-  flex-direction: column;
-}
 
-#search-container input {
-  border-color: var(--principal);
-}
-
-.post-categories{
+/* .post-categories{
   font-family: var(--fuenteTitulos);
   display: flex;
   flex-wrap: wrap;
@@ -93,23 +83,20 @@
   color: var(--blanco);
   padding: 0.7rem;
   background-color: var(--accion);
-
 }
-
+  */
 @media screen and (min-width: 600px) {
 
-  .destinos div,
-  .tours-home {
-    grid-template-columns: repeat(auto-fit, minmax(auto, 20vw));
-    grid-gap: 1.5rem;
+  .destinos div{
+    grid-template-columns: repeat(auto-fill, minmax(auto, 25vw));
+    grid-gap: 2rem;
   }
 
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 767px) {
 
-  .destinos div h2,
-  .tours-home h2 {
+  .destinos div h2{
     grid-row-start: span 2;
     font-size: 2em;
   }
@@ -118,19 +105,21 @@
 
 @media screen and (min-width: 992px) {
 
-  .destinos div,
-  .tours-home {
+  .destinos div{
     width: 70vw;
     margin: 0 auto;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 12vw));
+    grid-template-columns: repeat(auto-fill, minmax(auto, 12vw));
     grid-gap: 2em;
   }
 
-  .destinos div h2 .destinos-background,
-  .tours-home h2 .tours-background {
-    left: -0.7em;
-    max-width: 150%;
-    font-size: 4em;
+  .destinos div h2 .destinos-background {
+    max-width: 120%;
+    font-size: 2em;
+  }
+
+  .destinos div a h4{
+    text-shadow: -1px -1px 1px var(--gris1), 
+    2px 2px 1px var(--gris3);
   }
 }
 

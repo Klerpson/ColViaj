@@ -23,7 +23,7 @@ footer ul {
 }
 
 footer li a {
-  color: var(--accion);
+  color: var(--complemento1);
   font-family: var(--fuenteTexto);
   transition: 0.5s;
   font-weight: 700;
@@ -60,7 +60,9 @@ footer .julian:hover {
           text-decoration-color: var(--complemento1);
 }
 
-@media screen and (min-width: 767px) {
+
+
+@media screen and (min-width: 600px) {
   footer ul {
     grid-gap: 2em;
     padding-right: 2em;
@@ -69,7 +71,7 @@ footer .julian:hover {
   footer li a {
     font-size: 3em;
   }
-  
+
   footer p {
     text-align: center;
   }

@@ -2,27 +2,40 @@
   
     {
 
-      "title"    : "San Juan de Pasto",
-      "url"      : "/ColViaj/naturaleza/pasto/",
-      "category" : "Experiencias en: naturaleza",
-      "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
+      "title"    : "El cálido frio de Ipiales",
+      "url"      : "/ColViaj/cultura/pasto/",
+      "category" : "Mira más en: cultura",
+      "url-cat"  : "/ColViaj/#cultura",
+      "tags"     : "Ipiales, lajas"
 
     } ,
   
     {
 
-      "title"    : "Estrellas en el Desierto de la Tatacoa",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-de-las-estrellas-tatacoa/",
-      "category" : "Experiencias en: cultura and naturaleza",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
+      "title"    : "Atardeceres en Tumaco",
+      "url"      : "/ColViaj/sol%20y%20playa/tumaco-narino/",
+      "category" : "Mira más en: sol y playa",
+      "url-cat"  : "/ColViaj/#sol y playa",
+      "tags"     : "Tumaco, Playa, Mar"
 
     } ,
   
     {
 
-      "title"    : "San Agustín Huila",
-      "url"      : "/ColViaj/naturaleza/cultura/san-agustin-historia-ansestral/",
-      "category" : "Experiencias en: naturaleza and cultura",
+      "title"    : "Cielos estrellados en la Tatacoa",
+      "url"      : "/ColViaj/naturaleza/tour-de-las-estrellas-tatacoa/",
+      "category" : "Mira más en: naturaleza",
+      "url-cat"  : "/ColViaj/#naturaleza",
+      "tags"     : "desierto, Tatacoa, naturaleza"
+
+    } ,
+  
+    {
+
+      "title"    : "La magia de San Agustín Huila",
+      "url"      : "/ColViaj/cultura/san-agustin/",
+      "category" : "Mira más en: cultura",
+      "url-cat"  : "/ColViaj/#cultura",
       "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
 
     } ,
@@ -31,35 +44,39 @@
 
       "title"    : "Putumayo Flora y Fauna",
       "url"      : "/ColViaj/naturaleza/putumayo-flora-y-fauna/",
-      "category" : "Experiencias en: naturaleza",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
+      "category" : "Mira más en: naturaleza",
+      "url-cat"  : "/ColViaj/#naturaleza",
+      "tags"     : "naturaleza, putumayo, cascadas"
 
     } ,
   
     {
 
-      "title"    : "Tumaco",
-      "url"      : "/ColViaj/sol%20y%20playa/parque-de-la-cana/",
-      "category" : "Experiencias en: sol y playa",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "Lago Calima Darién",
+      "title"    : "El Gran Lago Calima Darién",
       "url"      : "/ColViaj/naturaleza/lago-calima/",
-      "category" : "Experiencias en: naturaleza",
-      "tags"     : "Destinos, San Agustín, Huila, Arqueología, Naturaleza"
+      "category" : "Mira más en: naturaleza",
+      "url-cat"  : "/ColViaj/#naturaleza",
+      "tags"     : "laguna, calima, darién"
 
     } ,
   
     {
 
-      "title"    : "Cartagena de Indias",
+      "title"    : "Cartagena Romántica",
       "url"      : "/ColViaj/sol%20y%20playa/cartagena/",
-      "category" : "Experiencias en: sol y playa",
-      "tags"     : "Naturaleza, San Agustín, Huila, Arqueología, Aventura"
+      "category" : "Mira más en: sol y playa",
+      "url-cat"  : "/ColViaj/#sol y playa",
+      "tags"     : "Playa, Mar, Cartagena"
+
+    } ,
+  
+    {
+
+      "title"    : "Tumbas de Tierradentro Cauca",
+      "url"      : "/ColViaj/cultura/necropolis-tierradentro/",
+      "category" : "Mira más en: cultura",
+      "url-cat"  : "/ColViaj/#cultura",
+      "tags"     : "Aventura, Tumbas, Tierradentro"
 
     } 
   
