@@ -13,38 +13,37 @@
 
 .destinos div h2 {
   position: relative;
+  margin: 0;
   font-size: 3rem;
   font-weight: 800;
-  white-space: pre-line;
-  overflow-wrap: break-word;
   text-transform: capitalize;
+  grid-column: span 2;
 }
 
 .destinos div h2 .destinos-background {
   position: absolute;
   left: 0;
-  bottom: 0;
+  bottom: calc(100% - 40%);
   z-index: -1;
-  max-width: 100%;
+  max-width: 105%;
   color: rgba(52, 209, 191, 0.3);
   font-family: var(--fuenteTexto);
-  font-size: 1.5em;
   text-transform: uppercase;
   overflow-wrap: break-word;
-  line-height: 0.755em;
+  line-height: 0.8em;
 }
 
-.destinos div > a {
+.destinos div>a {
   position: relative;
   display: inline-block;
   transition: all .2s ease-in-out;
 }
 
-.destinos div > a:hover {
+.destinos div>a:hover {
   transform: scale(1.1);
 }
 
-.destinos div a h4{
+.destinos div a h4 {
   color: var(--blanco);
   position: absolute;
   bottom: 15px;
@@ -68,65 +67,50 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
-/* Pagina de filtros de destinos y tours */
-
-/* .post-categories{
-  font-family: var(--fuenteTitulos);
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 2rem;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.post-categories a{
-  color: var(--blanco);
-  padding: 0.7rem;
-  background-color: var(--accion);
-}
-  */
 @media screen and (min-width: 600px) {
 
-  .destinos div{
+  .destinos div {
     grid-template-columns: repeat(auto-fill, minmax(auto, 25vw));
     grid-gap: 2rem;
   }
 
-}
-
-@media screen and (min-width: 767px) {
-
   .destinos div h2{
-    grid-row-start: span 2;
-    font-size: 2em;
+    font-size: 2.5rem;
+    grid-column: span 3;
+  }
+
+  .destinos div h2 .destinos-background {
+    font-size: 1em;
+    bottom: calc(100% - 60%);
   }
 
 }
 
 @media screen and (min-width: 992px) {
 
-  .destinos div{
+  .destinos div {
     width: 70vw;
     margin: 0 auto;
     grid-template-columns: repeat(auto-fill, minmax(auto, 12vw));
     grid-gap: 2em;
   }
 
-  .destinos div h2 .destinos-background {
-    max-width: 120%;
-    font-size: 2em;
+  .destinos div h2{
+    grid-column: span 4;
   }
 
-  .destinos div a h4{
-    text-shadow: -1px -1px 1px var(--gris1), 
-    2px 2px 1px var(--gris3);
+  .destinos div h2 .destinos-background {
+    max-width: 120%;
+  }
+
+  .destinos div a h4 {
+    text-shadow: -1px -1px 1px var(--gris1),
+      2px 2px 1px var(--gris3);
   }
 }
 
-@media screen and (min-width: 1280px) {
-
-  .destinos div h2,
-  .tours-home h2 {
-    font-size: 2.5em;
+@media screen and (min-width: 1200px) {
+  .destinos div {
+    width: 60vw;
   }
 }
