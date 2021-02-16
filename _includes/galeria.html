@@ -1,0 +1,13 @@
+<section class="galeria">
+	
+	{% for galeria in site.data.tierradentro  %}
+	<a href="#img{{galeria.numero}}">
+		<img src="{{site.baseurl}}/img/destinos/{{galeria.img}}" alt="{{galeria.alt}}">
+	</a>
+	<div class="light-box" id="img{{galeria.numero}}">
+		<img src="{{site.baseurl}}/img/destinos/{{galeria.img}}" alt="{{galeria.alt}}">
+		<a href="#" class="close">X</a>
+	</div>
+	{% endfor %}
+
+</section>

@@ -819,6 +819,83 @@ header {
     background-clip: border-box;
   }
 }
+/*Sección de la Galería de Páginas*/
+.galeria {
+  position: relative;
+  width: 100vw;
+  /* cantidad de columnas */
+  -moz-column-count: 2;
+  column-count: 2;
+  /* Espacio entre columnas */
+  -moz-column-gap: 10px;
+  column-gap: 10px;
+  -moz-column-span: all;
+  column-span: all;
+}
+
+.galeria > a {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  /*Evitamos que se corte al cambiar de columna*/
+  -moz-column-break-inside: avoid;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  transition: transform 0.5s;
+}
+
+.galeria a img{
+  width: 100%;
+  height: 100%;
+}
+
+.light-box{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+  transform: scale(0);
+}
+
+.light-box img{
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.light-box:target{
+  transform: scale(1);
+}
+
+.close{
+  display: block;
+  position: absolute;
+  top: calc(100% - 100%);
+  right: 10px;
+  margin: 3px;
+  background: var(--accion);
+  color: var(--blanco);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-weight: 700;
+  border-radius: 50%;
+}
+
+@media screen and (min-width: 767px){
+  .galeria {
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+}
+
 footer {
   position: relative;
   width: 100vw;
@@ -1028,9 +1105,39 @@ figure.img-contacto-2 {
     margin: 3em;
   }
 }
+main {
+  margin: 5rem 0;
+  padding: 0 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--fuenteTexto);
+  color: var(--grisFuentes);
+}
 
-@media screen and (min-width: 768px) {
+.articulo img {
+  max-width: 90vw;
+}
 
+.articulo h1 {
+  font-size: 3rem;
+  font-family: var(--fuenteTitulos);
+  color: var(--secundario);
+}
+
+@media screen and (min-width: 767px) {
+  main{
+    margin: 5rem auto;
+    padding: 0;
+    width: 80vw;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  main{
+    width: 60vw;
+  }
 }
 .share-box a {
   display: inline-block;

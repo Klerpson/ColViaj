@@ -8,5 +8,10 @@ categories: cultura
 img: img/destinos/tierradentro/tierradentro.png
 webp: img/destinos/tierradentro/tierradentro.webp
 alt: Necrópolis de Tierradentro Cauca
+destinos: tierradentro
 ---
-# En construcción
+# {{ page.title}}
+
+Ahora queremos enseñarte todo lo que puedes disfrutar en este marivolloso viaje. **Todas estas fotografías son compartidas por los felices viajeros que hemos podido acompañar en sus vacaciones**.
+
+{% include galeria.html %}
