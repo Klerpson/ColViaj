@@ -4,7 +4,7 @@ title: El Gran Lago Calima Darién
 description: Una represa que se volvió una maravilla de la naturaleza en el Valle del Cauca.
 keywords: lago calima, darien, darién, calima darien, calima darién
 categories: naturaleza
-tags: [laguna, calima, darién]
+tags: [aventura, naturaleza, diversion]
 img: img/destinos/calima/calima.jpg
 webp: img/destinos/calima/calima.webp
 alt: Parque arqueológico de San Agustín Huila

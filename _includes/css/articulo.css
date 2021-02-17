@@ -1,6 +1,6 @@
 main {
   margin: 5rem 0;
-  padding: 0 2rem;
+  padding: 0 1em;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -17,18 +17,113 @@ main {
   font-size: 3rem;
   font-family: var(--fuenteTitulos);
   color: var(--secundario);
+  line-height: 1.1em;
+  text-align: center;
+}
+
+.articulo h2 {
+  text-align: center;
+  margin: 2em 0 1em;
+}
+
+.articulo td {
+  padding: 0.5rem;
+}
+
+.articulo p{
+  margin: 0;
+}
+
+.relacionados {
+  padding: 0 1em;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(auto, 40vw));
+  grid-gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.relacionados h3 {
+  font-family: var(--fuenteTitulos);
+  color: var(--secundario);
+  line-height: 1.1em;
+  grid-column: span 2;
+}
+
+.relacionados img {
+  width: 100% ;
+}
+
+.relacionados .sugerencia {
+  position: relative;
+}
+
+.relacionados .sugerencia  h4 {
+  font-family: var(--fuenteTitulos);
+  color: var(--blanco);
+  font-weight: 800;
+  position: absolute;
+  left: 0.7rem;
+  bottom: 0.7rem;
+}
+
+#disqus_thread {
+  padding: 2em;
+}
+
+@media screen and (min-width: 600px) {
+  main,
+  .relacionados{
+    padding: 0 2em;
+  }
 }
 
 @media screen and (min-width: 767px) {
-  main{
-    margin: 5rem auto;
-    padding: 0;
-    width: 80vw;
+  main,
+  .relacionados,
+  #disqus_thread{
+    padding: 0 5em;
+  }
+
+  .relacionados {
+  grid-template-columns: repeat(auto-fill, minmax(auto, 25vw));
+  grid-gap: 2rem;
+  }
+
+  .relacionados h3{
+    grid-column: span 4;
   }
 }
 
 @media screen and (min-width: 992px) {
-  main{
-    width: 60vw;
+  main,
+  .relacionados,
+  #disqus_thread{
+    padding: 0 10em;
+  }
+
+  .relacionados {
+  grid-template-columns: repeat(auto-fill, minmax(auto, 20vw));
+  }
+
+  .relacionados h3{
+    grid-column: span 5;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  main,
+  .relacionados,
+  #disqus_thread{
+    padding: 2em 20em;
+  }
+
+  .relacionados {
+  grid-template-columns: repeat(auto-fill, minmax(auto, 15vw));
+  }
+
+  .relacionados h3{
+    grid-column: span 5;
   }
 }

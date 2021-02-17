@@ -2,12 +2,12 @@
 layout: default
 ---
 {% include header.html %}
-<main>
+<main class="articulo">
   {{ content }}
 </main>
 
-<section class="rect">
-  <h3>Mira más en estas recomendaciones:</h3>
+<section class="relacionados">
+  <h3>Más viajes por Colombia</h3>
 
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
@@ -27,14 +27,11 @@ layout: default
 
   {% if sameTagCount >= minCommonTags %}
   <a href="{{ site.baseurl }}{{ post.url }}">
-    <div class="rel">
-      <picture>
+    <div class="sugerencia">
         {% if post.webp %}
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
         <img src="{{ site.baseurl }}/{{ post.img }}" class="wow slideInLeft" alt="{{ post.alt }}">
+        <h4> {{ post.title }}</h4>
         {% endif %}
-      </picture>
-      <h5> {{ post.title }}</h5>
     </div>
   </a>
   {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -43,17 +40,7 @@ layout: default
   {% endif %}
   {% endif %}
   {% endfor %}
-
-  <h4>¡Gracias por tu visita a nuestro sitio web!</h4>
 </section>
-<section>
-  {% include comentarios.html %}
 
-  {% assign sorted-posts = site.posts | where: "category","{{page.categories}}" %}
-  {% for post in sorted-posts limit: 5 %}
-  <li>{{post.title}} - Probando que funcione</li>
-  {% endfor %}
-</section>
-{% include share.html %}
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0" nonce="PPHQs9rM"></script>
+{% include comentarios.html %}
+{% include footer.html %}

@@ -4,7 +4,7 @@ title: La magia de San Agustín Huila
 description: Un viaje a un impresionante pasado lleno de arte y cultura en las montañas del Huila
 keywords: san agustin huila, san agustin, parque arqueologico san agustin, sanagustin
 categories: cultura
-tags: [Destinos, San Agustín, Huila, Arqueología, Naturaleza]
+tags: [naturaleza, cultura, aventura]
 img: img/destinos/san-agustin-huila/san-agustin-parque.jpg
 webp: img/destinos/san-agustin-huila/san-agustin-parque.webp
 alt: Parque arqueológico de San Agustín Huila
