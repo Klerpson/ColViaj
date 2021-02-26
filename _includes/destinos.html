@@ -7,10 +7,8 @@
     </h2>
     {% for post in site.categories[category_name] %}
     <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
-      <picture>
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
-        <h4>{{ post.title }}</h4>
+      <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
+      <h4>{{ post.title }}</h4>
       </picture>
     </a>
     {% endfor %}

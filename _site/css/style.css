@@ -526,7 +526,7 @@ header {
   font-size: 1.1rem;
 }
 
-.destinos div a picture img {
+.destinos div a img {
   width: 100%;
   border-radius: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
@@ -1146,6 +1146,26 @@ main {
   margin: 0;
 }
 
+.articulo ul li a {
+  margin: 2rem 0;
+  width: 100%;
+  color: var(--secundario);
+  font-family: var(--fuenteGraficas);
+  font-weight: 900;
+  font-style: italic;
+  font-size: 1.2rem;
+  transition: 0.5s;
+  text-decoration: underline;
+  text-decoration-color: var(--accion);
+  text-decoration-thickness: 0.2rem;
+}
+
+.articulo ul li a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+}
+
 .relacionados {
   padding: 0 1em;
   position: relative;
@@ -1247,7 +1267,7 @@ main {
   margin-bottom: 2rem;
 }
 
-.ec-stars-wrapper a {
+.ec-stars-wrapper span {
   text-decoration: none;
   display: inline-block;
   font-size: 32px;

@@ -34,6 +34,26 @@ main {
   margin: 0;
 }
 
+.articulo ul li a {
+  margin: 2rem 0;
+  width: 100%;
+  color: var(--secundario);
+  font-family: var(--fuenteGraficas);
+  font-weight: 900;
+  font-style: italic;
+  font-size: 1.2rem;
+  transition: 0.5s;
+  text-decoration: underline;
+  text-decoration-color: var(--accion);
+  text-decoration-thickness: 0.2rem;
+}
+
+.articulo ul li a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+}
+
 .relacionados {
   padding: 0 1em;
   position: relative;

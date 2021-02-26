@@ -1,0 +1,120 @@
+I"<h1 id="la-magia-de-san-agustín-huila">La magia de San Agustín Huila</h1>
+
+<!-- Calificación de las estrellas. Cada color es una estrella -->
+<div class="ec-stars-wrapper">
+	<a href="#" data-value="1" title="Votar con 1 estrellas" style="color: var(--principal);">&#9733;</a>
+	<a href="#" data-value="2" title="Votar con 2 estrellas" style="color: var(--principal);">&#9733;</a>
+	<a href="#" data-value="3" title="Votar con 3 estrellas" style="color: var(--principal);">&#9733;</a>
+	<a href="#" data-value="4" title="Votar con 4 estrellas" style="color: var(--principal);">&#9733;</a>
+	<a href="#" data-value="5" title="Votar con 5 estrellas" style="color: var(--principal);">&#9733;</a>
+</div>
+
+<!-- Párrafo de introducción -->
+<p>Ahora queremos enseñarte todo lo que puedes disfrutar de este mágico destino. <strong>Todas estas fotografías son compartidas por los felices viajeros que hemos podido acompañar en sus vacaciones</strong>.
+<!-- excerpt --></p>
+
+<h2 id="fotografías-de-san-agustín-huila">Fotografías de San Agustín Huila</h2>
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/alto-parque-arqueologico-san-agustin-mini.webp" alt="Alto en el parque arqueológico de San Agustín" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/alto-parque-arqueologico-san-agustin.webp" alt="Alto en el parque arqueológico de San Agustín" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/calle-loseria-san-agustin-mini.webp" alt="Calle de la losería en San Agustín Huila" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/calle-loseria-san-agustin.webp" alt="Calle de la losería en San Agustín Huila" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/cascada-tres-chorros-mini.webp" alt="Cascada Tres Chorros" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/cascada-tres-chorros.webp" alt="Cascada Tres Chorros" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/estatua-san-agustin-vertical.webp" alt="Estatua San Agustin Huila" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/ColViaj/img/destinos/san-agustin-huila/estatua-san-agustin.webp" alt="Estatua San Agustin Huila" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<h2 id="conoce-un-poco-más-de-la-magia-de-san-agustín-huila">Conoce un poco más de La magia de San Agustín Huila</h2>
+
+<p>San Agustín está ubicado al sur del departamento del Huila, rodeado del paisaje del macizo colombiano y privilegiado por el legado del pueblo escultor con sus parques arqueológicos emblema: <strong>Parque Arqueológico de San Agustín y Alto de los Ídolos</strong>. Estos son uno de los misterios más grandes de las civilizaciones precolombinas, y han sido <strong>declarados Patrimonio de la Humanidad por la Unesco.</strong></p>
+
+<p>Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de la patria se reduce a 2,20mtrs de ancho. También la cascada Salto de Bordones, la segunda más alta de Colombia, ubicada en el vecino municipio de Isnos. Todos son sitios imperdibles en tu visita.</p>
+
+<h2 id="qué-tal-es-visitar-la-magia-de-san-agustín-huila">¿Qué tal es visitar La magia de San Agustín Huila?</h2>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<h2 id="qué-debes-saber-antes-de-visitar-la-magia-de-san-agustín-huila">¿Qué debes saber antes de visitar La magia de San Agustín Huila?</h2>
+
+<!-- La siguiente es una tabla de dos columnas. La primera columna son aspectos positivos. Comienza con el primer símbolo y termina en la línea vertical. La segunda columna son aspecto un poco negativos, no mucho. Estos comienzan en la X y terminan en el punto aparte. Se llena cada columna según el número de aspectos. Al ser más aspectos positivos que negativos, se dejan las filas hasta la línea vertical. Luego se copia la siguiente línea, se pega y se pone la siguiente fila con solo aspectos positivos  -->
+
+<table>
+  <tbody>
+    <tr>
+      <td>✔️ Sus parques fueron declarados patrimonio de la Humanidad</td>
+      <td>❌ El aeropuerto más cercano queda a 40minutos en la ciudad de Pitalito Huila y sólo opera la aerolínea Satena</td>
+    </tr>
+    <tr>
+      <td>✔️ Diversidad de actividades para realizar: senderismo, actividades de aventura, agroturismo, turismo cultural y arqueológico</td>
+      <td>❌ Estamos a 10 horas de Bogotá y 4 horas de Neiva y Popayán por vía terrestre</td>
+    </tr>
+    <tr>
+      <td>✔️ Gran diversidad gastronómica que te deleitará</td>
+      <td>❌ Debes estar preparado para la lluvia y el sol, estamos en el corazón del Macizo Colombiano.</td>
+    </tr>
+    <tr>
+      <td>✔️ Es cuna de artistas y artesanos, por ello encontrarás sus calles adornadas de murales y de variedad de souvenirs artesanales</td>
+      <td>❌ Si necesitas dinero en efectivo, sólo encontraras cajeros automáticos de Banco Bogotá y Servivanca y corresponsal bancario de Bancolombia</td>
+    </tr>
+    <tr>
+      <td>✔️ Región cafetera ganadora de taza de la excelencia, así que disfrutarás de cafés especiales en cada rincón</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>✔️ Cuenta con una gran infraestructura hotelera para todos los gustos y presupuestos</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>✔️ Su temperatura promedio es de 25ºC en el día y de 18ºC en la noche, un clima muy agradable</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="nuestros-planes-a-san-agustín">Nuestros planes a San Agustín:</h2>
+
+<p>¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:</p>
+
+<ul>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - La magia de San Agustín">La magia de San Agustín</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - Experiencias Campesinas">Experiencias Campesinas</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - San Agustín extremo y natural">San Agustín extremo y natural</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - San Agustín y Tatacoa">San Agustín y Tatacoa</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - San Agustín y Tierradentro">San Agustín y Tierradentro Cauca</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - San Agustín, Tierradentro y Tatacoa">San Agustín, Tierradentro y Tatacoa</a></li>
+  <li><a href="/ColViaj/" title="Tour a San Agustín - Travesía Macizo Colombiano">Travesía Macizo Colombiano</a></li>
+</ul>
+:ET

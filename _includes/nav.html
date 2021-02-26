@@ -9,6 +9,14 @@
       <a href="{{ site.baseurl }}/">Inicio</a>
     </li>
 
+    {% if page.url contains "destinos" %}
+    <li class="active">
+      {% else %}
+    <li>
+      {% endif %}
+      <a href="{{ site.baseurl }}/destinos/">Destinos</a>
+    </li>
+
     {% if page.url contains "blog" %}
     <li class="active">
       {% else %}
