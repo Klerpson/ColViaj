@@ -9,6 +9,7 @@ img: img/destinos/tatacoa/tatacoa-atardecer-vertical.webp
 alt: Desierto de la Tatacoa Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
+comments: true
 excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}

@@ -5,16 +5,17 @@ description: Una gran aventura en esta espectacular necrópolis caucana.
 keywords: Tierradentro, tumbas Tierradentro, necrópolis tierradentro
 tags: [aventura, misterio, cultura]
 categories: cultura
-img: img/destinos/tierradentro/tierradentro.png
-webp: img/destinos/tierradentro/tierradentro.webp
+img: img/destinos/tierradentro/tumbas-tierradentro-cauca-vertical.webp
 alt: Necrópolis de Tierradentro Cauca
 comments: true
+excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}
 
 {% include calificaciones.html color1="var(--principal)" color2="var(--principal)" color3="var(--principal)" %}
 
 Ahora queremos enseñarte todo lo que puedes disfrutar en este marivolloso viaje. **Todas estas fotografías son compartidas por los felices viajeros que hemos podido acompañar en sus vacaciones**.
+<!-- excerpt -->
 
 ## Fotografías de Tierradentro Cauca
 
@@ -22,9 +23,9 @@ Ahora queremos enseñarte todo lo que puedes disfrutar en este marivolloso viaje
 
 ## Conoce un poco más de {{page.title}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dignissim ex, gravida sagittis velit. Quisque fermentum nulla non ex fringilla suscipit. Quisque laoreet consectetur bibendum. Integer a gravida lacus, et viverra eros. Nulla porta vestibulum sem sit amet pharetra. Cras condimentum, magna sed lacinia accumsan, felis dolor dapibus turpis, in maximus orci risus at orci. Duis posuere nec nisi vitae porttitor. Aenean vulputate ligula at feugiat varius. Suspendisse elementum at lorem sit amet luctus. Phasellus ultricies, purus at accumsan dignissim, elit mi pulvinar lorem, eu accumsan est nulla ut ante. Ut consequat dictum nulla, ut vestibulum ex cursus non. In iaculis diam arcu, a mollis tellus molestie sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+Al nororiente del departamento del Cauca hay un escenario de nudos montañosos en los municipios de Inzá y Belalcázar, y el resguardo de San Andrés de Pisimbalá: allí se asentó la cultura prehispánica de Tierradentro.
 
-Donec consequat, urna pretium pharetra dapibus, turpis lacus dictum metus, in viverra nunc elit in nunc. Maecenas blandit sapien sapien, at auctor lectus aliquet vitae. Pellentesque viverra ipsum quis est bibendum, in consectetur dolor gravida. Vivamus ut libero condimentum, bibendum enim id, faucibus ligula. Sed interdum consequat mi at mattis. In facilisis finibus nibh ut mollis. Cras ut turpis at mi commodo fermentum. Maecenas enim erat, euismod pellentesque erat at, consequat mattis odio. Maecenas venenatis mauris quis dui egestas, ac suscipit libero hendrerit. Aliquam blandit ligula sed justo placerat, quis ornare lacus imperdiet. Curabitur sit amet lectus tempus, ultrices arcu vitae, imperdiet velit. Sed et arcu tortor. Aliquam mauris purus, imperdiet eu odio non, mollis consequat augue.
+El parque arqueológico nacional de Tierradentro está en medio de la tranquilidad del paisaje de las cordilleras central y occidental. **Es mundialmente conocido por poseer la concentración más grande de tumbas subterráneas monumentales de la época prehispánica**. Es así como fue nombrado patrimonio de la humanidad por la Unesco.
 
 ## ¿Qué tal es visitar {{page.title}}?
 
@@ -37,10 +38,17 @@ Donec consequat, urna pretium pharetra dapibus, turpis lacus dictum metus, in vi
 ## ¿Qué debes saber antes de visitar {{page.title}}?
 
 -- | --
-✔️ Aquí vamos a incluir ventajas o beneficios de visitar este lugar. Deben ser características que destaquen el lugar, sobre todo las que no tienen otros lugares | ❌ Además, vamos a incluir detalles que puede parecer una desvantaja. Esto le brindará al comprador la mayor honestidad posible. Esto tiene el efecto de aumentar la confianza en el vendedor.
-✔️ Aquí vamos a incluir ventajas o beneficios de visitar este lugar. Deben ser características que destaquen el lugar, sobre todo las que no tienen otros lugares | ❌ Además, vamos a incluir detalles que puede parecer una desvantaja. Esto le brindará al comprador la mayor honestidad posible. Esto tiene el efecto de aumentar la confianza en el vendedor.
-✔️ Aquí vamos a incluir ventajas o beneficios de visitar este lugar. Deben ser características que destaquen el lugar, sobre todo las que no tienen otros lugares |
+✔️ Su parque arqueológico fue declarado patrimonio de la humanidad por la Unesco | ❌ Es un destino turístico emergente, así que la oferta hotelera y gastronómica es reducida
+✔️ Actividades turísticas en el destino: senderismo, investigación, fotografía y video | ❌ El aeropuerto más cercano queda a 4 horas en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly
+✔️ Desconexión de la modernidad y conexión total con la naturaleza  | ❌ Tierradentro está a 4 horas de Popayán y 9 horas de Bogotá vía terrestre
+✔️ Es un destino de naturaleza y espiritualidad  | ❌ Hay que llevar dinero en efectivo, ya que no hay cajeros bancarios en la zona
+✔️ Sus hipogeos son únicos en el mundo, por ello su declaratoria de Patrimonio de la Humanidad  | ❌ Te sugerimos siempre comprar agua embotellada pues el destino no cuenta con agua potable
+✔️ El destino esta habitado en su mayoría por la comunidad indígena misak  |
 
-## Tienes que conocer {{page.title}}
+## Nuestros planes a San Agustín:
 
-et vitae. Pellentesque viverra ipsum quis est bibendum, in consectetur dolor gravida. Vivamus ut libero condimentum, bibendum enim id, faucibus ligula. Sed interdum consequat mi at mattis. In facilisis finibus nibh ut mollis. Cras ut turpis at mi commodo fermentum. Maecenas enim erat, euismod pellentesque erat at, consequat mattis odio. Maecenas venenatis mauris quis dui egestas, ac s
+¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:
+
+- 🎒 [Tierradentro y San Agustín, Patrimonios de la Humanidad]({{site.baseurl}}/ "Tour Tierradentro y San Agustín, Patrimonios de la Humanidad")
+- 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/ "Tour Tatacoa, Tierradentro y San Agustín")
+- 🎒 [Tierradentro y Popayán]({{site.baseurl}}/ "Tour Tierradentro y Popayán")

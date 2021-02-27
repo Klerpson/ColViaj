@@ -10,6 +10,7 @@ alt: Parque arqueológico de San Agustín Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
+comments: true
 ---
 # {{ page.title}}
 
