@@ -390,6 +390,7 @@ header {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  padding: 1rem 2rem;
 }
 
 .categorias h2 {
@@ -1137,13 +1138,11 @@ main {
   text-align: center;
   margin: 2em 0 1em;
   line-height: 1.1;
+  width: 100%;
 }
 
-
-
 .articulo td {
-  border-spacing: 0.3rem;
-  border: 1px solid var(--gris3);
+  border-spacing: 0.5rem;
 }
 
 .articulo p{
@@ -1174,7 +1173,7 @@ main {
   padding: 0 1em;
   position: relative;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 40vw));
+  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
   grid-gap: 1rem;
   align-items: center;
   justify-content: center;
@@ -1187,13 +1186,15 @@ main {
   grid-column: span 2;
 }
 
-.relacionados img {
+.relacionados .sugerencia img {
   width: 100% ;
 }
 
 .relacionados .sugerencia {
   position: relative;
 }
+
+
 
 .relacionados .sugerencia  h4 {
   font-family: var(--fuenteTitulos);
@@ -1263,6 +1264,36 @@ main {
     grid-column: span 5;
   }
 }
+.magazine {
+  padding: 4em 2rem;
+}
+
+.magazine h1{
+  font-family: var(--fuenteTitulos);
+  font-size: calc(100% * 2.5);
+  line-height: 1.1;
+}
+
+.magazine p{
+  font-family: var(--fuenteTexto);
+}
+
+.viajes {
+  padding: 4em 2rem 0;
+  text-align: center;
+  color: var(--grisFuentes);
+}
+
+.viajes h1{
+  font-family: var(--fuenteTitulos);
+  font-size: calc(100% * 2.5);
+  line-height: 1.1;
+}
+
+.viajes p{
+  font-family: var(--fuenteTexto);
+}
+
 .ec-stars-wrapper {
   font-size: 0;
   display: inline-block;

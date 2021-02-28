@@ -4,7 +4,7 @@ title: Putumayo Flora y Fauna
 description: Vive una aventura en medio de la naturaleza y las selvas del Putumayo.
 keywords: Mocoa, Putumayo, Fin del mundo, Mocoa fin del mundo, mocoa putumayo
 categories: naturaleza
-tags: [naturaleza, putumayo, mocoa]
+tags: [naturaleza, putumayo, aventura]
 img: img/destinos/putumayo/putumayo.jpg
 alt: Cascada del fin del mundo en Mocoa Putumayo
 autor: Colombia Viajera

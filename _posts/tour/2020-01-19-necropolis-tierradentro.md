@@ -3,7 +3,7 @@ layout: articulo
 title: Tumbas de Tierradentro Cauca
 description: Una gran aventura en esta espectacular necrópolis caucana.
 keywords: Tierradentro, tumbas Tierradentro, necrópolis tierradentro
-tags: [aventura, misterio, cultura]
+tags: [aventura, historia, cultura]
 categories: cultura
 img: img/destinos/tierradentro/tumbas-tierradentro-cauca-vertical.webp
 alt: Necrópolis de Tierradentro Cauca

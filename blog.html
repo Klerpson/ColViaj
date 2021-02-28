@@ -1,26 +1,14 @@
 ---
 layout: default
 title: Experiencias con Colombia Viajera
-description: Comparte las experiencias de todos nuestros amigos viajeros y de sus destinos favoritos en Colombia
+description: Compartimos las experiencias, tips y destinos favoritos de todos nuestros amigos viajeros en Colombia
 ---
 {% include header.html %}
 <section class="magazine">
-  <h2>Viajar por Colombia y compartirlo</h2>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto officia sequi atque nemo? Eveniet corporis hic voluptatum praesentium dolores ipsa tenetur, laborum cumque ex neque corrupti tempora eum, fugit blanditiis?</p>
+  <h1>{{page.title}}</h1>
+  <p>{{page.description}}</p>
   <hr class="separador">
-  {% for post in site.tags.blog %}
-  <article>
-    <picture class="foto">
-      <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
-        <img src="{{ site.baseurl }}/{{ page.src }}" class="wow flipInY"  data-wow-delay="0.3s" alt="{{ post.alt }}">
-      </picture>
-      <h3>
-        {{ post.title }}
-      </h3>
-      {{ post.excerpt }}
-      <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Leer más</a>
-    </article>
-    <hr class="separador">
-  {% endfor %}
+  <h2>EN DESARROLLO</h2>
+  
 </section>
 {% include footer.html %}

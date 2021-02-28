@@ -4,7 +4,7 @@ title: Cielos estrellados en la Tatacoa
 description: Un universo de estrellas más cerquita de ti en el desierto de la Tatacoa.
 keywords: tatacoa, desierto tatacoa, observatorio tatacoa
 categories: naturaleza
-tags: [desierto, Tatacoa, naturaleza]
+tags: [aventura, tatacoa, naturaleza]
 img: img/destinos/tatacoa/tatacoa-atardecer-vertical.webp
 alt: Desierto de la Tatacoa Huila
 autor: Colombia Viajera

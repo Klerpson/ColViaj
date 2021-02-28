@@ -15,5 +15,7 @@
 {% include css/publicidad.css %}
 {% include css/contacto.css %}
 {% include css/articulo.css %}
+{% include css/blog.css %}
+{% include css/viajes.css %}
 {% include css/calificaciones.css %}
 {% include css/share.css %}
