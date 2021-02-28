@@ -1136,14 +1136,18 @@ main {
 .articulo h2 {
   text-align: center;
   margin: 2em 0 1em;
+  line-height: 1.1;
 }
 
+
+
 .articulo td {
-  padding: 0.5rem;
+  border-spacing: 0.3rem;
+  border: 1px solid var(--gris3);
 }
 
 .articulo p{
-  margin: 0;
+  margin: 1rem 0;
 }
 
 .articulo ul li a {

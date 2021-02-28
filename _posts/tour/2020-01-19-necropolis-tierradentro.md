@@ -7,6 +7,8 @@ tags: [aventura, misterio, cultura]
 categories: cultura
 img: img/destinos/tierradentro/tumbas-tierradentro-cauca-vertical.webp
 alt: Necrópolis de Tierradentro Cauca
+autor: Colombia Viajera
+copyright: Julian Andres Franco Bedoya
 comments: true
 excerpt_separator: <!-- excerpt -->
 ---
