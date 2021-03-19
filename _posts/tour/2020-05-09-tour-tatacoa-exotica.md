@@ -28,9 +28,9 @@ Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desiert
 
 ## ¿Qué actividades incluye este paquete?
 
-**Recorrido guiado al desierto de la Tatacoa**, visitando sectores el Cuzco, Ventanas y los Hoyos. **Observación astronómica** en la Tatacoa. **Recorrido guiado por el parque arqueológico** de San Agustín: mesitas A,B,C, fuente ceremonial del Lavapatas, alto del Lavapatas, Bosque de las Estatuas y museo arqueológico. **Visita al Estrecho del Magdalena** en San Agustín. **Recorrido al Parque Arqueológico de Tierradentro** sector Altos de Segovia, museos arqueológico y etnográfico.
+**Recorridos guiados al desierto de la Tatacoa**, visitando sectores el Cuzco, Ventanas y los Hoyos, **baño opcional** en las piscinas del Desierto. **Observación astronómica en la Tatacoa**. **Paseo en canoa** por el río Magdalena. **City tour** por Villavieja visitando el museo Paleontológico y del Totumo. **Cabalgata por el Desierto** de la Tatacoa para ver el atardecer.
 
-**No incluye:** Transporte para llegar a Villavieja, punto de inicio del viaje. Traslados terrestres entre Villavieja, Tierradentro y San Agustín. Puedes adicionar transportes privados desde Bogotá y Neiva. Alimentación no estipulada en el plan ¡Dejamos que explores la gastronomía local a tu gusto! Actividades y/o visitas no estipuladas en el plan.
+**No incluye:** Transporte para llegar a Villavieja, punto de inicio y final del viaje. Puedes adicionar transportes privados desde Bogotá y Neiva. Alimentación no estipulada en el plan ¡Dejamos que explores la gastronomía local a tu gusto! Actividades y/o visitas no estipuladas en el plan.
 
 >[Conseguir este paquete](https://api.whatsapp.com/send?phone=+573209673925&text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Tatacoa%20Ex%C3%B3tica)
 

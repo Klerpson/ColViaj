@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>/san-agustin/</loc>
+    </url>
+    
+    <url>
         <loc>/popayan-historica/</loc>
     </url>
     
@@ -11,6 +15,10 @@
     
     <url>
         <loc>/cultura/tour-tatacoa-tierradentro-san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/naturaleza/tour-tatacoa-san-agustin/</loc>
     </url>
     
     <url>
@@ -55,10 +63,6 @@
     
     <url>
         <loc>/toca-las-estrellas-desierto-tatacoa/</loc>
-    </url>
-    
-    <url>
-        <loc>/san-agustin/</loc>
     </url>
     
     <url>

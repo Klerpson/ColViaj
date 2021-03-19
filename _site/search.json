@@ -2,6 +2,16 @@
   
     {
 
+      "title"    : "La magia de San Agustín Huila",
+      "url"      : "/ColViaj/san-agustin/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
+      "tags"     : "naturaleza, cultura"
+
+    } ,
+  
+    {
+
       "title"    : "Turismo en Popayán",
       "url"      : "/ColViaj/popayan-historica/",
       "category" : "Mira más en: ",
@@ -26,6 +36,16 @@
       "url"      : "/ColViaj/cultura/tour-tatacoa-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
+      "url"      : "/ColViaj/naturaleza/tour-tatacoa-san-agustin/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -137,16 +157,6 @@
       "category" : "Mira más en: ",
       "url-cat"  : "/ColViaj/#",
       "tags"     : "cultura, naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "La magia de San Agustín Huila",
-      "url"      : "/ColViaj/san-agustin/",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
-      "tags"     : "naturaleza, cultura"
 
     } ,
   
