@@ -3,7 +3,7 @@ layout: articulo
 title: Cartagena Romántica
 description: Un viaje a Cartagena de Indias es un sueño romántico cumplido
 keywords: cartagena, playas de cartagena, viaje a cartagena
-categories: [sol y playa]
+categories: [playa]
 tags: [Playa, Mar, Cartagena]
 img: img/destinos/cartagena/cartagena.jfif
 webp: img/destinos/cartagena/cartagena.webp

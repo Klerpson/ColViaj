@@ -2,23 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>/cultura/popayan/</loc>
+        <loc>/popayan/</loc>
     </url>
     
     <url>
-        <loc>/sol%20y%20playa/tumaco-narino/</loc>
-    </url>
-    
-    <url>
-        <loc>/naturaleza/tour-de-las-estrellas-tatacoa/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/san-agustin/</loc>
-    </url>
-    
-    <url>
-        <loc>/naturaleza/putumayo-flora-y-fauna/</loc>
+        <loc>/cultura/tour-san-agustin-huila/</loc>
     </url>
     
     <url>
@@ -26,11 +14,23 @@
     </url>
     
     <url>
-        <loc>/sol%20y%20playa/cartagena/</loc>
+        <loc>/playa/cartagena/</loc>
     </url>
     
     <url>
-        <loc>/cultura/necropolis-tierradentro/</loc>
+        <loc>/tour-de-las-estrellas-tatacoa/</loc>
+    </url>
+    
+    <url>
+        <loc>/san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/putumayo-flora-y-fauna/</loc>
+    </url>
+    
+    <url>
+        <loc>/necropolis-tierradentro/</loc>
     </url>
     
 

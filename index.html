@@ -16,8 +16,27 @@ description: Haz tu viaje con la seguridad de conseguir los mejores recuerdos de
 
 {% include parallax.html clase="testimonio2" front="luis-carlos-nohemi-colombia-viajera.webp" texto="Gracias por ofrecernos y diseñarnos un plan tan bien estructurado. Fue un paseo inolvidable - NOHEMÍ" %}
 
-{% include servicios.html %}
+<section class="destinos">
+  <h2>¿Te gusta viajar por Colombia? Mira estos destinos</h2>
+  {% for tag in site.tags %}
+  {% capture entrada %}{{ tag | first }}{% endcapture %}
+  <div>
+      <h2 class="wow bounceInRight">{{ entrada | capitalize}}
+        <span class="destinos-background">{{ entrada }}</span>
+      </h2>
+      {% for post in site.tags[entrada] %}
+      <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
+        <h4>{{ post.title }}</h4>
+      </picture>
+    </a>
+    {% endfor %}
+  </div>
+    {% endfor %}
+</section>
 
 {% include parallax.html clase="testimonio3" front="alberto-sanchez-colombia-viajera.webp" texto="Los guías fueron de gran ayuda. El personal, las instalaciones de los hospedajes, todo muy bien. Felicitaciones - JOSE SÁNCHEZ" %}
+
+{% include servicios.html %}
 
 {% include footer.html %}

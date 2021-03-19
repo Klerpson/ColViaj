@@ -3,50 +3,20 @@
     {
 
       "title"    : "Turismo en Popayán",
-      "url"      : "/ColViaj/cultura/popayan/",
-      "category" : "Mira más en: cultura",
-      "url-cat"  : "/ColViaj/#cultura",
+      "url"      : "/ColViaj/popayan/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
       "tags"     : "cultura, popayán, historia"
 
     } ,
   
     {
 
-      "title"    : "Atardeceres en Tumaco",
-      "url"      : "/ColViaj/sol%20y%20playa/tumaco-narino/",
-      "category" : "Mira más en: sol y playa",
-      "url-cat"  : "/ColViaj/#sol y playa",
-      "tags"     : "Tumaco, Playa, Mar"
-
-    } ,
-  
-    {
-
-      "title"    : "Cielos estrellados en la Tatacoa",
-      "url"      : "/ColViaj/naturaleza/tour-de-las-estrellas-tatacoa/",
-      "category" : "Mira más en: naturaleza",
-      "url-cat"  : "/ColViaj/#naturaleza",
-      "tags"     : "aventura, tatacoa, naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "La magia de San Agustín Huila",
-      "url"      : "/ColViaj/cultura/san-agustin/",
-      "category" : "Mira más en: cultura",
-      "url-cat"  : "/ColViaj/#cultura",
-      "tags"     : "naturaleza, cultura, aventura"
-
-    } ,
-  
-    {
-
-      "title"    : "Putumayo Flora y Fauna",
-      "url"      : "/ColViaj/naturaleza/putumayo-flora-y-fauna/",
-      "category" : "Mira más en: naturaleza",
-      "url-cat"  : "/ColViaj/#naturaleza",
-      "tags"     : "naturaleza, putumayo, aventura"
+      "title"    : "Tour San Agustín Huila Mágico",
+      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
 
     } ,
   
@@ -63,20 +33,50 @@
     {
 
       "title"    : "Cartagena Romántica",
-      "url"      : "/ColViaj/sol%20y%20playa/cartagena/",
-      "category" : "Mira más en: sol y playa",
-      "url-cat"  : "/ColViaj/#sol y playa",
+      "url"      : "/ColViaj/playa/cartagena/",
+      "category" : "Mira más en: playa",
+      "url-cat"  : "/ColViaj/#playa",
       "tags"     : "Playa, Mar, Cartagena"
 
     } ,
   
     {
 
+      "title"    : "Cielos estrellados en la Tatacoa",
+      "url"      : "/ColViaj/tour-de-las-estrellas-tatacoa/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
+      "tags"     : "cultura, naturaleza"
+
+    } ,
+  
+    {
+
+      "title"    : "La magia de San Agustín Huila",
+      "url"      : "/ColViaj/san-agustin/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
+      "tags"     : "naturaleza, cultura"
+
+    } ,
+  
+    {
+
+      "title"    : "Putumayo Flora y Fauna",
+      "url"      : "/ColViaj/putumayo-flora-y-fauna/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
+      "tags"     : "naturaleza, putumayo"
+
+    } ,
+  
+    {
+
       "title"    : "Tumbas de Tierradentro Cauca",
-      "url"      : "/ColViaj/cultura/necropolis-tierradentro/",
-      "category" : "Mira más en: cultura",
-      "url-cat"  : "/ColViaj/#cultura",
-      "tags"     : "aventura, historia, cultura"
+      "url"      : "/ColViaj/necropolis-tierradentro/",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/ColViaj/#",
+      "tags"     : "naturaleza, cultura"
 
     } 
   
