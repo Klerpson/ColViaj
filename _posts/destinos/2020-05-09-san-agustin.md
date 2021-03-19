@@ -54,9 +54,9 @@ Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de
 ¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:
 
 - 🎒 [Tour San Agustín Huila Mágico]({{site.baseurl}}/cultura/tour-san-agustin-huila/ "Tour a San Agustín - La magia de San Agustín")
-- 🎒 [Experiencias Campesinas]({{site.baseurl}}/ "Tour a San Agustín - Experiencias Campesinas")
+- 🎒 [Experiencias Campesinas]({{site.baseurl}}/cultura/tour-experiencia-campesina/ "Tour a San Agustín - Experiencias Campesinas")
 - 🎒 [San Agustín extremo y natural]({{site.baseurl}}/ "Tour a San Agustín - San Agustín extremo y natural")
-- 🎒 [San Agustín y Tatacoa]({{site.baseurl}}/ "Tour a San Agustín - San Agustín y Tatacoa")
-- 🎒 [San Agustín y Tierradentro Cauca]({{site.baseurl}}/ "Tour a San Agustín - San Agustín y Tierradentro")
+- 🎒 [San Agustín y Desierto de la Tatacoa]({{site.baseurl}}/cultura/tour-desierto-tatacoa-san-agustin-huila/ "Tour a San Agustín - San Agustín y Tatacoa")
+- 🎒 [San Agustín y Tierradentro Cauca, Patrimonios de la Humanidad]({{site.baseurl}}/cultura/tour-tierradentro-san-agustin/ "Tour a San Agustín - San Agustín y Tierradentro")
 - 🎒 [San Agustín, Tierradentro y Tatacoa]({{site.baseurl}}/ "Tour a San Agustín - San Agustín, Tierradentro y Tatacoa")
 - 🎒 [Travesía Macizo Colombiano]({{site.baseurl}}/ "Tour a San Agustín - Travesía Macizo Colombiano")

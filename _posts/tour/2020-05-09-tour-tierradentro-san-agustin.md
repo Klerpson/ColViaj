@@ -36,6 +36,6 @@ Un recorrido por los Parques Arqueológicos declarados Patrimonio de la Humanida
 
 {% include parallax.html clase="testimonio1" front="fabio-velez-colombia-viajera.webp" texto="Terminamos el viaje sin ninguna dificultad. Todo salió como se planeó y quedamos muy a gusto. Todos les quedamos muy agradecidos - Fabio Vélez" %}
 
-## ¿Cómo llegar a San Agustín en el Huila?
+## ¿Cómo llegar a Tierradentro Cauca?
 
-Consulta nuestro post ["LA MAGIA DE SAN AGUSTÍN"]({{site.baseurl}}/necropolis-tierradentro/)
+Consulta nuestro post ["NECRÓPOLIS TIERRADENTRO"]({{site.baseurl}}/necropolis-tierradentro/)
