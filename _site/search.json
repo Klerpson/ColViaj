@@ -43,7 +43,7 @@
     {
 
       "title"    : "Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
-      "url"      : "/ColViaj/naturaleza/tour-tatacoa-san-agustin/",
+      "url"      : "/ColViaj/naturaleza/tour-tatacoa-paicol-san-agustin/",
       "category" : "Mira más en: Naturaleza",
       "url-cat"  : "/ColViaj/#Naturaleza",
       "tags"     : ""
@@ -112,10 +112,20 @@
   
     {
 
+      "title"    : "Tour Conexión Natural Parque Puracé",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-parque-nacional-purace/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
       "title"    : "Tour Huila, paraíso por descubrir",
-      "url"      : "/ColViaj/cultura/tour-huila-paraiso-por-descubrir/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -143,9 +153,9 @@
     {
 
       "title"    : "Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
-      "url"      : "/ColViaj/cultura/tour-desierto-tatacoa-san-agustin-huila/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,

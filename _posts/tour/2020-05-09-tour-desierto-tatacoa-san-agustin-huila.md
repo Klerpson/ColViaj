@@ -2,7 +2,7 @@
 layout: articulo
 title: Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín
 description: El plan perfecto para recorrer de norte a sur los principales atractivos del departamento del Huila, San Agustín y el desierto de la Tatacoa Huila
-categories: Cultura
+categories: [Cultura, Naturaleza]
 img: img/destinos/tatacoa/desierto-tatacoa-turista-vertical.webp
 alt: Turismo en el desierto de la Tatacoa
 autor: Colombia Viajera

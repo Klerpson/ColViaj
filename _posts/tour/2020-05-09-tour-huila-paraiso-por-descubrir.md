@@ -2,7 +2,7 @@
 layout: articulo
 title: Tour Huila, paraíso por descubrir
 description: Un plan completo para recorrer esta tierra de bellos escenarios naturales que presentan increíbles contrastes
-categories: Cultura
+categories: [Cultura, Naturaleza]
 img: img/destinos/san-agustin-huila/san-agustin-parque-arqueologico-vertical.webp
 alt: Parque arqueológico de San Agustín Huila
 autor: Colombia Viajera

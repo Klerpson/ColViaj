@@ -59,11 +59,6 @@
   transition: 0.5s;
 }
 
-.destinos div a h4:hover {
-  text-decoration-color: var(--secundario);
-  font-size: 1.1rem;
-}
-
 .destinos div a img {
   width: 100%;
   border-radius: 4px;

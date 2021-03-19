@@ -22,7 +22,7 @@ Para culminar disfrutaras de un refrescante paseo por las aguas de la Laguna Neg
 * **Duración:** 4 días
 * **Fecha:** todos los días previa reserva
 * **Incluye:**
-  * **Alojamiento:** tres noches en hotel estándar en San José del Guaviare.   Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
+  * **Alojamiento:** tres noches en hotel estándar en San José del Guaviare. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos y un almuerzo
   * **Otros:** seguro de viajes, aportes y tarifas de ingreso a los sitios turísticos.
 
