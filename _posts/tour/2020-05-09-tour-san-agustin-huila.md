@@ -32,4 +32,4 @@ Un destino mágico en el sur del departamento del Huila. Conoce los Parques Arqu
 
 ## ¿Cómo llegar a San Agustín en el Huila?
 
-Consulta nuestro post ["LA MAGIA DE SAN AGUSTÍN"](/cultura/san-agustin/)
+Consulta nuestro post ["LA MAGIA DE SAN AGUSTÍN"]({{site.baseurl}}/cultura/san-agustin/)
