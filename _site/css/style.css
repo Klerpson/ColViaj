@@ -1147,7 +1147,7 @@ main {
   margin: 1rem 0;
 }
 
-.articulo ul li a {
+.articulo a {
   margin: 2rem 0;
   width: 100%;
   color: var(--secundario);
@@ -1161,7 +1161,7 @@ main {
   text-decoration-thickness: 0.2rem;
 }
 
-.articulo ul li a:hover {
+.articulo a:hover {
   text-decoration: underline;
   text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;

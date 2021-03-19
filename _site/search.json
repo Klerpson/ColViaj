@@ -12,8 +12,8 @@
   
     {
 
-      "title"    : "Tour San Agustín Huila Mágico",
-      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "title"    : "Tierradentro y San Agustín Patrimonios de la Humanidad",
+      "url"      : "/ColViaj/cultura/tour-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
       "tags"     : ""
@@ -22,21 +22,11 @@
   
     {
 
-      "title"    : "El Gran Lago Calima Darién",
-      "url"      : "/ColViaj/naturaleza/lago-calima/",
-      "category" : "Mira más en: naturaleza",
-      "url-cat"  : "/ColViaj/#naturaleza",
-      "tags"     : "aventura, naturaleza, diversion"
-
-    } ,
-  
-    {
-
-      "title"    : "Cartagena Romántica",
-      "url"      : "/ColViaj/playa/cartagena/",
-      "category" : "Mira más en: playa",
-      "url-cat"  : "/ColViaj/#playa",
-      "tags"     : "Playa, Mar, Cartagena"
+      "title"    : "Tour San Agustín Huila Mágico",
+      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
 
     } ,
   

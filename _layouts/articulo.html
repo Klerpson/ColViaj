@@ -6,6 +6,7 @@ layout: default
   {{ content }}
 </main>
 
+{% if page.relacionados %}
 <section class="relacionados">
   <h3>Más viajes por Colombia</h3>
 
@@ -47,6 +48,7 @@ layout: default
 {% endfor %}
 
 </section>
+{% endif %}
 
 {% include comentarios.html %}
 {% include footer.html %}

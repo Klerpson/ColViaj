@@ -10,6 +10,7 @@ autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 comments: true
+relacionados: true
 ---
 # {{ page.title}}
 
@@ -52,7 +53,7 @@ Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de
 
 ¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:
 
-- 🎒 [La magia de San Agustín]({{site.baseurl}}/ "Tour a San Agustín - La magia de San Agustín")
+- 🎒 [Tour San Agustín Huila Mágico]({{site.baseurl}}/cultura/tour-san-agustin-huila/ "Tour a San Agustín - La magia de San Agustín")
 - 🎒 [Experiencias Campesinas]({{site.baseurl}}/ "Tour a San Agustín - Experiencias Campesinas")
 - 🎒 [San Agustín extremo y natural]({{site.baseurl}}/ "Tour a San Agustín - San Agustín extremo y natural")
 - 🎒 [San Agustín y Tatacoa]({{site.baseurl}}/ "Tour a San Agustín - San Agustín y Tatacoa")
