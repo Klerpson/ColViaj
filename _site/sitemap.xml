@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>/popayan/</loc>
+        <loc>/popayan-historica/</loc>
     </url>
     
     <url>
@@ -10,7 +10,39 @@
     </url>
     
     <url>
+        <loc>/cultura/tour-tatacoa-tierradentro-san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/naturaleza/tour-tatacoa-exotica/</loc>
+    </url>
+    
+    <url>
         <loc>/cultura/tour-san-agustin-huila/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-popayan-tradicional/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-popayan-tierradentro/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-popayan-silvia/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-popayan-san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-huila-paraiso-por-descubrir/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-guaviare-ancestral/</loc>
     </url>
     
     <url>
@@ -22,7 +54,7 @@
     </url>
     
     <url>
-        <loc>/tour-de-las-estrellas-tatacoa/</loc>
+        <loc>/toca-las-estrellas-desierto-tatacoa/</loc>
     </url>
     
     <url>

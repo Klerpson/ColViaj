@@ -58,5 +58,5 @@ Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de
 - 🎒 [San Agustín extremo y natural]({{site.baseurl}}/ "Tour a San Agustín - San Agustín extremo y natural")
 - 🎒 [San Agustín y Desierto de la Tatacoa]({{site.baseurl}}/cultura/tour-desierto-tatacoa-san-agustin-huila/ "Tour a San Agustín - San Agustín y Tatacoa")
 - 🎒 [San Agustín y Tierradentro Cauca, Patrimonios de la Humanidad]({{site.baseurl}}/cultura/tour-tierradentro-san-agustin/ "Tour a San Agustín - San Agustín y Tierradentro")
-- 🎒 [San Agustín, Tierradentro y Tatacoa]({{site.baseurl}}/ "Tour a San Agustín - San Agustín, Tierradentro y Tatacoa")
+- 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/cultura/tour-tatacoa-tierradentro-san-agustin/ "Tour a San Agustín - San Agustín, Tierradentro y Tatacoa")
 - 🎒 [Travesía Macizo Colombiano]({{site.baseurl}}/ "Tour a San Agustín - Travesía Macizo Colombiano")

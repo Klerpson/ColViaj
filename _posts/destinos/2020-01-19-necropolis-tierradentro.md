@@ -51,5 +51,5 @@ El parque arqueológico nacional de Tierradentro está en medio de la tranquilid
 ¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:
 
 - 🎒 [Tierradentro y San Agustín, Patrimonios de la Humanidad]({{site.baseurl}}/cultura/tour-tierradentro-san-agustin/ "Tour Tierradentro y San Agustín, Patrimonios de la Humanidad")
-- 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/ "Tour Tatacoa, Tierradentro y San Agustín")
-- 🎒 [Tierradentro y Popayán]({{site.baseurl}}/ "Tour Tierradentro y Popayán")
+- 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/cultura/tour-tatacoa-tierradentro-san-agustin/ "Tour Tatacoa, Tierradentro y San Agustín")
+- 🎒 [Tierradentro y Popayán]({{site.baseurl}}/cultura/tour-popayan-tierradentro/ "Tour Tierradentro y Popayán")

@@ -3,7 +3,7 @@
     {
 
       "title"    : "Turismo en Popayán",
-      "url"      : "/ColViaj/popayan/",
+      "url"      : "/ColViaj/popayan-historica/",
       "category" : "Mira más en: ",
       "url-cat"  : "/ColViaj/#",
       "tags"     : "cultura, popayán, historia"
@@ -22,8 +22,88 @@
   
     {
 
+      "title"    : "Tour Desierto de la Tatacoa y Parques Arqueológicos de Tierradentro y San Agustín",
+      "url"      : "/ColViaj/cultura/tour-tatacoa-tierradentro-san-agustin/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Tatacoa Exótica",
+      "url"      : "/ColViaj/naturaleza/tour-tatacoa-exotica/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
       "title"    : "Tour San Agustín Huila Mágico",
       "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Popayán Tradicional",
+      "url"      : "/ColViaj/cultura/tour-popayan-tradicional/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Popayán y Parque Arqueológico de Tierradentro",
+      "url"      : "/ColViaj/cultura/tour-popayan-tierradentro/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Popayán y Silvia Cauca",
+      "url"      : "/ColViaj/cultura/tour-popayan-silvia/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Popayán y Parque Arqueológico de San Agustín",
+      "url"      : "/ColViaj/cultura/tour-popayan-san-agustin/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Huila, paraíso por descubrir",
+      "url"      : "/ColViaj/cultura/tour-huila-paraiso-por-descubrir/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Guaviare natural y ancestral",
+      "url"      : "/ColViaj/cultura/tour-guaviare-ancestral/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
       "tags"     : ""
@@ -53,7 +133,7 @@
     {
 
       "title"    : "Cielos estrellados en la Tatacoa",
-      "url"      : "/ColViaj/tour-de-las-estrellas-tatacoa/",
+      "url"      : "/ColViaj/toca-las-estrellas-desierto-tatacoa/",
       "category" : "Mira más en: ",
       "url-cat"  : "/ColViaj/#",
       "tags"     : "cultura, naturaleza"
