@@ -2,7 +2,7 @@
 layout: articulo
 title: Tour Experiencias campesinas - Turismo consciente
 description: En San Agustín vivirás experiencias rurales en fincas demostrativas, una de ellas ganadora a la taza de excelencia con el mejor café de Colombia
-categories: Cultura
+categories: [Cultura, Naturaleza]
 img: img/destinos/san-agustin-huila/turismo-cafe-san-agustin-vertical.webp
 alt: Parque arqueológico de San Agustín Huila
 autor: Colombia Viajera

@@ -3,13 +3,14 @@ layout: articulo
 title: Putumayo Flora y Fauna
 description: Vive una aventura en medio de la naturaleza y las selvas del Putumayo.
 keywords: Mocoa, Putumayo, Fin del mundo, Mocoa fin del mundo, mocoa putumayo
-tags: [naturaleza, putumayo]
+tags: [naturaleza]
 img: img/destinos/putumayo/putumayo.jpg
 alt: Cascada del fin del mundo en Mocoa Putumayo
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
-excerpt_separator: <!-- excerpt -->
 comments: true
+relacionados: true
+excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}
 
@@ -56,7 +57,7 @@ El centro experiencial amazónico situado en el kilómetro 8 vía a Villa Garzó
 
 ## Nuestros planes al Putumayo
 
-¿Te gustaría visitar Putumayo? Mira lo que Colombia Viajera tiene para ti:
+¿Te gustaría visitar EL Putumayo y sus maravillas naturales? Mira lo que Colombia Viajera tiene para ti:
 
-- 🎒 [Putumayo ancestral y natural]({{site.baseurl}}/ "Tour Putumayo ancestral y natural")
+- 🎒 [Putumayo ancestral y natural]({{site.baseurl}}/naturaleza/tour-putumayo-entrada-amazonia "Tour Putumayo ancestral y natural")
 - 🎒 [Putumayo y San Agustín]({{site.baseurl}}/ "Tour Putumayo y San Agustín")

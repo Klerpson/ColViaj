@@ -9,6 +9,7 @@ alt: Desierto de la Tatacoa Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
 comments: true
+relacionados: true
 excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}
@@ -56,6 +57,6 @@ Un destino que de hecho no es propiamente un desierto, sino un bosque seco tropi
 ¿Te gustaría visitar el desierto de la Tatacoa en el Huila? Mira lo que Colombia Viajera tiene para ti:
 
 - 🎒 [Tatacoa exótica]({{site.baseurl}}/naturaleza/tour-tatacoa-exotica/ "Tour Tatacoa exótica")
-- 🎒 [Desierto de la Tatacoa y San Agustín]({{site.baseurl}}/naturaleza/tour-tatacoa-san-agustin/ "Tour Tatacoa y San Agustíns")
+- 🎒 [Desierto de la Tatacoa y San Agustín]({{site.baseurl}}/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/ "Tour Tatacoa y San Agustíns")
 - 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/cultura/tour-tatacoa-tierradentro-san-agustin/ "Tour Tatacoa, Tierradentro y San Agustín")
 - 🎒 [Tatacoa, San Agustín y Rivera]({{site.baseurl}}/cultura/tour-huila-paraiso-por-descubrir/ "Tour Tatacoa, San Agustín y Rivera")

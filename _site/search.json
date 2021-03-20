@@ -22,6 +22,26 @@
   
     {
 
+      "title"    : "Tour Travesía Cañón del río Guejar",
+      "url"      : "/ColViaj/cultura/tour-travesia-rio-guejar/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Travesía Macizo Colombiano",
+      "url"      : "/ColViaj/naturaleza/tour-travesia-macizo-colombiano/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
       "title"    : "Tierradentro y San Agustín Patrimonios de la Humanidad",
       "url"      : "/ColViaj/cultura/tour-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
@@ -66,6 +86,26 @@
       "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour San Agustín, extremo y natural",
+      "url"      : "/ColViaj/naturaleza/tour-san-agustin-extremo/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tour Putumayo entrada a la amazonia colombiana",
+      "url"      : "/ColViaj/naturaleza/tour-putumayo-entrada-amazonia/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -122,6 +162,16 @@
   
     {
 
+      "title"    : "Tour Paicol naturaleza y aventura",
+      "url"      : "/ColViaj/naturaleza/tour-paicol-naturaleza-aventura/",
+      "category" : "Mira más en: Naturaleza",
+      "url-cat"  : "/ColViaj/#Naturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
       "title"    : "Tour Huila, paraíso por descubrir",
       "url"      : "/ColViaj/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
       "category" : "Mira más en: Cultura and Naturaleza",
@@ -143,9 +193,9 @@
     {
 
       "title"    : "Tour Experiencias campesinas - Turismo consciente",
-      "url"      : "/ColViaj/cultura/tour-experiencia-campesina/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-experiencia-campesina/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -176,7 +226,7 @@
       "url"      : "/ColViaj/putumayo-flora-y-fauna/",
       "category" : "Mira más en: ",
       "url-cat"  : "/ColViaj/#",
-      "tags"     : "naturaleza, putumayo"
+      "tags"     : "naturaleza"
 
     } ,
   

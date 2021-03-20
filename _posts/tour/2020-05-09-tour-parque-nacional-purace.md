@@ -3,17 +3,21 @@ layout: articulo
 title: Tour Conexión Natural Parque Puracé
 description: La naturaleza y la aventura se mezclan en este plan donde se visitan los atractivos más destacados del Parque Natural Nacional Puracé
 categories: [Cultura, Naturaleza]
-img: img/destinos/guaviare/rio-guaviare-vertical.webp
-alt: Río del San José del Guaviare
+img: img/destinos/purace/macizo-colombiano-purace-vertical.webp
+alt: Fotografía del macizo colombiano en el parque Nacional Puracé
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
 # {{page.title}}
 
-La naturaleza y la aventura se mezclan en este plan donde se visitan los atractivos más destacados del Parque Natural Nacional Puracé. Haremos senderismo por el exuberante paisaje, visitaremos la Piedra del Cóndor donde nuestro guía local coloca carne en la roca para permitirnos (¡con un poco de suerte!) avistar el Cóndor de los Andes, recorreremos las termales de San Juan con sus géiseres y musgos de colores y ascenderemos hasta el volcán Puracé, donde tendremos unas excelentes vistas del cráter humeante y la cordillera central de los Andes con su cadena de picos volcánicos.
+La naturaleza y la aventura se mezclan en este plan donde se visitan los atractivos más destacados del Parque Natural Nacional Puracé.
 
 <!-- excerpt -->
+
+Haremos senderismo por el exuberante paisaje, visitaremos la Piedra del Cóndor donde nuestro guía local coloca carne en la roca para permitirnos (¡con un poco de suerte!) avistar el Cóndor de los Andes, recorreremos las termales de San Juan con sus géiseres y musgos de colores.
+
+Ascenderemos hasta el volcán Puracé, donde tendremos unas excelentes vistas del cráter humeante y la cordillera central de los Andes con su cadena de picos volcánicos.
 
 * **Tarifa desde:** $925.000 por persona
 * **Duración:** 4 días

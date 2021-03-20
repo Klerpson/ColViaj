@@ -9,6 +9,7 @@ alt: Necrópolis de Tierradentro Cauca
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
 comments: true
+relacionados: true
 excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}

@@ -8,9 +8,9 @@ img: img/destinos/san-agustin-huila/san-agustin-parque-vertical.webp
 alt: Parque arqueológico de San Agustín Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
-excerpt_separator: <!-- excerpt -->
 comments: true
 relacionados: true
+excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}
 
@@ -54,9 +54,9 @@ Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de
 ¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:
 
 - 🎒 [Tour San Agustín Huila Mágico]({{site.baseurl}}/cultura/tour-san-agustin-huila/ "Tour a San Agustín - La magia de San Agustín")
-- 🎒 [Experiencias Campesinas]({{site.baseurl}}/cultura/tour-experiencia-campesina/ "Tour a San Agustín - Experiencias Campesinas")
-- 🎒 [San Agustín extremo y natural]({{site.baseurl}}/ "Tour a San Agustín - San Agustín extremo y natural")
-- 🎒 [San Agustín y Desierto de la Tatacoa]({{site.baseurl}}/cultura/tour-desierto-tatacoa-san-agustin-huila/ "Tour a San Agustín - San Agustín y Tatacoa")
+- 🎒 [Experiencias Campesinas]({{site.baseurl}}/cultura/naturaleza/tour-experiencia-campesina/ "Tour a San Agustín - Experiencias Campesinas")
+- 🎒 [San Agustín extremo y natural]({{site.baseurl}}/naturaleza/tour-san-agustin-extremo/ "Tour a San Agustín - San Agustín extremo y natural")
+- 🎒 [Desierto de la Tatacoa y San Agustín]({{site.baseurl}}/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/ "Tour Tatacoa y San Agustíns")
 - 🎒 [San Agustín y Tierradentro Cauca, Patrimonios de la Humanidad]({{site.baseurl}}/cultura/tour-tierradentro-san-agustin/ "Tour a San Agustín - San Agustín y Tierradentro")
 - 🎒 [Tatacoa, Tierradentro y San Agustín]({{site.baseurl}}/cultura/tour-tatacoa-tierradentro-san-agustin/ "Tour a San Agustín - San Agustín, Tierradentro y Tatacoa")
-- 🎒 [Travesía Macizo Colombiano]({{site.baseurl}}/ "Tour a San Agustín - Travesía Macizo Colombiano")
+- 🎒 [Travesía Macizo Colombiano]({{site.baseurl}}/naturaleza/tour-travesia-macizo-colombiano/ "Tour Travesía Macizo Colombiano")

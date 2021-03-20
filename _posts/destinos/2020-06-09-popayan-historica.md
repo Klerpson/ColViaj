@@ -8,6 +8,8 @@ img: img/destinos/popayan/centro-popayan-cauca-vertical.webp
 alt: Popayán ciudad blanca de Colombia
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
+comments: true
+relacionados: true
 excerpt_separator: <!-- excerpt -->
 ---
 # {{ page.title}}
@@ -59,4 +61,4 @@ El turismo religioso es inseparable de la historia de la ciudad. Es así como la
 - 🎒 [Popayán y Silvia]({{site.baseurl}}/cultura/tour-popayan-silvia/ "Tour Popayán y Silvia")
 - 🎒 [Popayán y San Agustín]({{site.baseurl}}/cultura/tour-popayan-san-agustin/ "Tour Popayán y San Agustín")
 - 🎒 [Tierradentro y Popayán]({{site.baseurl}}/cultura/tour-popayan-tierradentro/ "Tour Tierradentro y Popayán")
-- 🎒 [Conexión Natural en PNN Puracé]({{site.baseurl}}/ "Tour Conexión Natural en PNN Puracé")
+- 🎒 [Conexión Natural en PNN Puracé]({{site.baseurl}}/cultura/naturaleza/tour-parque-nacional-purace/ "Tour Conexión Natural en PNN Puracé")
