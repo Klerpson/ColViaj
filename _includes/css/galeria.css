@@ -54,10 +54,10 @@
 }
 
 .light-box:target{
-  transform: scale(1);
+  transform: scale(0.8);
 }
 
-.close{
+.galeria .light-box .close{
   display: block;
   position: absolute;
   top: calc(100% - 100%);
