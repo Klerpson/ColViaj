@@ -16,10 +16,10 @@ Un plan para disfrutar de una de las ciudades más tradicionales de Colombia, re
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $550.000 por persona
-* **Duración:** 3 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $550.000 por persona
+* ✔️ **Duración:** 3 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en hotel estándar en Popayán. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 2 desayunos y un almuerzo en Silvia.
   * **Otros:** seguro de viajes, entrada al museo Arquidiocesano, de arte regional, transfer privado Popayán-Silvia-Popayán

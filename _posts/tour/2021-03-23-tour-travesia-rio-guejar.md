@@ -15,10 +15,10 @@ Un plan para explorar una de las maravillas naturales del Meta, el majestuoso ca
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $550.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $550.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** tres noches en hotel estándar en San Juan de Arama. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos, dos almuerzos
   * **Otros:** seguro de viajes, entrada a las reservas naturales, transfer desde el hotel hasta el punto de inicio de cada actividad, snaks e hidratación durante las actividades.

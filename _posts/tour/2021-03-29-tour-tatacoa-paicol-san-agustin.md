@@ -16,10 +16,10 @@ El plan perfecto para recorrer de norte a sur recorre los principales atractivos
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $530.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $530.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar en Villavieja y dos noches en hotel estándar tipo campestre en San Agustín. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar y al observatorio astronómico.

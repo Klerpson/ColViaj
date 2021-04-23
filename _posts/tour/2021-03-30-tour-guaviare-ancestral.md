@@ -18,10 +18,10 @@ Escápate al Guaviare, uno de los destinos inexplorados de Colombia, deslúmbrat
 
 Para culminar disfrutaras de un refrescante paseo por las aguas de la Laguna Negra y playa Güio, en medio de la vegetación flotante de la laguna.
 
-* **Tarifa desde:** $750.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $750.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** tres noches en hotel estándar en San José del Guaviare. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos y un almuerzo
   * **Otros:** seguro de viajes, aportes y tarifas de ingreso a los sitios turísticos.

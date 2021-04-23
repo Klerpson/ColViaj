@@ -16,10 +16,10 @@ Un plan completo para recorrer esta tierra de bellos escenarios naturales que pr
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $595.000 por persona
-* **Duración:** 5 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $595.000 por persona
+* ✔️ **Duración:** 5 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar en Villavieja, dos noches en hotel estándar tipo campestre en San Agustín y una noche en hotel estándar en Tierradentro. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 4 desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar y observatorio astronómico.

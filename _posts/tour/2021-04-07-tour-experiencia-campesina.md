@@ -18,10 +18,10 @@ En San Agustín al sur del departamento del Huila vivirás experiencias rurales 
 
 Para complementar esta experiencia sentirás la magia del parque arqueológico de San Agustín – Patrimonio de la Humanidad - y vive la cultura local de San Agustín en un city tour en bici.
 
-* **Tarifa desde:** $480.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $480.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** hotel campestre ubicado en finca agro turística. Las acomodaciones son sencillas si viajas solo. Dbles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos y un almuerzo campesino
   * **Otros:** seguro de viajes y entrada al parque arqueológico

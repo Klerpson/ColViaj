@@ -18,10 +18,10 @@ Un plan completo para recorrer esta tierra de bellos escenarios naturales que pr
 
 Podrá vivir experiencias inolvidables al recorrer en pocas horas este variado territorio de norte a sur, pasando por la zona ardiente del Desierto de la Tatacoa y su noche de estrellas, adentrarnos al misterio arqueológico en San Agustín y vivir su cultura local y relajarnos en un baño termal en Rivera.
 
-* **Tarifa desde:** $680.000 por persona
-* **Duración:** 5 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $680.000 por persona
+* ✔️ **Duración:** 5 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar en Villavieja. Dos noches en hotel estándar tipo campestre en San Agustín y una noche en hotel estándar en Rivera. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 4 Desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar, observatorio astronómico y termales de Rivera.

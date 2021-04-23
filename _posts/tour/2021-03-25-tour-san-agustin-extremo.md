@@ -21,10 +21,10 @@ Otra forma de disfrutar de este maravilloso destino del sur de Colombia, combina
 
 Siente la adrenalina sobre las aguas del río magdalena, haz canopi en medio del paisaje del Macizo Colombiano y deslúmbrate con el paisaje del Estrecho del río Magdalena.
 
-* **Tarifa desde:** $550.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $550.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** tres noches en hotel estándar tipo campestre en San Agustín.  Las acomodaciones son sencillas si viajas solo, dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos
   * **Otros:** seguro de viajes, entrada al parque arqueológico y demás atractivos incluidos en los tours. Transporte desde el hotel de San Agustín al punto de inicio de las actividades de Rafting, Canopy y Estrecho del Magdalena.

@@ -16,10 +16,10 @@ Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desiert
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $430.000 por persona
-* **Duración:** 3 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $430.000 por persona
+* ✔️ **Duración:** 3 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en hotel estándar en Villavieja. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 2 desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar.

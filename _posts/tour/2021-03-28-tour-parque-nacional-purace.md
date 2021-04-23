@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Conexión Natural Parque Puracé
+title: Conexión Natural Parque Puracé
 description: La naturaleza y la aventura se mezclan en este plan donde se visitan los atractivos más destacados del Parque Natural Nacional Puracé
 categories: [Cultura, Naturaleza]
 img: img/destinos/purace/macizo-colombiano-purace-vertical.webp
@@ -19,10 +19,10 @@ Haremos senderismo por el exuberante paisaje, visitaremos la Piedra del Cóndor 
 
 Ascenderemos hasta el volcán Puracé, donde tendremos unas excelentes vistas del cráter humeante y la cordillera central de los Andes con su cadena de picos volcánicos.
 
-* **Tarifa desde:** $925.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.
-* **Incluye:**
+* ✔️ **Tarifa desde:** $925.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.
+* ✔️ **Incluye:**
   * **Alojamiento:** tres noches en hotel estándar en Popayán. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos, 2 almuerzos
   * **Otros:** seguro de viajes, entrada a las reservas, transfer a los puntos de interés en camioneta 4x4, snaks.

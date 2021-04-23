@@ -18,10 +18,10 @@ Un plan lleno de historia, donde se combina la arquitectura y tradiciones de Pop
 
 En un recorrido de 4 días visitaremos los principales atractivos del centro histórico de Popayán y disfrutaremos de su gastronomía, en la ruta San Agustín -Popayán haremos paradas en Paletará y en el valle de los frailejones en el PNN Puracé, disfrutaremos del paisaje del Páramo y en San Agustín recorreremos los vestigios arqueológicos, declarados patrimonio de la Humanidad y atractivos naturales.
 
-* **Tarifa desde:** $890.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $890.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar en Popayán, dos noches en hotel estándar tipo campestre en San Agustín. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 desayunos
   * **Otros:** seguro de viajes, entrada al museo Arquidiocesano, de arte regional y parque arqueológico de San Agustín.

@@ -17,10 +17,10 @@ Un viaje de inmersión y de desconexión total con la modernidad. Sumérgete en 
 
 Caminaremos durante 4 días en el corazón del Macizo Colombiano, desde San Agustín Huila hasta Valencia Cauca, pasando por la Laguna de la Magdalena, donde nace nuestro rio de la patria en el Páramo de las Papas Parque Nacional Natural Puracé. Finalmente, disfrutaremos de la inmensidad y misterio de la laguna Santiago.
 
-* **Tarifa desde:** $1.300.000 por persona
-* **Duración:** 5 días
-* **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.
-* **Incluye:**
+* ✔️ **Tarifa desde:** $1.300.000 por persona
+* ✔️ **Duración:** 5 días
+* ✔️ **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en hotel estándar tipo campestre en San Agustín, tres noches en posadas campesinas dentro del Parque Nacional Natural Puracé.
   * **Alimentación:** 4 Desayunos, 4 almuerzos, 4 cenas
   * **Otros:** seguro de viajes, entrada a las reservas, camioneta 4x4 cubriendo la ruta San Agustín - Alto Quinchana – San Agustín, un caballo por cada dos personas para alternar las caminatas y descansar.

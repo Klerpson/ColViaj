@@ -17,10 +17,10 @@ Un plan perfecto de fin de semana para vivir una aventura natural en el municipi
 
 Explora la Caja de Agua, sus formaciones rocosas y fuentes de agua subterráneas y vive la adrenalina haciendo rafting por las aguas del río Paéz. Llenaras tus días de total conexión con la naturaleza en este maravilloso destino.
 
-* **Tarifa desde:** $370.000 por persona
-* **Duración:** 3 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $370.000 por persona
+* ✔️ **Duración:** 3 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en hotel estándar en Paicol Huila. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 2 desayunos
   * **Otros:** seguro de viajes, entrada a los atractivos a visitar, transfer desde el hotel de Paicol a cada uno de los atractivos naturales.

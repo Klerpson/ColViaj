@@ -16,10 +16,13 @@ Un recorrido por los Parques Arqueológicos declarados Patrimonio de la Humanida
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $570.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="tierradentro-san-agustin" %}
+
+* ✔️ **Tarifa desde:** $570.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar tipo campestre en Tierradentro y dos noches en hotel estándar tipo campestre en San Agustín.  Las acomodaciones son sencillas si viajas solo, dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 Desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar.

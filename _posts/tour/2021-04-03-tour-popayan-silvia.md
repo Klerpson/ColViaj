@@ -16,10 +16,10 @@ Un plan para vivir la historia y arquitectura de una de las ciudades más antigu
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $390.000 por persona
-* **Duración:** 3 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $390.000 por persona
+* ✔️ **Duración:** 3 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en hotel estándar en Popayán. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 2 desayunos
   * **Otros:** seguro de viajes, entrada a los parques arqueológicos a visitar y las cascadas.

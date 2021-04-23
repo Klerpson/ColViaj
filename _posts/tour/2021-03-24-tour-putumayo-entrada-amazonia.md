@@ -19,10 +19,10 @@ Disfruta de las piscinas naturales y un trekking en la reserva Fin del Mundo, do
 
 Deslúmbrate con la belleza de las formaciones rocosas del Cañón del río Mandiyaco y desconéctate de la modernidad en una cabaña dentro de la reserva natural.
 
-* **Tarifa desde:** $495.000 por persona
-* **Duración:** 3 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $495.000 por persona
+* ✔️ **Duración:** 3 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** dos noches en cabaña dentro de la reserva Fin del Mundo. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 2 Desayunos, 2 almuerzos y 2 cenas
   * **Otros:** seguro de viajes, entrada a las reservas

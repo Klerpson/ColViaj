@@ -16,10 +16,10 @@ Estas dos joyas del departamento del Cauca unidas en un solo plan. Disfruta la h
 
 <!-- excerpt -->
 
-* **Tarifa desde:** $890.000 por persona
-* **Duración:** 4 días
-* **Fecha:** todos los días previa reserva
-* **Incluye:**
+* ✔️ **Tarifa desde:** $890.000 por persona
+* ✔️ **Duración:** 4 días
+* ✔️ **Fecha:** todos los días previa reserva
+* ✔️ **Incluye:**
   * **Alojamiento:** una noche en hotel estándar en Popayán y dos noches en hotel estándar tipo campestre en Tierradentro.  Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.
   * **Alimentación:** 3 desayunos
   * **Transporte** transfer privado en la ruta Popayán-Tierradentro
