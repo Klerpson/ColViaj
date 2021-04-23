@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour San Agustín Huila Mágico
+title: La Magia de San Agustín
 description: Un destino mágico en el sur del departamento del Huila. Conoce los Parques Arqueológicos de San Agustín y Alto de los Ídolos
 categories: Cultura
-img: img/destinos/san-agustin-huila/turista-san-agustin-vertical.webp
+img: img/destinos/san-agustin-huila/fotografia-parque-san-agustin-vertical.webp
 alt: Parque arqueológico de San Agustín Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

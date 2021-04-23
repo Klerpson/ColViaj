@@ -2,7 +2,67 @@
   
     {
 
-      "title"    : "La magia de San Agustín Huila",
+      "title"    : "La Magia de San Agustín",
+      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tierradentro y San Agustín Patrimonios de la Humanidad",
+      "url"      : "/ColViaj/cultura/tour-tierradentro-san-agustin/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Experiencias campesinas - Turismo consciente",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-experiencia-campesina/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Huila paraíso por descubrir",
+      "url"      : "/ColViaj/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
+      "category" : "Mira más en: Cultura and Naturaleza",
+      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Popayán Tradicional",
+      "url"      : "/ColViaj/cultura/tour-popayan-tradicional/",
+      "category" : "Mira más en: Cultura",
+      "url-cat"  : "/ColViaj/#Cultura",
+      "tags"     : ""
+
+    } ,
+  
+    {
+
+      "title"    : "San Agustín Huila Mágico",
       "url"      : "/ColViaj/san-agustin/",
       "category" : "Mira más en: ",
       "url-cat"  : "/ColViaj/#",
@@ -42,16 +102,6 @@
   
     {
 
-      "title"    : "Tierradentro y San Agustín Patrimonios de la Humanidad",
-      "url"      : "/ColViaj/cultura/tour-tierradentro-san-agustin/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
       "title"    : "Tour Desierto de la Tatacoa y Parques Arqueológicos de Tierradentro y San Agustín",
       "url"      : "/ColViaj/cultura/tour-tatacoa-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
@@ -82,16 +132,6 @@
   
     {
 
-      "title"    : "Tour San Agustín Huila Mágico",
-      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
       "title"    : "Tour San Agustín, extremo y natural",
       "url"      : "/ColViaj/naturaleza/tour-san-agustin-extremo/",
       "category" : "Mira más en: Naturaleza",
@@ -112,16 +152,6 @@
   
     {
 
-      "title"    : "Tour Popayán Tradicional",
-      "url"      : "/ColViaj/cultura/tour-popayan-tradicional/",
-      "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
       "title"    : "Tour Popayán y Parque Arqueológico de Tierradentro",
       "url"      : "/ColViaj/cultura/tour-popayan-tierradentro/",
       "category" : "Mira más en: Cultura",
@@ -132,7 +162,7 @@
   
     {
 
-      "title"    : "Tour Popayán y Silvia Cauca",
+      "title"    : "Popayán y Silvia Cauca",
       "url"      : "/ColViaj/cultura/tour-popayan-silvia/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
@@ -172,40 +202,10 @@
   
     {
 
-      "title"    : "Tour Huila, paraíso por descubrir",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
-      "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
       "title"    : "Tour Guaviare natural y ancestral",
       "url"      : "/ColViaj/cultura/tour-guaviare-ancestral/",
       "category" : "Mira más en: Cultura",
       "url-cat"  : "/ColViaj/#Cultura",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
-      "title"    : "Tour Experiencias campesinas - Turismo consciente",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-experiencia-campesina/",
-      "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
-      "tags"     : ""
-
-    } ,
-  
-    {
-
-      "title"    : "Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/",
-      "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,

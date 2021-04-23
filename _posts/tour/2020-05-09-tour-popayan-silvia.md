@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Popayán y Silvia Cauca
+title: Popayán y Silvia Cauca
 description: Un plan para vivir la historia y arquitectura de una de las ciudades más antiguas de Suramérica y la cultura de nuestros pueblos indígenas
 categories: Cultura
 img: img/destinos/popayan/mercado-silvia-cauca-vertical.webp

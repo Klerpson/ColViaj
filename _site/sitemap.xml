@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>/cultura/tour-san-agustin-huila/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-tierradentro-san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/naturaleza/tour-experiencia-campesina/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/naturaleza/tour-huila-paraiso-por-descubrir/</loc>
+    </url>
+    
+    <url>
+        <loc>/cultura/tour-popayan-tradicional/</loc>
+    </url>
+    
+    <url>
         <loc>/san-agustin/</loc>
     </url>
     
@@ -18,10 +42,6 @@
     </url>
     
     <url>
-        <loc>/cultura/tour-tierradentro-san-agustin/</loc>
-    </url>
-    
-    <url>
         <loc>/cultura/tour-tatacoa-tierradentro-san-agustin/</loc>
     </url>
     
@@ -34,19 +54,11 @@
     </url>
     
     <url>
-        <loc>/cultura/tour-san-agustin-huila/</loc>
-    </url>
-    
-    <url>
         <loc>/naturaleza/tour-san-agustin-extremo/</loc>
     </url>
     
     <url>
         <loc>/naturaleza/tour-putumayo-entrada-amazonia/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/tour-popayan-tradicional/</loc>
     </url>
     
     <url>
@@ -70,19 +82,7 @@
     </url>
     
     <url>
-        <loc>/cultura/naturaleza/tour-huila-paraiso-por-descubrir/</loc>
-    </url>
-    
-    <url>
         <loc>/cultura/tour-guaviare-ancestral/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/naturaleza/tour-experiencia-campesina/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/</loc>
     </url>
     
     <url>

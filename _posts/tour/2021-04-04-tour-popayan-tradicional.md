@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Popayán Tradicional
+title: Popayán Tradicional
 description: Un plan para disfrutar de una de las ciudades más tradicionales de Colombia, recorrer sus calles adornadas de casas coloniales
 categories: Cultura
 img: img/destinos/popayan/balcones-popayan-vertical.webp
