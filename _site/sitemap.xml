@@ -30,19 +30,7 @@
     </url>
     
     <url>
-        <loc>/san-agustin/</loc>
-    </url>
-    
-    <url>
-        <loc>/popayan-historica/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/tour-travesia-rio-guejar/</loc>
-    </url>
-    
-    <url>
-        <loc>/naturaleza/tour-travesia-macizo-colombiano/</loc>
+        <loc>/cultura/tour-popayan-parque-arqueologico/</loc>
     </url>
     
     <url>
@@ -50,11 +38,23 @@
     </url>
     
     <url>
+        <loc>/cultura/tour-guaviare-ancestral/</loc>
+    </url>
+    
+    <url>
         <loc>/naturaleza/tour-tatacoa-paicol-san-agustin/</loc>
     </url>
     
     <url>
-        <loc>/naturaleza/tour-tatacoa-exotica/</loc>
+        <loc>/cultura/naturaleza/tour-parque-nacional-purace/</loc>
+    </url>
+    
+    <url>
+        <loc>/naturaleza/tour-travesia-macizo-colombiano/</loc>
+    </url>
+    
+    <url>
+        <loc>/naturaleza/tour-paicol-naturaleza-aventura/</loc>
     </url>
     
     <url>
@@ -66,23 +66,23 @@
     </url>
     
     <url>
+        <loc>/cultura/tour-travesia-rio-guejar/</loc>
+    </url>
+    
+    <url>
+        <loc>/naturaleza/tour-tatacoa-exotica/</loc>
+    </url>
+    
+    <url>
+        <loc>/san-agustin/</loc>
+    </url>
+    
+    <url>
+        <loc>/popayan-historica/</loc>
+    </url>
+    
+    <url>
         <loc>/cultura/tour-popayan-tierradentro/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/tour-popayan-san-agustin/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/naturaleza/tour-parque-nacional-purace/</loc>
-    </url>
-    
-    <url>
-        <loc>/naturaleza/tour-paicol-naturaleza-aventura/</loc>
-    </url>
-    
-    <url>
-        <loc>/cultura/tour-guaviare-ancestral/</loc>
     </url>
     
     <url>

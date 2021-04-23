@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Putumayo entrada a la amazonia colombiana
+title: Putumayo entrada a la amazonia colombiana
 description: La naturaleza y la aventura se mezclan en este plan en el Putumayo, considerada la entrada a la Amazonía colombiana.
 categories: Naturaleza
-img: img/destinos/putumayo/putumayo.webp
+img: img/destinos/putumayo/rio-putumayo-vertical.webp
 alt: Río Aguacate en Hornoyaco Putumayo
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

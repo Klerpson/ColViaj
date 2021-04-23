@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Desierto de la Tatacoa y Parque Arqueológico de San Agustín
+title: Desierto Tatacoa - Paicol y Parque Arqueológico San Agustín
 description: El plan perfecto para recorrer de norte a sur recorre los principales atractivos del departamento del Huila.
 categories: Naturaleza
-img: img/destinos/tatacoa/plantas-desierto-tatacoa-vertical.webp
+img: img/destinos/san-agustin-huila/san-agustin-parque-vertical.webp
 alt: Plantas del desierto de la Tatacoa
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

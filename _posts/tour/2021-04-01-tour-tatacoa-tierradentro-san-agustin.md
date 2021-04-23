@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Desierto de la Tatacoa y Parques Arqueológicos de Tierradentro y San Agustín
+title: Desierto Tatacoa y Parques Arqueológicos Tierradentro y San Agustín
 description: Un plan completo para recorrer esta tierra de bellos escenarios naturales que presentan increíbles contrastes
 categories: Cultura
 img: img/destinos/san-agustin-huila/estatua-san-agustin-vertical.webp

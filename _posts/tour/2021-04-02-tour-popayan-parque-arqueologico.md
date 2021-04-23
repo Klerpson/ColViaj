@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Popayán y Parque Arqueológico de San Agustín 
+title: Popayán y Parque Arqueológico San Agustín
 description: Un plan para vivir la historia y arquitectura de una de las ciudades más antiguas de Suramérica y la cultura de nuestros pueblos indígenas
 categories: Cultura
 img: img/destinos/san-agustin-huila/estatua-sentada-san-agustin-vertical.webp

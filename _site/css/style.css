@@ -425,7 +425,7 @@ header {
   text-align: center;
   font-size: 1rem;
   border-right: 1px solid var(--blanco);
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3ff);
+  box-shadow: 0px 2px 5px rgba(64, 64, 64, 0.3);
   border-radius: 5px;
 }
 
@@ -616,33 +616,16 @@ header {
   }
 }
 .botones{
-  position: relative;
-  margin: 2em 0;
-  width: 100%;
-  font-family: var(--fuenteGraficas);
-  font-weight: 900;
-  font-style: italic;
-  font-size: 1.2em;
-  transition: 0.5s;
-  color: var(--accion);
-  grid-column: span 2;
-}
-
-.botones:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
-}
-
-.botones::before {
-  content: 'Clic';
-  position: absolute;
-  top: -0.5em;
-  left: 0;
-  color: rgba(255, 204, 0, 0.5);
-  font-size: 5rem;
-  letter-spacing: 5px;
-  z-index: -1;
+  margin: 0.2rem;
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+  grid-gap: 0.5em;
+  background-color: var(--accion);
+  padding: 0.7em 1em;
+  text-align: center;
+  font-size: 1rem;
+  border-right: 1px solid var(--blanco);
+  box-shadow: 0px 2px 5px rgba(64, 64, 64, 0.3);
+  border-radius: 5px;
 }
 .servicios {
   color: var(--accion);
@@ -893,23 +876,22 @@ main {
 }
 
 .articulo a {
-  margin: 2rem 0;
-  width: 100%;
-  color: var(--secundario);
-  font-family: var(--fuenteGraficas);
-  font-weight: 900;
-  font-style: italic;
-  font-size: 1.2rem;
-  transition: 0.5s;
-  text-decoration: underline;
-  text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.2rem;
+  margin: 0.2rem;
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+  grid-gap: 0.5em;
+  background-color: var(--accion);
+  padding: 0.7em 1em;
+  text-align: center;
+  font-size: 1rem;
+  border-right: 1px solid var(--blanco);
+  box-shadow: 0px 2px 5px rgba(64, 64, 64, 0.3);
+  border-radius: 5px;
+  color: var(--blanco);
+  transition: 0.2s ease-in;
 }
 
 .articulo a:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
+  padding: 1em 1.2em;
 }
 
 .relacionados {

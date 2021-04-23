@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour San Agustín, extremo y natural
+title: San Agustín extremo y natural
 description: Otra forma de disfrutar de este maravilloso destino del sur de Colombia, combina la magia y el misterio del Parque Arqueológico de San Agustín
 categories: Naturaleza
 img: img/destinos/san-agustin-huila/san-agustin-extremo-vertical.webp

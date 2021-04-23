@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Tatacoa Exótica
+title: Desierto de la Tatacoa Exótico
 description: Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desierto de la Tatacoa
 categories: Naturaleza
-img: img/destinos/tatacoa/souvenir-desierto-tatacoa-vertical.webp
+img: img/destinos/tatacoa/tour-desierto-tatacoa-vertical.webp
 alt: Souvenirs del desierto de la Tatacoa
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Paicol naturaleza y aventura
+title: Paicol naturaleza y aventura
 description: El plan perfecto para recorrer de norte a sur recorre los principales atractivos del departamento del Huila.
 categories: Naturaleza
-img: img/destinos/paicol/cascadas-de-paicol-huila.webp
+img: img/destinos/paicol/cascadas-paicol-huila-vertical.webp
 alt: Fotografía de cascadas de Paicol Huila
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

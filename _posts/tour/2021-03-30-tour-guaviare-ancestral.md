@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tour Guaviare natural y ancestral
+title: Guaviare natural y ancestral
 description: Escápate al Guaviare, uno de los destinos inexplorados de Colombia, deslúmbrate con las más impresionantes pinturas rupestres
 categories: Cultura
 img: img/destinos/guaviare/pinturas-rupestres-guaviare-vertical.webp

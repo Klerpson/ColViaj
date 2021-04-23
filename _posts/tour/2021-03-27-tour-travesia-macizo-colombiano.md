@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Travesía Macizo Colombiano
+title: Travesía Macizo Colombiano
 description: La naturaleza y la aventura se mezclan en este plan donde se visitan los atractivos más destacados del Parque Natural Nacional Puracé
 categories: Naturaleza
-img: img/destinos/purace/laguna-amazonas-purace-vertical.webp
+img: img/destinos/purace/tour-parque-purace-vertical.webp
 alt: Fotografía del macizo colombiano en el parque Nacional Puracé
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya

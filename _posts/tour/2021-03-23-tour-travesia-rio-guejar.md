@@ -1,9 +1,9 @@
 ---
 layout: articulo
-title: Tour Travesía Cañón del río Guejar
+title: Travesía Cañón del río Guejar
 description: Un plan para explorar una de las maravillas naturales del Meta, el majestuoso cañón del río Güejar
 categories: Cultura
-img: img/destinos/guaviare/rio-guaviare-vertical.webp
+img: img/destinos/guaviare/rio-canon-guejar.webp
 alt: Río del San José del Guaviare
 autor: Colombia Viajera
 copyright: Julian Andres Franco Bedoya
