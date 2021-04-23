@@ -2,9 +2,8 @@
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <div>
-    <h2 class="wow bounceInRight" id="{{ category_name}}">{{ category_name | capitalize}}
-      <span class="destinos-background">{{ category_name }}</span>
-    </h2>
+    <h3 class="wow bounceInRight" id="{{ category_name}}">{{ category_name | capitalize}}
+    </h3>
     {% for post in site.categories[category_name] %}
     <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
       <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
@@ -14,4 +13,5 @@
     {% endfor %}
   </div>
   {% endfor %}
+  
 </section>

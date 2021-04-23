@@ -153,7 +153,7 @@ header {
   left: 0;
   width: 500%;
   height: 100%;
-  animation: animar 20s linear infinite;
+  animation: animar 25s linear infinite;
 }
 
 @keyframes animar {
@@ -161,24 +161,28 @@ header {
     left: 0;
   }
 
-  10% {
+  20% {
     left: 0;
   }
 
-  20% {
+  25% {
+    left: -100%;
+  }
+
+  45% {
     left: -100%;
   }
 
   50% {
-    left: -100%;
-  }
-
-  60% {
     left: -200%;
   }
 
-  85% {
+  70% {
     left: -200%;
+  }
+
+  75% {
+    left: -300%;
   }
 
   95% {
@@ -186,8 +190,9 @@ header {
   }
 
   100% {
-    left: -300%;
+    left: -400%;
   }
+
 }
 
 .heroslider .slider .slide {
@@ -243,22 +248,27 @@ header {
 }
 
 .heroslider .slider .slide.slide1 {
-  background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
+  background: url(../img/slider/magia-san-agustin-huila-vertical.webp);
 }
 
 .heroslider .slider .slide.slide2 {
-  background: url(../img/slider/parque-arqueologico-san-agustin-vertical.webp);
+  background: url(../img/slider/travesia-canon-rio-guejar-vertical.webp);
 }
 
 .heroslider .slider .slide.slide3 {
-  background: url(../img/slider/macizo-colombiano-purace-vertical.webp);
+  background: url(../img/slider/pinturas-rupestres-guaviare-vertical.webp);
+}
+
+.heroslider .slider .slide.slide4 {
+  background: url(../img/slider/desierto-tatacoa-huila-vertical.webp);
 }
 
 .heroslider .slider .slide.slide1,
 .heroslider .slider .slide.slide2,
-.heroslider .slider .slide.slide3 {
+.heroslider .slider .slide.slide3,
+.heroslider .slider .slide.slide4 {
   background-size: cover;
-  background-position: center bottom;
+  background-position: bottom;
   background-attachment: fixed;
 }
 
@@ -291,23 +301,28 @@ header {
   }
 
   .heroslider .slider .slide.slide1 {
-    background: url(../img/slider/desierto-tatacoa-huila.webp);
+    background: url(../img/slider/magia-san-agustin-huila.webp);
   }
 
   .heroslider .slider .slide.slide2 {
-    background: url(../img/slider/parque-arqueologico-san-agustin.webp);
+    background: url(../img/slider/travesia-canon-rio-guejar.webp);
   }
 
   .heroslider .slider .slide.slide3 {
-    background: url(../img/slider/macizo-colombiano-parque-purace.webp);
+    background: url(../img/slider/pinturas-rupestres-guaviare.webp);
+  }
+
+  .heroslider .slider .slide.slide4 {
+    background: url(../img/slider/desierto-tatacoa-huila.webp);
   }
 
   .heroslider .slider .slide.slide1,
   .heroslider .slider .slide.slide2,
-  .heroslider .slider .slide.slide3 {
+  .heroslider .slider .slide.slide3,
+  .heroslider .slider .slide.slide4 {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom center;
+    background-position: bottom;
     background-attachment: fixed;
   }
 
@@ -393,9 +408,12 @@ header {
   padding: 1rem 2rem;
 }
 
-.categorias h2 {
+.categorias h1 {
+  margin-top: 3rem;
   text-align: center;
   width: 100%;
+  color: var(--complemento1);
+  text-transform: uppercase;
 }
 
 .categorias div {
@@ -407,7 +425,7 @@ header {
   text-align: center;
   font-size: 1rem;
   border-right: 1px solid var(--blanco);
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3ff);
   border-radius: 5px;
 }
 
@@ -418,6 +436,11 @@ header {
 .categorias div a {
   color: var(--blanco);
   font-family: var(--fuenteTexto);
+}
+
+.titulo-viajes{
+  width: 100%;
+  text-align: center;
 }
 
 /* Buscador */
@@ -459,6 +482,11 @@ header {
   .categorias {
     gap: 1em;
   }
+
+  .viajes h1 {
+    margin-top: 5rem;
+  }
+
   #search-container {
     width: 40vw;
     padding: 0;
@@ -466,7 +494,7 @@ header {
 }
 .destinos {
   display: grid;
-  grid-gap: 7em;
+  grid-gap: 5em;
 }
 
 .destinos div {
@@ -477,29 +505,19 @@ header {
   justify-content: center;
 }
 
-.destinos div h2 {
+.destinos div h3 {
   position: relative;
   margin: 0;
   font-weight: 800;
   text-transform: capitalize;
   grid-column: span 2;
-}
-
-.destinos > h2{
+  font-size: 1.7rem;
+  color: var(--accion);
   text-align: center;
 }
 
-.destinos div h2 .destinos-background {
-  position: absolute;
-  left: 0;
-  bottom: calc(100% - 40%);
-  z-index: -1;
-  max-width: 105%;
-  color: rgba(52, 209, 191, 0.3);
-  font-family: var(--fuenteTexto);
-  text-transform: uppercase;
-  overflow-wrap: break-word;
-  line-height: 0.8em;
+.destinos>h2 {
+  text-align: center;
 }
 
 .destinos div>a {
@@ -520,6 +538,7 @@ header {
   font-weight: 700;
   font-family: var(--fuenteTexto);
   text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
   text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;
   transition: 0.5s;
@@ -531,6 +550,22 @@ header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
+.nota {
+  max-width: 70vw;
+  margin: 0 auto 3rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.nota a {
+  font-family: var(--fuenteTitulos);
+  color: var(--secundario);
+  text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+}
+
 @media screen and (min-width: 600px) {
 
   .destinos div {
@@ -538,11 +573,11 @@ header {
     grid-gap: 2rem;
   }
 
-  .destinos div h2{
+  .destinos div h3 {
     grid-column: span 3;
   }
 
-  .destinos div h2 .destinos-background {
+  .destinos div h3 .destinos-background {
     bottom: calc(100% - 60%);
   }
 
@@ -557,17 +592,21 @@ header {
     grid-gap: 2em;
   }
 
-  .destinos div h2{
+  .destinos div h3 {
     grid-column: span 4;
   }
 
-  .destinos div h2 .destinos-background {
+  .destinos div h3 .destinos-background {
     max-width: 120%;
   }
 
   .destinos div a h4 {
     text-shadow: -1px -1px 1px var(--gris1),
       2px 2px 1px var(--gris3);
+  }
+
+  .nota {
+    max-width: 50vw;
   }
 }
 
@@ -637,7 +676,7 @@ header {
   padding: 2rem;
   margin: 1rem 3rem;
   border-radius: 5px;
-  box-shadow: 0px 2px 7px rgba(16, 29, 15, 0.5);
+  box-shadow: 2px 2px 5px rgba(16, 29, 15, 0.3);
 }
 
 .servicios li h3 {
@@ -659,7 +698,7 @@ header {
 
 .servicios li:nth-child(1),
 .servicios li:nth-child(3) {
-  background-color: var(--complemento1);
+  background-color: var(--accion);
   z-index: -2;
   color: var(--blanco);
 }
@@ -687,7 +726,7 @@ header {
 
   .servicios li:nth-child(1),
   .servicios li:nth-child(4) {
-    background-color: var(--principal);
+    background-color: var(--accion);
     z-index: -2;
   }
 
@@ -715,7 +754,7 @@ header {
 
   .servicios li:nth-child(1),
   .servicios li:nth-child(3) {
-    background-color: var(--principal);
+    background-color: var(--accion);
     color: var(--blanco);
     z-index: -2;
   }
@@ -723,7 +762,7 @@ header {
   .servicios li:nth-child(1) h3,
   .servicios li:nth-child(3) h3{
     color: var(--blanco);
-    background-color: var(--principal);
+    background-color: var(--accion);
   }
 
   .servicios li:nth-child(4),
@@ -989,7 +1028,7 @@ main {
   break-inside: avoid;
   page-break-inside: avoid;
   transition: transform 0.5s;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   border-radius: 5px;
   margin: 0 0 0.7rem 0;
 }
@@ -1083,7 +1122,7 @@ footer li a {
 
 footer li a:hover {
   text-decoration: underline;
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.4rem;
   -webkit-text-decoration-color: var(--principal);
           text-decoration-color: var(--principal);
 }
@@ -1091,23 +1130,6 @@ footer li a:hover {
 footer p {
   margin: 0;
   padding: 0.7em 1em;
-}
-
-footer .julian {
-  color: var(--complemento1);
-  font-family: var(--fuenteTexto);
-  font-weight: 700;
-  text-decoration: underline;
-  -webkit-text-decoration-color: var(--principal);
-          text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
-  transition: 0.5s;
-}
-
-footer .julian:hover {
-  color: var(--principal);
-  -webkit-text-decoration-color: var(--complemento1);
-          text-decoration-color: var(--complemento1);
 }
 
 @media screen and (min-width: 600px) {

@@ -16,6 +16,9 @@ Otra forma de disfrutar de este maravilloso destino del sur de Colombia, combina
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="san-agustin-tour" %}
+
 Siente la adrenalina sobre las aguas del río magdalena, haz canopi en medio del paisaje del Macizo Colombiano y deslúmbrate con el paisaje del Estrecho del río Magdalena.
 
 * **Tarifa desde:** $550.000 por persona

@@ -45,15 +45,12 @@ El centro experiencial amazónico situado en el kilómetro 8 vía a Villa Garzó
 ## ¿Qué debes saber antes de visitar {{page.title}}?
 
 -- | --
-✔️ Su capital Mocoa queda en el piedemonte amazónico | ❌ Mocoa está a 3 horas de San Agustín y 10 horas de Bogotá, vía terrestre
-✔️ Por las múltiples influencias foráneas y autóctonas hay una diversidad gastronómica | ❌ Entre mayo y julio se presentan las lluvias más constantes.
-✔️ Conexión total con la naturaleza en las reservas naturales |
-✔️ Trece comunidades indígenas habitan este departamento |
-✔️ El alto Putumayo es territorio ancestral de las etnias inga y kamentzá |
-✔️ El Valle de Sibundoy es un espacio para entrar en contacto con otras visiones del mundo acudiendo a los recintos chamánicos de los “taitas sabedores” del yagé |
-✔️ Los atractivos turísticos naturales como Cascadas Fin del Mundo, Cañón de Hornoyaco y ojo de Dios quedan a pocos kilómetros de Mocoa la capital del departamento por lo que es muy fácil movilizarse |
-✔️ Cuenta con un aeropuerto en VillaGarzón a 40 minutos de Mocoa con operación de la aerolínea Satena y el aeropuerto de Pitalito Huila a 3 horas de Mocoa con operación de la aerolínea Satena |
-✔️ Su clima es templado y húmedo de hasta 30ºC |
+🔘 Su capital Mocoa queda en el piedemonte amazónico | 🔘 Mocoa está a 3 horas de San Agustín y 10 horas de Bogotá, vía terrestre
+🔘 Por las múltiples influencias foráneas y autóctonas hay una diversidad gastronómica | 🔘 Entre mayo y julio se presentan las lluvias más constantes.
+🔘 Conexión total con la naturaleza en las reservas naturales | 🔘 Trece comunidades indígenas habitan este departamento
+🔘 El alto Putumayo es territorio ancestral de las etnias inga y kamentzá | 🔘 El Valle de Sibundoy es un espacio para entrar en contacto con otras visiones del mundo acudiendo a los recintos chamánicos de los “taitas sabedores” del yagé
+🔘 Los atractivos turísticos naturales como Cascadas Fin del Mundo, Cañón de Hornoyaco y ojo de Dios quedan a pocos kilómetros de Mocoa la capital del departamento por lo que es muy fácil movilizarse | 🔘 Cuenta con un aeropuerto en VillaGarzón a 40 minutos de Mocoa con operación de la aerolínea Satena y el aeropuerto de Pitalito Huila a 3 horas de Mocoa con operación de la aerolínea Satena
+🔘 Su clima es templado y húmedo de hasta 30ºC |
 
 ## Nuestros planes al Putumayo
 

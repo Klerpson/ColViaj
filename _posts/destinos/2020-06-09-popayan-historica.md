@@ -3,7 +3,7 @@ layout: articulo
 title: Turismo en Popayán
 description: La ciudad blanca de Colombia te espera para enamorarte
 keywords: popayan, popayan cauca, turismo popayan, popayan turismo, popayan colombia, popayan hoteles
-tags: [cultura, popayán, historia]
+tags: [cultura]
 img: img/destinos/popayan/centro-popayan-cauca-vertical.webp
 alt: Popayán ciudad blanca de Colombia
 autor: Colombia Viajera
@@ -46,12 +46,10 @@ El turismo religioso es inseparable de la historia de la ciudad. Es así como la
 ## ¿Qué debes saber antes de visitar {{page.title}}?
 
 -- | --
-✔️ Su oferta gastronómica te deleitará, Popayán ha sido declarada ciudad de la gastronomía por la Unesco | ❌ Debes estar preparado para la lluvia y el sol, pero su clima es muy apacible
-✔️ Si eres religioso católico, programa tu visita a Popayán en Semana Santa. ¡Realmente vale la pena! |
-✔️ Si lo que deseas es una actividad al aire libre, te recomendamos visitar el Parque Nacional Natural Puracé a 1:30h desde Popayán  |
-✔️ No te pierdas un atardecer payanes desde el cerro el morro  |
-✔️ Recorrer el centro histórico a pie o en bicicleta es un gran plan |
-✔️ Cuenta con un aeropuerto con operación diaria de las aerolíneas Avianca y Easyfly |
+🔘 Su oferta gastronómica te deleitará, Popayán ha sido declarada ciudad de la gastronomía por la Unesco | 🔘 Debes estar preparado para la lluvia y el sol, pero su clima es muy apacible
+🔘 Si eres religioso católico, programa tu visita a Popayán en Semana Santa. ¡Realmente vale la pena! | 🔘 Si lo que deseas es una actividad al aire libre, te recomendamos visitar el Parque Nacional Natural Puracé a 1:30h desde Popayán
+🔘 No te pierdas un atardecer payanes desde el cerro el morro  | 🔘 Recorrer el centro histórico a pie o en bicicleta es un gran plan
+🔘 Cuenta con un aeropuerto con operación diaria de las aerolíneas Avianca y Easyfly |
 
 ## Nuestros planes a San Agustín
 

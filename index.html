@@ -8,18 +8,22 @@ description: Haz tu viaje con la seguridad de conseguir los mejores recuerdos de
 {% include categorias.html %}
 {% include buscador.html %}
 
+<p class="nota">Esta es toda nuestra <strong>oferta turística</strong>. ¡Nos encantaría ser tu primera opción para tu próximo viaje!</p>
+
 {% include destinos.html %}
+
+<p class="nota">Todos estos <strong>destinos turísticos de Colombia</strong> están al alcance de tu mano. Selecciona el que más te gusta. Mira toda su información necesaria para tomar tu decisión. Y finalmente, <a href="{{site.baseurl}}/contacto" title="Link a la página de contacto de Colombia Viajera">contáctanos</a> para preparar tus próximas vacaciones favoritas.</p>
 
 {% include parallax.html clase="testimonio1" front="fabio-velez-colombia-viajera.webp" texto="Terminamos el viaje sin ninguna dificultad. Todo salió como se planeó y quedamos muy a gusto. Todos les quedamos muy agradecidos - Fabio Vélez" %}
 
 <section class="destinos">
   <h2>¿Te gusta viajar por Colombia? Mira estos destinos</h2>
+
+  <p class="nota">Cada uno de estos destinos lo seleccionamos para ofrecerte una <strong>oferta de viaje económica, tranquila, segura y llena de atracciones diferentes y fascinantes.</strong> Selecciona el que más te guste:</p>
   {% for tag in site.tags %}
   {% capture entrada %}{{ tag | first }}{% endcapture %}
   <div>
-      <h2 class="wow bounceInRight">{{ entrada | capitalize}}
-        <span class="destinos-background">{{ entrada }}</span>
-      </h2>
+      <h3 class="wow bounceInRight">{{ entrada | capitalize}}</h3>
       {% for post in site.tags[entrada] %}
       <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
         <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">

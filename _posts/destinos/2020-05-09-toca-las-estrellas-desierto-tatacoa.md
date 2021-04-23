@@ -45,12 +45,12 @@ Un destino que de hecho no es propiamente un desierto, sino un bosque seco tropi
 <!-- La siguiente es una tabla de dos columnas. La primera columna son aspectos positivos. Comienza con el primer símbolo y termina en la línea vertical. La segunda columna son aspecto un poco negativos, no mucho. Estos comienzan en la X y terminan en el punto aparte. Se llena cada columna según el número de aspectos. Al ser más aspectos positivos que negativos, se dejan las filas hasta la línea vertical. Luego se copia la siguiente línea, se pega y se pone la siguiente fila con solo aspectos positivos  -->
 
 -- | --
-✔️ Senderismo y observación astronómica son las actividades turísticas preferidas | ❌ En esta zona la temperatura es muy alta
-✔️ Destino ideal para una escapada de fin de semana | ❌ Si quieres más confort hay oferta hotelera y gastronómica en el municipio de Villavieja a 15 minutos del desierto de la Tatacoa
-✔️ Fue nominado con la categoría Starligth por considerarse el mejor lugar en Colombia para realizar observación astronómica | ❌ El aeropuerto más cercano queda a 1 hora en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly
-✔️ Sus paisajes lunares hacen de este destino único en Colombia | ❌ Si necesitas dinero en efectivo, sólo encontraras cajero automático de Servivanca y corresponsal bancario de Bancolombia
-✔️ Si deseas algo más experiencial puedes alojarte en las posadas turísticas del Desierto y adaptarte a las condiciones del destino | ❌ Te sugerimos siempre comprar agua enbotellada pues el destino no cuenta con agua potable
-✔️ Estamos a 6 horas de Bogotá por vía terrestre |
+🔘 Senderismo y observación astronómica son las actividades turísticas preferidas | 🔘 En esta zona la temperatura es muy alta
+🔘 Destino ideal para una escapada de fin de semana | 🔘 Si quieres más confort hay oferta hotelera y gastronómica en el municipio de Villavieja a 15 minutos del desierto de la Tatacoa
+🔘 Fue nominado con la categoría Starligth por considerarse el mejor lugar en Colombia para realizar observación astronómica | 🔘 El aeropuerto más cercano queda a 1 hora en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly
+🔘 Sus paisajes lunares hacen de este destino único en Colombia | 🔘 Si necesitas dinero en efectivo, sólo encontraras cajero automático de Servivanca y corresponsal bancario de Bancolombia
+🔘 Si deseas algo más experiencial puedes alojarte en las posadas turísticas del Desierto y adaptarte a las condiciones del destino | 🔘 Te sugerimos siempre comprar agua enbotellada pues el destino no cuenta con agua potable
+🔘 Estamos a 6 horas de Bogotá por vía terrestre |
 
 ## Nuestros planes al desierto de la Tatacoa
 

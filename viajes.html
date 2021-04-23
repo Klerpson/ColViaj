@@ -12,7 +12,7 @@ description: Comparte las experiencias de todos nuestros amigos viajeros y de su
 {% include buscador.html %}
 
 <section class="categorias">
-  <h2>¿Cuál de estas opciones te gustaría disfrutar en tu próximo viaje por Colombia?</h2>
+  <h2 class="titulo-viajes">¿Cuál de estas opciones te gustaría disfrutar en tu próximo viaje por Colombia?</h2>
   {% for category in site.tags %}
   <div class="wow fadeInUpBig">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -26,7 +26,6 @@ description: Comparte las experiencias de todos nuestros amigos viajeros y de su
   {% capture entrada %}{{ tag | first }}{% endcapture %}
   <div id="{{ entrada}}">
     <h2 class="wow bounceInRight">{{ entrada | capitalize}}
-      <span class="destinos-background">{{ entrada }}</span>
     </h2>
     {% for post in site.tags[entrada] %}
     <a href="{{site.baseurl}}{{ post.url }}" target="_blank">

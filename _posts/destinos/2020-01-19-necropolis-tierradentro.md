@@ -40,12 +40,12 @@ El parque arqueológico nacional de Tierradentro está en medio de la tranquilid
 ## ¿Qué debes saber antes de visitar {{page.title}}?
 
 -- | --
-✔️ Su parque arqueológico fue declarado patrimonio de la humanidad por la Unesco | ❌ Es un destino turístico emergente, así que la oferta hotelera y gastronómica es reducida
-✔️ Actividades turísticas en el destino: senderismo, investigación, fotografía y video | ❌ El aeropuerto más cercano queda a 4 horas en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly
-✔️ Desconexión de la modernidad y conexión total con la naturaleza  | ❌ Tierradentro está a 4 horas de Popayán y 9 horas de Bogotá vía terrestre
-✔️ Es un destino de naturaleza y espiritualidad  | ❌ Hay que llevar dinero en efectivo, ya que no hay cajeros bancarios en la zona
-✔️ Sus hipogeos son únicos en el mundo, por ello su declaratoria de Patrimonio de la Humanidad  | ❌ Te sugerimos siempre comprar agua embotellada pues el destino no cuenta con agua potable
-✔️ El destino esta habitado en su mayoría por la comunidad indígena misak  |
+🔘 Su parque arqueológico fue declarado patrimonio de la humanidad por la Unesco | 🔘 Es un destino turístico emergente, así que la oferta hotelera y gastronómica es reducida
+🔘 Actividades turísticas en el destino: senderismo, investigación, fotografía y video | 🔘 El aeropuerto más cercano queda a 4 horas en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly
+🔘 Desconexión de la modernidad y conexión total con la naturaleza  | 🔘 Tierradentro está a 4 horas de Popayán y 9 horas de Bogotá vía terrestre
+🔘 Es un destino de naturaleza y espiritualidad  | 🔘 Hay que llevar dinero en efectivo, ya que no hay cajeros bancarios en la zona
+🔘 Sus hipogeos son únicos en el mundo, por ello su declaratoria de Patrimonio de la Humanidad  | 🔘 Te sugerimos siempre comprar agua embotellada pues el destino no cuenta con agua potable
+🔘 El destino esta habitado en su mayoría por la comunidad indígena misak  |
 
 ## Nuestros planes a San Agustín
 

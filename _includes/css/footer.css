@@ -33,7 +33,7 @@ footer li a {
 
 footer li a:hover {
   text-decoration: underline;
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.4rem;
   -webkit-text-decoration-color: var(--principal);
           text-decoration-color: var(--principal);
 }
@@ -41,23 +41,6 @@ footer li a:hover {
 footer p {
   margin: 0;
   padding: 0.7em 1em;
-}
-
-footer .julian {
-  color: var(--complemento1);
-  font-family: var(--fuenteTexto);
-  font-weight: 700;
-  text-decoration: underline;
-  -webkit-text-decoration-color: var(--principal);
-          text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
-  transition: 0.5s;
-}
-
-footer .julian:hover {
-  color: var(--principal);
-  -webkit-text-decoration-color: var(--complemento1);
-          text-decoration-color: var(--complemento1);
 }
 
 @media screen and (min-width: 600px) {

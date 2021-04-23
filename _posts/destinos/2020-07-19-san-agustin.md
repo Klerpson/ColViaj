@@ -41,13 +41,12 @@ Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de
 <!-- La siguiente es una tabla de dos columnas. La primera columna son aspectos positivos. Comienza con el primer símbolo y termina en la línea vertical. La segunda columna son aspecto un poco negativos, no mucho. Estos comienzan en la X y terminan en el punto aparte. Se llena cada columna según el número de aspectos. Al ser más aspectos positivos que negativos, se dejan las filas hasta la línea vertical. Luego se copia la siguiente línea, se pega y se pone la siguiente fila con solo aspectos positivos  -->
 
 -- | --
-✔️ Sus parques fueron declarados patrimonio de la Humanidad | ❌ El aeropuerto más cercano queda a 40minutos en la ciudad de Pitalito Huila y sólo opera la aerolínea Satena
-✔️ Diversidad de actividades para realizar: senderismo, actividades de aventura, agroturismo, turismo cultural y arqueológico | ❌ Estamos a 10 horas de Bogotá y 4 horas de Neiva y Popayán por vía terrestre
-✔️ Gran diversidad gastronómica que te deleitará | ❌ Debes estar preparado para la lluvia y el sol, estamos en el corazón del Macizo Colombiano.
-✔️ Es cuna de artistas y artesanos, por ello encontrarás sus calles adornadas de murales y de variedad de souvenirs artesanales | ❌ Si necesitas dinero en efectivo, sólo encontraras cajeros automáticos de Banco Bogotá y Servivanca y corresponsal bancario de Bancolombia
-✔️ Región cafetera ganadora de taza de la excelencia, así que disfrutarás de cafés especiales en cada rincón |
-✔️ Cuenta con una gran infraestructura hotelera para todos los gustos y presupuestos |
-✔️ Su temperatura promedio es de 25ºC en el día y de 18ºC en la noche, un clima muy agradable |
+🔘 Sus parques fueron declarados patrimonio de la Humanidad | 🔘 El aeropuerto más cercano queda a 40minutos en la ciudad de Pitalito Huila y sólo opera la aerolínea Satena
+🔘 Diversidad de actividades para realizar: senderismo, actividades de aventura, agroturismo, turismo cultural y arqueológico | 🔘 Estamos a 10 horas de Bogotá y 4 horas de Neiva y Popayán por vía terrestre
+🔘 Gran diversidad gastronómica que te deleitará | 🔘 Debes estar preparado para la lluvia y el sol, estamos en el corazón del Macizo Colombiano.
+🔘 Es cuna de artistas y artesanos, por ello encontrarás sus calles adornadas de murales y de variedad de souvenirs artesanales | 🔘 Si necesitas dinero en efectivo, sólo encontraras cajeros automáticos de Banco Bogotá y Servivanca y corresponsal bancario de Bancolombia
+🔘 Región cafetera ganadora de taza de la excelencia, así que disfrutarás de cafés especiales en cada rincón | 🔘 Cuenta con una gran infraestructura hotelera para todos los gustos y presupuestos
+🔘 Su temperatura promedio es de 25ºC en el día y de 18ºC en la noche, un clima muy agradable |
 
 ## Nuestros planes a San Agustín
 
