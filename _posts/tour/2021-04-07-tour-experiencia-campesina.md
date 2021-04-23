@@ -16,6 +16,9 @@ En San Agustín al sur del departamento del Huila vivirás experiencias rurales 
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="experiencia-campesina" %}
+
 Para complementar esta experiencia sentirás la magia del parque arqueológico de San Agustín – Patrimonio de la Humanidad - y vive la cultura local de San Agustín en un city tour en bici.
 
 * ✔️ **Tarifa desde:** $480.000 por persona
