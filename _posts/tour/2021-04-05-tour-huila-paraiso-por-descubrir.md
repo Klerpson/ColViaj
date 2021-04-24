@@ -16,6 +16,9 @@ Un plan completo para recorrer esta tierra de bellos escenarios naturales que pr
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="huila-paraiso" %}
+
 Podrá vivir experiencias inolvidables al recorrer en pocas horas este variado territorio de norte a sur, pasando por la zona ardiente del Desierto de la Tatacoa y su noche de estrellas, adentrarnos al misterio arqueológico en San Agustín y vivir su cultura local y relajarnos en un baño termal en Rivera.
 
 * ✔️ **Tarifa desde:** $680.000 por persona

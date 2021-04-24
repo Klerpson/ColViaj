@@ -15,6 +15,9 @@ El plan perfecto para recorrer de norte a sur los principales atractivos del dep
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="tatacoa-san-agustin" %}
+
 Explora los exóticos paisajes del desierto de la Tatacoa y en la noche contemplar los millones de estrellas que forma la vía láctea. Sumérgete en la magia del parque arqueológico de San Agustín declarado patrimonio de la humanidad por la Unesco y asómbrate con la belleza del paisaje del macizo colombiano.
 
 * ✔️ **Tarifa desde:** $530.000 por persona
