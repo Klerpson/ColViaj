@@ -16,6 +16,9 @@ Un plan completo para recorrer esta tierra de bellos escenarios naturales que pr
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="tatacoa-parques-sanagustin" %}
+
 * ✔️ **Tarifa desde:** $595.000 por persona
 * ✔️ **Duración:** 5 días
 * ✔️ **Fecha:** todos los días previa reserva
