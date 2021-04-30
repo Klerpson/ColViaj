@@ -3,9 +3,9 @@
     {
 
       "title"    : "La Magia de San Agustín",
-      "url"      : "/ColViaj/cultura/tour-san-agustin-huila/",
+      "url"      : "/cultura/tour-san-agustin-huila/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -13,9 +13,9 @@
     {
 
       "title"    : "Tierradentro y San Agustín Patrimonios de la Humanidad",
-      "url"      : "/ColViaj/cultura/tour-tierradentro-san-agustin/",
+      "url"      : "/cultura/tour-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -23,9 +23,9 @@
     {
 
       "title"    : "Experiencias campesinas - Turismo consciente",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-experiencia-campesina/",
+      "url"      : "/cultura/naturaleza/tour-experiencia-campesina/",
       "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "url-cat"  : "/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -33,9 +33,9 @@
     {
 
       "title"    : "Desierto de la Tatacoa y Parque Arqueológico de San Agustín",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/",
+      "url"      : "/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/",
       "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "url-cat"  : "/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -43,9 +43,9 @@
     {
 
       "title"    : "Huila paraíso por descubrir",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
+      "url"      : "/cultura/naturaleza/tour-huila-paraiso-por-descubrir/",
       "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "url-cat"  : "/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -53,9 +53,9 @@
     {
 
       "title"    : "Popayán Tradicional",
-      "url"      : "/ColViaj/cultura/tour-popayan-tradicional/",
+      "url"      : "/cultura/tour-popayan-tradicional/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -63,9 +63,9 @@
     {
 
       "title"    : "Popayán y Silvia Cauca",
-      "url"      : "/ColViaj/cultura/tour-popayan-silvia/",
+      "url"      : "/cultura/tour-popayan-silvia/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -73,9 +73,9 @@
     {
 
       "title"    : "Popayán y Parque Arqueológico San Agustín",
-      "url"      : "/ColViaj/cultura/tour-popayan-parque-arqueologico/",
+      "url"      : "/cultura/tour-popayan-parque-arqueologico/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -83,9 +83,9 @@
     {
 
       "title"    : "Desierto Tatacoa y Parques Arqueológicos Tierradentro y San Agustín",
-      "url"      : "/ColViaj/cultura/tour-tatacoa-tierradentro-san-agustin/",
+      "url"      : "/cultura/tour-tatacoa-tierradentro-san-agustin/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -93,9 +93,9 @@
     {
 
       "title"    : "Guaviare natural y ancestral",
-      "url"      : "/ColViaj/cultura/tour-guaviare-ancestral/",
+      "url"      : "/cultura/tour-guaviare-ancestral/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -103,9 +103,9 @@
     {
 
       "title"    : "Desierto Tatacoa - Paicol y Parque Arqueológico San Agustín",
-      "url"      : "/ColViaj/naturaleza/tour-tatacoa-paicol-san-agustin/",
+      "url"      : "/naturaleza/tour-tatacoa-paicol-san-agustin/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -113,9 +113,9 @@
     {
 
       "title"    : "Conexión Natural Parque Puracé",
-      "url"      : "/ColViaj/cultura/naturaleza/tour-parque-nacional-purace/",
+      "url"      : "/cultura/naturaleza/tour-parque-nacional-purace/",
       "category" : "Mira más en: Cultura and Naturaleza",
-      "url-cat"  : "/ColViaj/#CulturaNaturaleza",
+      "url-cat"  : "/#CulturaNaturaleza",
       "tags"     : ""
 
     } ,
@@ -123,9 +123,9 @@
     {
 
       "title"    : "Travesía Macizo Colombiano",
-      "url"      : "/ColViaj/naturaleza/tour-travesia-macizo-colombiano/",
+      "url"      : "/naturaleza/tour-travesia-macizo-colombiano/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -133,9 +133,9 @@
     {
 
       "title"    : "Paicol naturaleza y aventura",
-      "url"      : "/ColViaj/naturaleza/tour-paicol-naturaleza-aventura/",
+      "url"      : "/naturaleza/tour-paicol-naturaleza-aventura/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -143,9 +143,9 @@
     {
 
       "title"    : "San Agustín extremo y natural",
-      "url"      : "/ColViaj/naturaleza/tour-san-agustin-extremo/",
+      "url"      : "/naturaleza/tour-san-agustin-extremo/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -153,9 +153,9 @@
     {
 
       "title"    : "Putumayo entrada a la amazonia colombiana",
-      "url"      : "/ColViaj/naturaleza/tour-putumayo-entrada-amazonia/",
+      "url"      : "/naturaleza/tour-putumayo-entrada-amazonia/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -163,9 +163,9 @@
     {
 
       "title"    : "Travesía Cañón del río Guejar",
-      "url"      : "/ColViaj/cultura/tour-travesia-rio-guejar/",
+      "url"      : "/cultura/tour-travesia-rio-guejar/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -173,9 +173,9 @@
     {
 
       "title"    : "Desierto de la Tatacoa Exótico",
-      "url"      : "/ColViaj/naturaleza/tour-tatacoa-exotica/",
+      "url"      : "/naturaleza/tour-tatacoa-exotica/",
       "category" : "Mira más en: Naturaleza",
-      "url-cat"  : "/ColViaj/#Naturaleza",
+      "url-cat"  : "/#Naturaleza",
       "tags"     : ""
 
     } ,
@@ -183,9 +183,9 @@
     {
 
       "title"    : "San Agustín Huila Mágico",
-      "url"      : "/ColViaj/san-agustin/",
+      "url"      : "/san-agustin/",
       "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
+      "url-cat"  : "/#",
       "tags"     : "naturaleza, cultura"
 
     } ,
@@ -193,9 +193,9 @@
     {
 
       "title"    : "Turismo en Popayán",
-      "url"      : "/ColViaj/popayan-historica/",
+      "url"      : "/popayan-historica/",
       "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
+      "url-cat"  : "/#",
       "tags"     : "cultura"
 
     } ,
@@ -203,9 +203,9 @@
     {
 
       "title"    : "Tour Popayán y Parque Arqueológico de Tierradentro",
-      "url"      : "/ColViaj/cultura/tour-popayan-tierradentro/",
+      "url"      : "/cultura/tour-popayan-tierradentro/",
       "category" : "Mira más en: Cultura",
-      "url-cat"  : "/ColViaj/#Cultura",
+      "url-cat"  : "/#Cultura",
       "tags"     : ""
 
     } ,
@@ -213,9 +213,9 @@
     {
 
       "title"    : "Cielos estrellados en la Tatacoa",
-      "url"      : "/ColViaj/toca-las-estrellas-desierto-tatacoa/",
+      "url"      : "/toca-las-estrellas-desierto-tatacoa/",
       "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
+      "url-cat"  : "/#",
       "tags"     : "cultura, naturaleza"
 
     } ,
@@ -223,9 +223,9 @@
     {
 
       "title"    : "Putumayo Flora y Fauna",
-      "url"      : "/ColViaj/putumayo-flora-y-fauna/",
+      "url"      : "/putumayo-flora-y-fauna/",
       "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
+      "url-cat"  : "/#",
       "tags"     : "naturaleza"
 
     } ,
@@ -233,9 +233,9 @@
     {
 
       "title"    : "Tumbas de Tierradentro Cauca",
-      "url"      : "/ColViaj/necropolis-tierradentro/",
+      "url"      : "/necropolis-tierradentro/",
       "category" : "Mira más en: ",
-      "url-cat"  : "/ColViaj/#",
+      "url-cat"  : "/#",
       "tags"     : "naturaleza, cultura"
 
     } 

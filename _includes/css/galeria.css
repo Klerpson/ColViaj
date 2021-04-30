@@ -55,8 +55,8 @@
 }
 
 .light-box img{
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 100%;
+  max-height: 90%;
 }
 
 .light-box:target{

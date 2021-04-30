@@ -9,6 +9,7 @@
   border-right: 1px solid var(--blanco);
   box-shadow: 0px 2px 5px rgba(64, 64, 64, 0.3);
   border-radius: 5px;
+  transition: 0.3s ease-in;
 }
 
 .botones:hover {
