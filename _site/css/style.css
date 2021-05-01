@@ -1024,10 +1024,6 @@ main {
   padding: 0;
 }
 
-.galeria a:hover{
-  padding: 0;
-}
-
 .galeria a img{
   display: block;
   width: 100%;

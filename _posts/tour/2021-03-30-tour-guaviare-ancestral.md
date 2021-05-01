@@ -16,6 +16,9 @@ Escápate al Guaviare, uno de los destinos inexplorados de Colombia, deslúmbrat
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="guaviare-ancestral" %}
+
 Para culminar disfrutaras de un refrescante paseo por las aguas de la Laguna Negra y playa Güio, en medio de la vegetación flotante de la laguna.
 
 * ✔️ **Tarifa desde:** $750.000 por persona
