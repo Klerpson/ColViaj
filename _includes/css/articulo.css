@@ -37,7 +37,8 @@ main {
 }
 
 .articulo a {
-  margin: 0.2rem;
+  display: block;
+  margin: 1.5rem auto;
   grid-template-columns: repeat(auto-fit, minmax(150px, auto));
   grid-gap: 0.5em;
   background-color: var(--accion);
@@ -52,7 +53,7 @@ main {
 }
 
 .articulo a:hover {
-  padding: 1em 1.2em;
+  background-color: var(--complemento2);
 }
 
 .articulo li {

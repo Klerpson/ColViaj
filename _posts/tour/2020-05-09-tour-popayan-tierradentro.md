@@ -39,4 +39,4 @@ Estas dos joyas del departamento del Cauca unidas en un solo plan. Disfruta la h
 
 ## ¿Cómo llegar a Popayán en el Cauca?
 
-Consulta nuestro post ["POPAYÁN TRADICIONAL"]({{site.baseurl}}/popayan-historica/)
+Consulta nuestro post: ["POPAYÁN TRADICIONAL"]({{site.baseurl}}/popayan-historica/)

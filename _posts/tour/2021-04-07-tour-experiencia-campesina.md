@@ -43,4 +43,4 @@ Para complementar esta experiencia sentirás la magia del parque arqueológico d
 
 ## ¿Cómo llegar a San Agustín en el Huila?
 
-Consulta nuestro post ["LA MAGIA DE SAN AGUSTÍN"]({{site.baseurl}}/san-agustin/)
+Consulta nuestro post: ["LA MAGIA DE SAN AGUSTÍN"]({{site.baseurl}}/san-agustin/)

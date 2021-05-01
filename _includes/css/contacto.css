@@ -13,6 +13,8 @@ main.contacto {
 }
 
 .form{
+  width: 90%;
+  margin: 2rem auto;
   padding: 2rem;
 }
 .form__group {
@@ -48,10 +50,19 @@ textarea.form__input {
   margin: 0 0 0.7rem 0;
 }
 
-.form .botones {
+.form button {
   color: aliceblue;
   border: none;
   font-weight: 700;
+  background-color: var(--accion);
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 2px 0 5px rgba(33, 35, 02, 0.3);
+}
+
+.form button:hover {
+  background-color: var(--complemento2);
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {

@@ -41,4 +41,4 @@ Un recorrido por los Parques Arqueológicos declarados Patrimonio de la Humanida
 
 ## ¿Cómo llegar a Tierradentro Cauca?
 
-Consulta nuestro post ["NECRÓPOLIS TIERRADENTRO"]({{site.baseurl}}/necropolis-tierradentro/)
+Consulta nuestro post: ["NECRÓPOLIS TIERRADENTRO"]({{site.baseurl}}/necropolis-tierradentro/)
