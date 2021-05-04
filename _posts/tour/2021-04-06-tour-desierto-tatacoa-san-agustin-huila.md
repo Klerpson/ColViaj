@@ -42,4 +42,4 @@ Explora los exóticos paisajes del desierto de la Tatacoa y en la noche contempl
 
 ## ¿Cómo llegar a Villavieja  en el Huila?
 
-Consulta nuestro post: ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/toca-las-estrellas-desierto-tatacoa/)
+Consulta nuestro post ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/tour-estrellas-desierto-tatacoa/)

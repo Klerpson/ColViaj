@@ -16,6 +16,9 @@ Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desiert
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="tatacoa-exotica" %}
+
 * ✔️ **Tarifa desde:** $430.000 por persona
 * ✔️ **Duración:** 3 días
 * ✔️ **Fecha:** todos los días previa reserva
@@ -38,4 +41,4 @@ Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desiert
 
 ## ¿Cómo llegar a Villavieja  en el Huila?
 
-Consulta nuestro post ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/tour-de-las-estrellas-tatacoa/)
+Consulta nuestro post ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/tour-estrellas-desierto-tatacoa/)

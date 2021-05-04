@@ -38,4 +38,4 @@ El plan perfecto para recorrer de norte a sur recorre los principales atractivos
 
 ## ¿Cómo llegar a Villavieja  en el Huila?
 
-Consulta nuestro post ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/tour-de-las-estrellas-tatacoa/)
+Consulta nuestro post ["CIELOS ESTRELLADOS EN LA TATACOA"]({{site.baseurl}}/tour-estrellas-desierto-tatacoa/)
