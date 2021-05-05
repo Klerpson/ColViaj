@@ -17,6 +17,9 @@ Un plan perfecto de fin de semana para vivir una aventura natural en el municipi
 
 Explora la Caja de Agua, sus formaciones rocosas y fuentes de agua subterráneas y vive la adrenalina haciendo rafting por las aguas del río Paéz. Llenaras tus días de total conexión con la naturaleza en este maravilloso destino.
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="paicol-naturaleza" %}
+
 * ✔️ **Tarifa desde:** $370.000 por persona
 * ✔️ **Duración:** 3 días
 * ✔️ **Fecha:** todos los días previa reserva
