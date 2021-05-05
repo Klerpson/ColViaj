@@ -16,6 +16,9 @@ El plan perfecto para recorrer de norte a sur recorre los principales atractivos
 
 <!-- excerpt -->
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="tatacoa-paicol-sanagustin" %}
+
 * ✔️ **Tarifa desde:** $530.000 por persona
 * ✔️ **Duración:** 4 días
 * ✔️ **Fecha:** todos los días previa reserva
