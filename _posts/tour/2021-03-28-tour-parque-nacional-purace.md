@@ -19,6 +19,9 @@ Haremos senderismo por el exuberante paisaje, visitaremos la Piedra del Cóndor 
 
 Ascenderemos hasta el volcán Puracé, donde tendremos unas excelentes vistas del cráter humeante y la cordillera central de los Andes con su cadena de picos volcánicos.
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="purace-pnn" %}
+
 * ✔️ **Tarifa desde:** $925.000 por persona
 * ✔️ **Duración:** 4 días
 * ✔️ **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.

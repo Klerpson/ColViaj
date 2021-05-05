@@ -17,6 +17,9 @@ Un viaje de inmersión y de desconexión total con la modernidad. Sumérgete en 
 
 Caminaremos durante 4 días en el corazón del Macizo Colombiano, desde San Agustín Huila hasta Valencia Cauca, pasando por la Laguna de la Magdalena, donde nace nuestro rio de la patria en el Páramo de las Papas Parque Nacional Natural Puracé. Finalmente, disfrutaremos de la inmensidad y misterio de la laguna Santiago.
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="travesia-macizo" %}
+
 * ✔️ **Tarifa desde:** $1.300.000 por persona
 * ✔️ **Duración:** 5 días
 * ✔️ **Fecha:** todos los días previa reserva, aunque ofrecemos el viaje durante todo el año, siempre debe estar preparado para condiciones climáticas húmedas, frías y ventosas.
