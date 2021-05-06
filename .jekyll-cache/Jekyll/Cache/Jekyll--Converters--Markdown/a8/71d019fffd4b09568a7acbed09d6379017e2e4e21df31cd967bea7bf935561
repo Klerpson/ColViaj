@@ -1,0 +1,128 @@
+I"'<h1 id="travesía-cañón-del-río-guejar">Travesía Cañón del río Guejar</h1>
+
+<p>Un plan para explorar una de las maravillas naturales del Meta, el majestuoso cañón del río Güejar viviendo la adrenalina en la práctica del Rafting, disfrutando la conexión natural en medio del cañón y sus imponentes formaciones rocosas, conociendo historias de turismo y paz mientras recorres el camino para llegar hasta imponentes cascadas en bocas del Sansa en las estribaciones de la Serranía de La Macarena.</p>
+
+<!-- excerpt -->
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/img/destinos/guaviare/navegando-rio-guejar-mini.webp" alt="Río Guejar Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/img/destinos/guaviare/navegando-rio-guejar.webp" alt="Río Guejar Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/img/destinos/guaviare/turismo-rios-guaviare-mini.webp" alt="Turismo en los ríos del Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/img/destinos/guaviare/turismo-rios-guaviare.webp" alt="Turismo en los ríos del Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/img/destinos/guaviare/cerro-azul-guaviare-mini.webp" alt="Entrada a Cerro Azul Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/img/destinos/guaviare/cerro-azul-guaviare.webp" alt="Entrada a Cerro Azul Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/img/destinos/guaviare/rocas-gigantes-guaviare-vertical.webp" alt="Turistas en el Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/img/destinos/guaviare/rocas-gigantes-guaviare.webp" alt="Turistas en el Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img5">
+		<img src="/img/destinos/guaviare/cuevas-guaviare-vertical.webp" alt="Rocas gigantes en el Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img5">
+		<img src="/img/destinos/guaviare/cuevas-guaviare.webp" alt="Rocas gigantes en el Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img6">
+		<img src="/img/destinos/guaviare/turismo-navegando-rio-guaviare-mini.webp" alt="Turistas navegando en el río Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img6">
+		<img src="/img/destinos/guaviare/turismo-navegando-rio-guaviare.webp" alt="Turistas navegando en el río Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img7">
+		<img src="/img/destinos/guaviare/turistas-guaviare-vertical.webp" alt="Turistas en el Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img7">
+		<img src="/img/destinos/guaviare/turistas-guaviare.webp" alt="Turistas en el Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img8">
+		<img src="/img/destinos/guaviare/navegando-en-guaviare-mini.webp" alt="navegando en el río guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img8">
+		<img src="/img/destinos/guaviare/navegando-en-guaviare.webp" alt="navegando en el río guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img9">
+		<img src="/img/destinos/guaviare/recorriendo-cuevas-guaviare-mini.webp" alt="Recorriendo cuevas en el Guaviare" loading="lazy" />
+	</a>
+	<div class="light-box" id="img9">
+		<img src="/img/destinos/guaviare/recorriendo-cuevas-guaviare.webp" alt="Recorriendo cuevas en el Guaviare" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img10">
+		<img src="/img/destinos/guaviare/pinturas-rupestres-guaviare-mini.webp" alt="Parque arqueológico de San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img10">
+		<img src="/img/destinos/guaviare/pinturas-rupestres-guaviare.webp" alt="Parque arqueológico de San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<ul>
+  <li>✔️ <strong>Tarifa desde:</strong> $550.000 por persona</li>
+  <li>✔️ <strong>Duración:</strong> 4 días</li>
+  <li>✔️ <strong>Fecha:</strong> todos los días previa reserva</li>
+  <li>✔️ <strong>Incluye:</strong>
+    <ul>
+      <li><strong>Alojamiento:</strong> tres noches en hotel estándar en San Juan de Arama. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.</li>
+      <li><strong>Alimentación:</strong> 3 Desayunos, dos almuerzos</li>
+      <li><strong>Otros:</strong> seguro de viajes, entrada a las reservas naturales, transfer desde el hotel hasta el punto de inicio de cada actividad, snaks e hidratación durante las actividades.</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Traves%C3%ADa%20Ca%C3%B1%C3%B3n%20del%20r%C3%ADo%20Guejar">Conseguir este paquete</a></p>
+</blockquote>
+
+<h2 id="qué-actividades-incluye-este-paquete">¿Qué actividades incluye este paquete?</h2>
+
+<p><strong>Senderismo guiado</strong> hasta la Cascada de Santo domingo, <strong>baño recreativo y baño termal</strong>, <strong>caminata suave</strong> de 18 kilómetros, nivel de exigencia medio bajo. <strong>Rafting por el cañón de río Guejar</strong> nivel 2, en una actividad de aventura, baño recreativo y contemplación del paisaje, apta para niños y con una duración de 4 a 5 horas aprox.</p>
+
+<p><strong>No incluye:</strong> Transporte para llegar a San Juan de Arama en el Meta, punto de inicio y finalización del viaje. Puedes adicionar transportes privados desde Bogotá y Villavicencio. Echa un vistazo a nuestros servicios complementarios. Alimentación no estipulada en el plan ¡Dejamos que explores la gastronomía local a tu gusto! Actividades y/o visitas no estipuladas en el plan.</p>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Traves%C3%ADa%20Ca%C3%B1%C3%B3n%20del%20r%C3%ADo%20Guejar">Conseguir este paquete</a></p>
+</blockquote>
+
+<section class="parallax testimonio3">
+    <img src="/img/testimonios/alberto-sanchez-colombia-viajera.webp" alt="" />
+    <q>Los guías fueron de gran ayuda. El personal, las instalaciones de los hospedajes, todo muy bien. Felicitaciones - JOSE SÁNCHEZ</q>
+</section>
+
+<h2 id="cómo-llegar-a-a-san-juan-de-arama-en-el-meta">¿Cómo llegar a a San Juan de Arama en el Meta?</h2>
+
+<p>¡Consulta nuestro post! (<strong>PENDIENTE</strong>)</p>
+:ET

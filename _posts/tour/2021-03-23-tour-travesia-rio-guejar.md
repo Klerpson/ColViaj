@@ -2,7 +2,7 @@
 layout: articulo
 title: Travesía Cañón del río Guejar
 description: Un plan para explorar una de las maravillas naturales del Meta, el majestuoso cañón del río Güejar
-categories: Cultura
+categories: Naturaleza
 img: img/destinos/guaviare/rio-canon-guejar.webp
 alt: Río del San José del Guaviare
 autor: Colombia Viajera
@@ -14,6 +14,9 @@ excerpt_separator: <!-- excerpt -->
 Un plan para explorar una de las maravillas naturales del Meta, el majestuoso cañón del río Güejar viviendo la adrenalina en la práctica del Rafting, disfrutando la conexión natural en medio del cañón y sus imponentes formaciones rocosas, conociendo historias de turismo y paz mientras recorres el camino para llegar hasta imponentes cascadas en bocas del Sansa en las estribaciones de la Serranía de La Macarena.
 
 <!-- excerpt -->
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="travesia-guejar" %}
 
 * ✔️ **Tarifa desde:** $550.000 por persona
 * ✔️ **Duración:** 4 días

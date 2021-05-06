@@ -19,6 +19,9 @@ Disfruta de las piscinas naturales y un trekking en la reserva Fin del Mundo, do
 
 Deslúmbrate con la belleza de las formaciones rocosas del Cañón del río Mandiyaco y desconéctate de la modernidad en una cabaña dentro de la reserva natural.
 
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+{% include galeria.html destino="putumayo" %}
+
 * ✔️ **Tarifa desde:** $495.000 por persona
 * ✔️ **Duración:** 3 días
 * ✔️ **Fecha:** todos los días previa reserva
