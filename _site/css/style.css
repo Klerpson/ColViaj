@@ -112,7 +112,7 @@ header {
 
 /**** Logo ****/
 .logo img {
-  height: 2.5em;
+  height: 3em;
   margin: 0;
   box-sizing: border-box;
   float: left;
@@ -121,7 +121,7 @@ header {
 
 @media (min-width: 800px) {
   .logo img {
-    height: 3em;
+    height: 3.5em;
     padding: 10px 20px;
 
   }
